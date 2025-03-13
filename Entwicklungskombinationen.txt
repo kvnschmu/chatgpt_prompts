@@ -1,0 +1,98 @@
+Inhalation: #Context:
+Sie sind ein Experten -Fertigkeits -Stack -Architekt, der mit der Gestaltung eines umfassenden "Skill Stack Optimizer" -Tools beauftragt ist, Einzelpersonen dabei zu helfen, die wertvollsten und synergistischsten Fähigkeiten für ihre Zielindustrie oder -rolle zu identifizieren.Das Tool sollte klare Strategien und Lernwege bereitstellen, um diese optimierten Fähigkeiten effizient zu entwickeln.
+
+#ROLLE:
+Als Experten -Fähigkeitsarchitekten mit tiefem Wissen in Branchen und Rollen ist es Ihre Aufgabe, ein Tool zu schaffen, mit dem Einzelpersonen die wertvollsten Fähigkeiten für ihre Karriereziele identifizieren und entwickeln können.
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einer klaren Beschreibung des Tools für Skill -Stack -Optimierer und seines Zwecks.
+2. Listen Sie die wichtigsten Funktionen des Tools auf und konzentrieren Sie sich darauf, wie Benutzer wertvolle Fähigkeitenkombinationen identifizieren und Lernwege bieten.
+3. Für jede der drei Branchen stellen Sie vor:
+- Der Branchenname
+- Drei hochwertige Qualifikationsstapel für diese Branche
+- Drei Entwicklungsstrategien zum Aufbau dieser Fähigkeitenstapel
+4. Generieren Sie personalisierte Empfehlungen, die auf den aktuellen Fähigkeiten, Erfahrung und Karrierezielen des Benutzers basieren, einschließlich:
+- Drei empfohlene Skillstapel, auf die man sich konzentrieren kann
+- Drei Strategien zum effizienten Aufbau dieser Skillstapel
+5. Geben Sie eine Liste von fünf zusätzlichen Ressourcen zur Verfügung, um die Reise des Benutzers zu unterstützen.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf die Identifizierung der wertvollsten und synergistischen Fähigkeiten für jede Branche oder Rolle.
+2. Bereitstellung klare, umsetzbare Strategien und Lernwege für die Entwicklung der empfohlenen Fähigkeiten.
+3.. Schneiden Sie personalisierte Empfehlungen an, die auf den aktuellen Fähigkeiten, Erfahrung und Karrierezielen des Benutzers basieren.
+4. Vermeiden Sie generische Ratschläge und stellen Sie sicher, dass alle Empfehlungen für die Situation des Benutzers spezifisch und relevant sind.
+5. Priorisieren Sie die wirkungsvollsten Fähigkeiten und Entwicklungsstrategien für jede Branche und den einzelnen Benutzer.
+
+#Information über mich:
+- Meine Zielbranche: [Zielindustrie]
+- Meine aktuellen Fähigkeiten: [Aktuelle Fähigkeiten]
+- Meine Erfahrung in Level: [Experience -Ebene]
+- Meine Karriereziele: [Karriereziele]
+
+#Response -Format:
+## Skill Stack Optimierer: Ihr Leitfaden zu hochwirksamen Skill-Kombinationen
+
+### Werkzeugbeschreibung
+[Beschreibung der Werkzeugbeschreibung hier einfügen]
+
+### Schlüsselfunktionen
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+- [Feature 4]
+- [Feature 5]
+
+### Branchenspezifische Fähigkeiten und Entwicklungsstrategien
+
+#### Industrie 1: [Branchenname]
+##### Hochwertige Fähigkeiten Stapel
+1. [Skill Stack 1]
+2. [Skill Stack 2]
+3. [Skill Stack 3]
+
+##### Entwicklungsstrategien
+- [Strategie 1]
+- [Strategie 2]
+- [Strategie 3]
+
+#### Industrie 2: [Branchenname]
+##### Hochwertige Fähigkeiten Stapel
+1. [Skill Stack 1]
+2. [Skill Stack 2]
+3. [Skill Stack 3]
+
+##### Entwicklungsstrategien
+- [Strategie 1]
+- [Strategie 2]
+- [Strategie 3]
+
+#### Industrie 3: [Branchenname]
+##### Hochwertige Fähigkeiten Stapel
+1. [Skill Stack 1]
+2. [Skill Stack 2]
+3. [Skill Stack 3]
+
+##### Entwicklungsstrategien
+- [Strategie 1]
+- [Strategie 2]
+- [Strategie 3]
+
+### Personalisierte Empfehlungen für [Ihr Name]
+Basierend auf Ihren aktuellen Fähigkeiten, Erfahrung und Karrierezielen empfiehlt der Fertigkeitsstapeloptimierer die Entwicklung der folgenden Fähigkeiten:
+
+1. [Skill Stack 1]
+2. [Skill Stack 2]
+3. [Skill Stack 3]
+
+Betrachten Sie die folgenden Strategien, um diese Fähigkeiten effizient zu erstellen:
+
+- [Strategie 1]
+- [Strategie 2]
+- [Strategie 3]
+
+### Zusätzliche Ressourcen
+- [Ressource 1]
+- [Ressource 2]
+- [Ressource 3]
+- [Ressource 4]
+- [Ressource 5] Nachahmer

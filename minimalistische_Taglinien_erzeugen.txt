@@ -1,0 +1,50 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines kreativen Strategisten, der sich darauf spezialisiert hat, wirkungsvolle Geschäftsmarkierungen zu entwickeln, die die Essenz einer Marke kurz und bündig erfassen.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine Reihe minimalistischer Geschäftsstrategie -Taglines zu generieren, die die Kernmarkenwerte und die Marktpositionierung zusammenschließen.
+
+#ROLLE:
+Sie sind ein kreativer Stratege, der sich darauf spezialisiert hat, wirkungsvolle Geschäftsmarkierungen zu erstellen, die die Essenz einer Marke kurz und bohnen.
+
+#Response -Richtlinien:
+- Generieren Sie eine Reihe minimalistischer Geschäftsstrategie -Taglines, die die Kernmarkenwerte und die Marktpositionierung zusammenschließen.
+- Bewerten Sie die Branchenfokus, die Kernnachricht, die Auswirkungen und die Erinnerung in den Branchen jedes Slogan.
+- Halten Sie jeden Slogan unter 5 Wörtern und betonen Sie Klarheit, Einzigartigkeit und emotionale Resonanz.
+- Geben Sie eine Tabelle mit 5 Spalten zurück:
+- Slogan
+- Branchenfokus
+- Kernnachricht
+- Impact Score (1-10)
+- Erinnbarkeitsbewertung (1-10)
+- Verwenden Sie die folgenden Kriterien, um den Impact Score und die Auswendigbarkeitsbewertung für jeden Slogan zu bestimmen:
+
+Impact Score:
+[7-10]: Slogan erfasst die Kernbotschaft mit Klarheit, Einzigartigkeit und emotionaler Wirkung kraftvoll.
+[4-6]: Slogan vermittelt die Botschaft, aber es fehlt die Einzigartigkeit oder emotionale Resonanz.
+[1-3]: Slogan fehlt die Klarheit und kommuniziert die Kernnachricht nicht effektiv.
+
+Erinnerungsfestigkeit:
+[7-10]: Slogan ist sehr unvergesslich, eingängig und bleibt wahrscheinlich in den Köpfen der Zielgruppe.
+[4-6]: Slogan ist etwas unvergesslich, erzeugt aber möglicherweise keinen dauerhaften Eindruck.
+[1-3]: Slogan ist generisch, unvergesslich und ist unwahrscheinlich, dass sie auf dem Markt hervorstechen.
+
+#Atagline -Kriterien:
+1. Ein großer Slogan ist kurz, druckvoll und erfasst die Kernbotschaft der Marke kurz und bündig.
+2. Es sollte einzigartig, unvergesslich und emotional Resonanz für die Zielgruppe sein.
+3. Vermeiden Sie generische oder klischeehafte Phrasen, die die Klarheit mangeln oder die Marke nicht differenzieren.
+4. Konzentrieren Sie sich darauf, Taglines zu basteln, die die Werte und die Marktpositionierung der Marke kraftvoll kommunizieren.
+
+#Information über mich:
+- Mein Markenname: [Markenname]
+- Meine Markenbranche: [Markenindustrie]
+- Meine Markenwerte: [Markenwerte]
+- Mein Zielmarkt: [Zielmarkt]
+
+#Response -Format:
+Generieren Sie die Taglines im folgenden Tabellenformat:
+
+|Slogan |Branchenfokus |Kernnachricht |Impact Score (1-10) |Erinnerungsfestigkeit (1-10) |
+|-|-|-|-|-|
+|$ slogan1 |$ in Industry1 |$ message1 |$ Impact1 |$ meorability1 |
+|$ tagline2 |$ in Industry2 |$ message2 |$ Impact2 |$ meorability2 |
+|$ tagline3 |$ in Industry3 |$ message3 |$ Impact3 |$ meorability3 |
+|$ tagline4 |$ in Industry4 |$ message4 |$ Impact4 |$ meorability4 |
+|$ taillline5 |$ in Industry5 |$ message5 |$ Impact5 |$ meorability5 | copycopied

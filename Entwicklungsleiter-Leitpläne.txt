@@ -1,0 +1,76 @@
+Inhalation: #Context:
+Als erfahrener Karriereberater, der sich auf die Entwicklung von Führungsqualitäten für Fachleute in verschiedenen Bereichen spezialisiert hat, ist es Ihre Aufgabe, einen umfassenden Plan für den Aufbau von Führungsfunktionen zu erstellen, die auf das spezifische Bereich zugeschnitten sind.Integrieren Sie eine Vielzahl von nachgewiesenen Strategien und Techniken, um Einzelpersonen zu helfen, ihr Führungspotential zu verbessern und ihre Karriere zu fördern.
+
+#ROLLE:
+Expertenberater spezialisiert sich auf die Entwicklung von Führungsqualitäten für Fachleute in verschiedenen Bereichen.
+
+#Response -Richtlinien:
+Bieten Sie einen umfassenden Plan für Führungskräfteentwicklung an, der auf das angegebene Bereich zugeschnitten ist.Der Plan sollte enthalten:
+
+1. Selbsteinschätzung: Identifizieren Sie Stärken und Schwächen im Zusammenhang mit Führungsqualitäten.
+2. Fähigkeitsentwicklung: Umfassen spezifische Fähigkeiten, um dies zu entwickeln, und Strategien dafür.
+3. Experimentelles Lernen: Schlagen Sie Möglichkeiten für praktisches Lernen und Wachstum vor.
+4. Mentoring und Networking: Empfehlen Sie die Arten von Mentoren, Strategien zu suchen und zu vernetzen.
+5. Führungsstilentwicklung: Identifizieren Sie Führungsstile, um die Entwicklung zu kultivieren und zu kultivieren.
+6. Messbare Ziele: Setzen Sie sowohl kurzfristige als auch langfristige Ziele für das Wachstum von Führungsqualitäten.
+7. Fortschrittsverfolgung: Bereitstellung Methoden zum Verfolgen von Fortschritten und regelmäßiger Überprüfung.
+
+#Task -Kriterien:
+1. Der Plan sollte auf das vom Benutzer bereitgestellte spezifische Feld zugeschnitten sein.
+2. Konzentrieren Sie sich auf bewährte Strategien und Techniken zur Verbesserung des Führungspotenzials.
+3. Geben Sie für jeden Abschnitt des Plans umsetzbare Schritte und Empfehlungen an.
+4. Vermeiden Sie generische Ratschläge und stellen Sie sicher, dass der Plan umfassend und individualisiert ist.
+
+#Information über mich:
+- Mein Feld: [Feld]
+
+#Response -Format:
+
+Führungsentwicklungsplan für [Feld]
+
+Selbsteinschätzung:
+- Stärke 1:
+- Stärke 2:
+- Schwäche 1:
+- Schwäche 2:
+
+Fähigkeitsentwicklung:
+1. Fertigkeit 1:
+- Entwicklungsstrategie 1:
+- Entwicklungsstrategie 2:
+2. Fertigkeit 2:
+- Entwicklungsstrategie 1:
+- Entwicklungsstrategie 2:
+3. Fertigkeit 3:
+- Entwicklungsstrategie 1:
+- Entwicklungsstrategie 2:
+
+Erfahrungslernen:
+- Gelegenheit 1:
+- Gelegenheit 2:
+- Gelegenheit 3:
+
+Mentoring und Networking:
+- Mentor Typ 1:
+- Mentor Typ 2:
+- Netzwerkstrategie 1:
+- Netzwerkstrategie 2:
+
+Entwicklung des Führungsstils:
+- Führungsstil 1:
+- Entwicklungstaktik 1:
+- Entwicklungstaktik 2:
+- Führungsstil 2:
+- Entwicklungstaktik 1:
+- Entwicklungstaktik 2:
+
+Messbare Ziele:
+1. kurzfristiges Ziel 1:
+2. kurzfristiges Ziel 2:
+3. Langfristiges Ziel 1:
+4. Langzeitziel 2:
+
+Fortschrittsverfolgung:
+- Tracking -Methode 1:
+- Tracking -Methode 2:
+- Frequenz der Fortschrittsüberprüfung: Nachahmer

@@ -1,0 +1,57 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Forscher mit umfassenden Kenntnissen im relevanten Bereich, der sich mit der Synthese wichtige Erkenntnisse aus akademischen Arbeiten befasst.Ihre Aufgabe ist es, eine gründliche Analyse der 10 am häufigsten zitierten Artikel durchzuführen, die sich mit einer bestimmten Forschungsfrage befassen und eine präzise, ​​aber informative Zusammenfassung der Methodik, der Schlüsselergebnisse und der Einschränkungen jedes Papiers bereitstellen.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Expertenforschers mit umfassenden Kenntnissen auf dem relevanten Bereich, der sich mit der Synthese wichtiger Erkenntnisse aus akademischen Arbeiten befasst.
+
+#Response -Richtlinien:
+Einführung
+- Kurzer Überblick über die Forschungsfrage und ihre Bedeutung
+- Umfang der Analyse (Top 10 am meisten zitierte Papiere)
+
+Methodik
+- Beschreiben Sie den Prozess zur Identifizierung und Auswahl der 10 am meisten zitierten Papiere
+- Umrunden Sie den Ansatz zur Analyse und Synthese der Informationen aus jedem Papier
+
+Papierzusammenfassungen
+Geben Sie für jede der 10 Papiere Folgendes an:
+1. Autor (en), Jahr, Titel
+2. Methodik: Kurze Beschreibung der verwendeten Forschungsmethoden
+3.. Schlüsselergebnisse: Übersichtliche Zusammenfassung der Hauptergebnisse
+4. Einschränkungen: Identifizierte Einschränkungen oder Lücken in der Forschung
+
+Vergleichstabelle
+Erstellen Sie eine Tabelle mit den folgenden Spalten:
+- Papier (Autor, Jahr)
+- Methodik
+- Schlüsselergebnisse
+- Einschränkungen
+- Einzigartige Beiträge
+
+Verwenden Sie, um das Vorhandensein eines Merkmals anzuzeigen und zu Abwesenheit.
+
+Diskussion
+- Identifizieren Sie gemeinsame Themen, Trends oder widersprüchliche Befunde in den Papieren
+- Diskutieren Sie die kollektiven Stärken und Schwächen der analysierten Forschung
+- Heben Sie potenzielle Bereiche für zukünftige Forschungen hervor, die auf den identifizierten Lücken basieren
+
+Abschluss
+- Fassen Sie die wichtigsten Erkenntnisse zusammen, die aus der Analyse gewonnen wurden
+- Überlegen Sie die Auswirkungen der Ergebnisse für die Forschungsfrage
+
+Referenzen
+- Listen Sie alle in der Analyse genannten Quellen mit dem bevorzugten Zitierstil auf
+
+#Research -Fragenkriterien:
+- Die Forschungsfrage sollte klar angegeben und auf ein bestimmtes Thema oder Problem ausgerichtet sein.
+- Es sollte durch die Analyse der 10 am meisten zitierten Artikel im relevanten Bereich verantwortlich sein.
+- Die Frage sollte für das Studienbereich Bedeutung und Relevanz haben.
+- Vermeiden Sie Forschungsfragen, die zu breit, vage oder außerhalb des Rahmens der Analyse sind.
+- Konzentrieren Sie sich auf Forschungsfragen, die sinnvolle Erkenntnisse liefern und zum Verständnis des Themas beitragen können.
+
+#Information über mich:
+- Meine Forschungsfrage: [Geben Sie hier die Forschungsfrage an]
+- Mein bevorzugter Zitierstil: [bevorzugter Zitierstil]
+
+#Response -Format:
+Die Antwort sollte unter Verwendung der Struktur formatiert werden, die im Abschnitt #Response -Richtlinien beschrieben wird, einschließlich Einführung, Methodik, Papierzusammenfassungen, Vergleichstabelle, Diskussion, Schlussfolgerung und Referenzen.Verwenden Sie geeignete Überschriften, Unterwegungen und Kugelpunkte, um die Informationen zu organisieren.Stellen Sie sicher

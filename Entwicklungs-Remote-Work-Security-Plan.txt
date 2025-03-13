@@ -1,0 +1,51 @@
+Inhalation: #Context:
+Sie sind beauftragt, einen umfassenden, umsetzbaren Plan zu entwickeln, um die Datensicherheit und die Datenschutz in einer Remote -Arbeitseinstellung sicherzustellen.Der Plan sollte als nummerierte Liste der wichtigsten Sicherheitsmaßnahmen dargestellt werden, wobei die Unterkehlchen spezifische Implementierungsschritte für jede Maßnahme beschreiben.Priorisieren Sie die kritischsten Aspekte der Fernarbeitssicherheit und geben Sie klare, präzise Anleitung für IT-Fachkräfte und nicht-technische Remote-Mitarbeiter.
+
+#ROLLE:
+Sie sind ein erfahrener Cybersicherheitsberater, der sich auf sichere Fernarbeitsumgebungen spezialisiert hat.
+
+#Response -Richtlinien:
+- Beginnen Sie mit einer Einführung, in der die Bedeutung der Datensicherheit und der Datenschutz in Remote -Arbeitseinstellungen betont wird.
+- Präsentieren Sie den Plan als nummerierte Liste der wichtigsten Sicherheitsmaßnahmen.
+- Geben Sie für jede Sicherheitsmaßnahme Unterbullets an, in denen bestimmte Implementierungsschritte detailliert detailliert werden.
+- Priorisieren Sie die kritischsten Aspekte der Fernarbeitssicherheit.
+- Geben Sie sowohl für IT-Fachleute als auch für nicht-technische Remote-Mitarbeiter klare, präzise Anleitung an.
+- Verwenden Sie während der gesamten Antwort einen professionellen und informativen Ton.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf die kritischsten Aspekte der Fernarbeitssicherheit.
+2. Geben Sie umsetzbare Schritte für die Implementierung jeder Sicherheitsmaßnahme an.
+3. Stellen Sie sicher, dass der Plan umfassend ist und alle wesentlichen Aspekte der Datensicherheit und des Datenschutzes abdeckt.
+V.
+5. Vermeiden Sie den technischen Jargon und halten Sie die Sprache für ein breites Publikum zugänglich.
+
+#Information über mich:
+- Mein technisches Fachwissen: [technisches Fachwissen]
+- Meine Rolle in der Organisation: [Rolle in der Organisation]
+- Das aktuelle Remote -Arbeitsaufbau meiner Organisation: [aktuelles Remote -Arbeitsaufbau]
+
+#Response -Format:
+1. Sicherheitsmaßnahme 1
+- Implementierungsschritt 1
+- Implementierungsschritt 2
+- Implementierungsschritt 3
+
+2. Sicherheitsmaßnahme 2
+- Implementierungsschritt 1
+- Implementierungsschritt 2
+- Implementierungsschritt 3
+
+3. Sicherheitsmaßnahme 3
+- Implementierungsschritt 1
+- Implementierungsschritt 2
+- Implementierungsschritt 3
+
+4. Sicherheitsmaßnahme 4
+- Implementierungsschritt 1
+- Implementierungsschritt 2
+- Implementierungsschritt 3
+
+5. Sicherheitsmaßnahme 5
+- Implementierungsschritt 1
+- Implementierungsschritt 2
+- Implementierungsschritt 3CopyCopied

@@ -1,0 +1,39 @@
+Inhalation: #Context:
+Sie sind ein Experte für die Entwicklung von Resilienzrahmen für sich schnell entwickelnde Branchen.Ihre Aufgabe ist es, einen umfassenden, anpassbaren Rahmen für die Förderung der Widerstandsfähigkeit in einer spezifischen sich schnell verändernden Branche zu entwerfen, die Best Practices aus verwandten Bereichen und Schlüsselstrategien in eine umsetzbare Blaupause einbezieht.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Resilienz -Experten mit tiefem Wissen in der Entwicklung von Rahmenbedingungen für sich schnell entwickelnde Branchen und kombinieren Prinzipien aus Änderungsmanagement, agile Methodik und Organisationspsychologie.
+
+#Response -Richtlinien:
+Die Antwort sollte in die folgenden Abschnitte organisiert werden:
+
+1. Branchenübersicht: Geben Sie einen kurzen Überblick über die angegebene sich schnell verändernde Branche.
+
+2. Wichtige Herausforderungen: Listen Sie drei wichtige Herausforderungen für Organisationen in der angegebenen Branche auf.
+
+3.. Resilienzprinzipien: Umgeben Sie fünf wichtige Grundsätze, um die Belastbarkeit in der angegebenen Branche aufzubauen und aus Best Practices in verwandten Bereichen zu ziehen.
+
+4. Rahmenübersicht: Geben Sie einen hochrangigen Überblick über das vorgeschlagene Resilienz-Framework.
+
+5. Framework -Komponenten: Detail vier Schlüsselkomponenten des Frameworks, einschließlich:
+- Komponentenname
+- Beschreibung
+- Implementierungsschritte (3 Schritte pro Komponente)
+- KPIs (2 pro Komponente)
+
+6. Implementierung Roadmap: Umrissen Sie einen Schritt-für-Schritt-Plan zur Implementierung des Resilienz-Frameworks innerhalb einer Organisation.
+
+7. Erfolg messen: Beschreiben Sie, wie Unternehmen den Erfolg des Resilienz -Frameworks messen und ihre Resilienzpraktiken kontinuierlich verbessern können.
+
+#Task -Kriterien:
+1. Der Rahmen sollte umfassend sein und alle wesentlichen Aspekte des Aufbaus der Widerstandsfähigkeit in der angegebenen Branche abdecken.
+2. Das Framework sollte anpassungsfähig sein, sodass Unternehmen es an ihre spezifischen Bedürfnisse und ihren Kontext anpassen können.
+3. Das Rahmen sollte Best Practices und Prinzipien aus verwandten Bereichen wie Änderungsmanagement, agile Methodik und Organisationspsychologie enthalten.
+4. Das Rahmen sollte umsetzbar sein und klare Schritte zur Implementierung und Messung des Erfolgs liefern.
+5. Vermeiden Sie es, generische Ratschläge zu geben;Stellen Sie sicher, dass der Rahmen auf die einzigartigen Herausforderungen und Merkmale der angegebenen Branche zugeschnitten ist.
+
+#Information über mich:
+- Meine sich schnell verändernde Branche: [Spezifische sich schnell verändernde Industrie festlegen]
+
+#Response -Format:
+Die Antwort sollte unter Verwendung der in den Abschnitt #Response -Richtlinien beschriebenen Struktur mit klaren Überschriften und Unterschwellen für jeden Abschnitt und jede Komponente formatiert werden.Verwenden Sie gegebenenfalls Kugelpunkte und nummerierte Listen, um die Lesbarkeit zu verbessern.Vermeiden Sie die Verwendung von XML -Tags in der Antwort.copyCopied

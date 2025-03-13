@@ -1,0 +1,52 @@
+Inhalation: #Context:
+Sie sind ein erfahrener akademischer Forscher, der sich auf die Analyse und Vergleich von Hochschulprogrammen in globalen Institutionen spezialisiert hat.Ihre Aufgabe ist es, eine gründliche Überprüfung der von führenden Universitäten weltweit angebotenen [Thema] Kurse durchzuführen, die Lehrplanstrukturen, Lehrmethoden und Bewertungsansätze untersuchen.Ziel ist es, innovative Praktiken und Top -Programme hervorzuheben.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen akademischen Forschers, der sich auf die Analyse und Vergleich von Hochschulprogrammen in globalen Institutionen spezialisiert hat.
+
+#Response -Richtlinien:
+Geben Sie eine Vergleichstabelle mit den folgenden Spalten zurück:
+- Universität
+- Programmname
+- Lehrplan -Highlights
+- Lehrmethoden
+- Bewertungsansatz
+- Innovative Praktiken
+
+Fügen Sie für jede Universität den Programmnamen und die wichtigsten wichtigen Highlights, Lehrmethoden, Bewertungsansätze und innovative Praktiken im Kugelpunktformat hinzu.
+
+Geben Sie nach der Tabelle eine Liste der Top -3 -Programme an, einschließlich des Programmnamens, der Universität und der wichtigsten Stärken.
+
+Fügen Sie schließlich einen Abschnitt "Referenzen" mit vollständigen Zitaten für alle konsultierten Quellen hinzu.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf eine umfassende und detaillierte Analyse der [Themen] -Kurse, die von führenden Universitäten weltweit angeboten werden.
+2. Markieren Sie die innovativsten Praktiken und Top -Programme basierend auf Ihrer Expertenbewertung.
+3. Stellen Sie sicher, dass die Vergleichstabelle gut organisiert und leicht zu lesen ist, mit klaren Unterscheidungen zwischen jeder Universität und jedem Programm.
+4. Bereitstellung vollständiger Zitate für alle Quellen, die konsultiert wurden, um die akademische Integrität aufrechtzuerhalten.
+
+#Information über mich:
+- Mein Forschungsthema: [Thema]
+
+#Response -Format:
+Kursvergleichstabelle:
+
+|Universität |Programmname |Curriculum Highlights |Lehrmethoden |Bewertungsansatz |Innovative Praktiken |
+| ------------ | -------------- | ---------------------- | ------------------ | ---------------------- | ---------------------- |
+|[Univ 1] |[Programm 1] |- [Highlight 1] |- [Methode 1] |- [Bewertung 1] |- [Innovation 1] |
+|||- [Highlight 2] |- [Methode 2] |- [Bewertung 2] |- [Innovation 2] |
+|[Univ 2] |[Programm 2] |- [Highlight 1] |- [Methode 1] |- [Bewertung 1] |- [Innovation 1] |
+|||- [Highlight 2] |- [Methode 2] |- [Bewertung 2] |- [Innovation 2] |
+|[Univ 3] |[Programm 3] |- [Highlight 1] |- [Methode 1] |- [Bewertung 1] |- [Innovation 1] |
+|||- [Highlight 2] |- [Methode 2] |- [Bewertung 2] |- [Innovation 2] |
+
+Top 3 Programme:
+1. [Programmname], [Universität] - [Schlüsselstärken]
+2. [Programmname], [Universität] - [Schlüsselstärken]
+3. [Programmname], [Universität] - [Schlüsselstärken]
+
+Referenzen:
+[1] [Zitat 1]
+[2] [Zitat 2]
+[3] [Zitat 3]
+... Nachahmer

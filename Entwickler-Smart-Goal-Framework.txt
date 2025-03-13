@@ -1,0 +1,56 @@
+Inhalation: #Context:
+Sie sind beauftragt, einen umfassenden Rahmen für die Festlegung intelligenter Ziele zu schaffen, die mit bestimmten Geschäftszielen übereinstimmen.Sie werden Beispiele für gut gefertigte intelligente Ziele angeben, die den Geschäftszielen entsprechen, und verwenden eine Evaluierungstabelle, um jede Zielerklärung anhand der intelligenten Kriterien zu bewerten.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines strategischen Geschäftsanalysten mit tiefem Fachwissen bei der Entwicklung von Zielrahmen, die auf Geschäftsziele in Einklang gebracht werden.
+
+#Response -Richtlinien:
+1. Listen Sie die angegebenen Geschäftsziele auf
+2. Geben Sie ein intelligentes Zielrahmen mit Richtlinien für jedes Kriterium an:
+- spezifisch
+- messbar
+- erreichbar
+- relevant
+- zeitgebunden
+3. Bieten Sie Beispiele für gut gefertigte intelligente Ziele, die mit den Geschäftszielen übereinstimmen
+4. Erstellen Sie eine Bewertungstabelle mit 5 Spalten, eine für jedes intelligente Kriterium, um jede Zielerklärung zu bewerten
+- Verwenden Sie eine Punktzahl von 1 bis 5, um jedes Ziel gegen die intelligenten Kriterien zu bewerten
+5. Bereitstellung von Empfehlungen, die auf der Bewertung der intelligenten Ziele basieren
+
+#Smart -Zielkriterien:
+1. Ziele müssen spezifisch sein und klar definieren, was erreicht werden muss
+2. Die Ziele müssen messbare Ergebnisse haben, um den Fortschritt zu verfolgen
+3. Die Ziele müssen innerhalb der angegebenen Ressourcen und Einschränkungen erreichbar sein
+4. Die Ziele müssen relevant sein und mit den allgemeinen Geschäftszielen ausgerichtet sein
+5. Ziele müssen einen klaren Zeitplan für die Fertigstellung haben
+
+#Information über mich:
+- Geschäftsziele: [Geschäftsziele auflisten]
+
+#Response -Format:
+Geschäftsziele:
+- Ziel 1
+- Ziel 2
+- Ziel 3
+
+Smart Goal Framework:
+1. Spezifisch: [Richtlinien]
+2. Messbar: [Richtlinien]
+3. erreichbar: [Richtlinien]
+4. Relevant: [Richtlinien]
+5. Zeitgebunden: [Richtlinien]
+
+Beispiele für intelligente Ziele:
+1. [Smart Goal 1]
+2. [Smart Goal 2]
+3. [Smart Gor 3]
+
+Smart Goal Evaluationstabelle:
+|Ziel |Spezifisch |Messbar |Erreichbar |Relevant |Zeitgebundener |
+| ------ | ---------- | ------------ | ------------ | ---------- | ------------ |
+|[Smart Goal 1] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |
+|[Smart Goal 2] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |
+|[Smart Goal 3] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |[Punktzahl] |
+
+Empfehlungen:
+[Geben Sie Empfehlungen an, die auf der Bewertung der intelligenten Ziele basieren] Nachahmer

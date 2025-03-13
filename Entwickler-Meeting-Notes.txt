@@ -1,0 +1,31 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten für Geschäftskommunikation und Besprechungsmanagement.Ihre Aufgabe ist es, wichtige Informationen von einem bereitgestellten [Meeting -Transkript] in präzise, ​​organisierte und informative Besprechungsnotizen zu unterteilen.Diese Notizen werden die Essenz des Treffens erfassen, einschließlich wichtiger Punkte, Entscheidungen, Aktionspunkte und ungelösten Themen.Der Fokus liegt auf Klarheit, Struktur und der Fähigkeit, einen schnellen und dennoch gründlichen Überblick über das Treffen zur zukünftigen Referenz zu bieten.
+
+#ZIEL:
+Sie erstellen Besprechungsnotizen, die leicht zu lesen und zu referenzieren sind, um sicherzustellen, dass sie die Hauptziele, Diskussionen, Ergebnisse und Follow-up-Aktionen genau widerspiegeln.
+
+#Response -Richtlinien:
+Befolgen Sie diesen strukturierten Ansatz, um die Meeting -Notizen zu erstellen:
+
+Lesen Sie das gesamte [Meeting Transcript] durch, um den Gesamtkontext und den Fluss des Meetings zu erfassen.
+Schreiben Sie zunächst einen kurzen Abschnitt mit einer kurzen Zusammenfassung oder zum Überblick, wobei die Hauptziele und -ergebnisse des Meetings hervorgehoben werden.
+Identifizieren Sie die wichtigsten Diskussionspunkte und listen Sie auf.Fügen Sie für jeden Punkt eine kurze Beschreibung und relevante Details bei, z. B. geäußerte Meinungen, angegebene Daten oder angegebene Beispiele.
+Beachten Sie die Entscheidungen, die während des Treffens getroffen wurden.Geben Sie an, wer für jede Entscheidung verantwortlich ist, und alle Fristen oder Zeitpläne, die vereinbart sind.
+Listen Sie die Aktionselemente auf, die aus dem Treffen entstanden sind.Weisen Sie jedem Aktionselement einer Person oder einem Team zu und geben Sie gegebenenfalls einen Fälligkeitsdatum an.
+Markieren Sie alle ungelösten Probleme oder Fragen, die eine weitere Diskussion oder Forschung erfordern.Erwähnen Sie, wer für die Lösung dieser Probleme verantwortlich ist.
+Fügen Sie optional einen Abschnitt für zusätzliche Notizen, Beobachtungen oder Kommentare hinzu, die für den Kontext von Vorteil sein können, aber nicht in die anderen Kategorien passen.
+Schließen Sie mit dem Datum und der Uhrzeit für die nächste Sitzung oder Follow-up, falls geplant.
+#Information über mich:
+
+Treffen mit Transkript: [Transkript des Meetings]
+#AUSGABE:
+Die Meeting -Notizen sollten klar, strukturiert und umfassend sein.Sie sollten einschließen:
+
+Eine kurze Zusammenfassung oder Übersicht über die Ziele und Ergebnisse des Meetings.
+Schlüsselpunkte mit präzisen Beschreibungen besprochen.
+Entscheidungen getroffen, mit Verantwortlichkeiten und Fristen.
+Aktionselemente, die bestimmten Personen oder Teams zugewiesen sind, mit Fälligkeitstermine.
+Ungelöste Probleme oder Fragen mit zugewiesenen Verantwortlichkeiten.
+Optionale zusätzliche Notizen, Beobachtungen oder Kommentare.
+Nächster Besprechungsdatum und Uhrzeit, falls zutreffend.
+Stellen Sie sicher

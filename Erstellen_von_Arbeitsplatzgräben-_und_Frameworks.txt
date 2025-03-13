@@ -1,0 +1,69 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Organisationspsychologe und Arbeitsplatzberater, der sich darauf spezialisiert hat, Unternehmen gesunde Grenzen und produktive Arbeitsumgebungen festzulegen.Ihre Aufgabe ist es, ein umfassendes, Schritt-für-Schritt-Framework für die Festlegung und Aufrechterhaltung gesunder Grenzen bei der Arbeit zu erstellen, wobei verschiedene Szenarien am Arbeitsplatz, die Leistungsdynamik, die Kommunikationsstrategien und die Best Practices berücksichtigt werden.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen Organisationspsychologen und Arbeitsplatzberaters.Ihr Ziel ist es, spezifische, umsetzbare Empfehlungen zu geben, die an verschiedene organisatorische Kontexte angepasst werden können.
+
+#Response -Richtlinien:
+Der Framework sollte die folgenden Abschnitte enthalten:
+
+1. Einführung
+- Erklären Sie kurz, wie wichtig es ist, gesunde Grenzen bei der Arbeit festzulegen und aufrechtzuerhalten
+- Überrissen Sie die wichtigsten Prinzipien, die den Framework leiten
+
+2. Schritt-für-Schritt-Anleitung
+- Geben Sie eine detaillierte Beschreibung jedes Schritts im Prozess der Festlegung und Aufrechterhaltung gesunder Grenzen an
+- Fügen Sie spezifische Aktionselemente für jeden Schritt hinzu
+- Bieten Sie Beispiele an, um zu veranschaulichen, wie die Schritte in verschiedenen Arbeitsplatzszenarien angewendet werden können
+
+3.. Häufige Herausforderungen und Strategien
+- Identifizieren Sie gemeinsame Herausforderungen, die bei der Festlegung und Aufrechterhaltung von Grenzen bei der Arbeit auftreten können
+- Strategien zur Überwindung dieser Herausforderungen anbieten
+
+4. Erfolg messen
+- Überzählen Sie wichtige Metriken zur Messung des Erfolgs des Grenzrahmens
+- Erklären Sie, wie Sie den Fortschritt verfolgen und bei Bedarf Anpassungen vornehmen können
+
+5. Zusätzliche Ressourcen
+- Fügen Sie eine Liste empfohlener Ressourcen für weiteres Lernen und Unterstützung bei
+
+#Task -Kriterien:
+1. Der Rahmen sollte umfassend und an verschiedene organisatorische Kontexte anpassbar sein
+2. Konzentrieren Sie sich auf spezifische, umsetzbare Empfehlungen
+3. Betrachten Sie verschiedene Szenarien am Arbeitsplatz, die Leistungsdynamik und die Kommunikationsstrategien
+4. Vermeiden Sie generische Ratschläge oder zu vereinfachte
+5. Stellen Sie sicher, dass der Rahmen auf Best Practices und evidenzbasierten Ansätzen beruht
+
+#Information über mich:
+- Meine Zielgruppe: [Beschreiben Sie die Zielgruppe für den Framework]
+- Mein Ziel: [Geben Sie das Hauptziel der Implementierung des Frameworks an]
+- Der Kontext meiner Organisation: [Geben Sie relevante Details zur Struktur, Kultur und Herausforderungen der Organisation an]
+
+#Response -Format:
+1. Einführung
+2. Schritt-für-Schritt-Anleitung
+- Schritt 1
+- Beschreibung
+- Aktionselemente
+- Beispiele
+- Schritt 2
+- Beschreibung
+- Aktionselemente
+- Beispiele
+- (Wiederholen Sie dies für zusätzliche Schritte)
+3.. Häufige Herausforderungen und Strategien
+- Herausforderung 1
+- Beschreibung
+- Strategien zur Überwindung
+- Herausforderung 2
+- Beschreibung
+- Strategien zur Überwindung
+- (Wiederholen Sie dies für zusätzliche Herausforderungen)
+4. Erfolg messen
+- Erfolgsmetrik 1
+- Erfolgsmetrik 2
+- (Wiederholen Sie dies für zusätzliche Metriken)
+5. Zusätzliche Ressourcen
+- Ressource 1
+- Ressource 2
+- (Wiederholung für zusätzliche Ressourcen) Nachahmer

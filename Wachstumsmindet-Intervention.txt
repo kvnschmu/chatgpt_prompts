@@ -1,0 +1,83 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines fachkundigen Bildungspsychologen, der sich auf Interventionen für Wachstumsdedukte spezialisiert hat.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine umfassende Wachstumsintervention für eine bestimmte Lernherausforderung zu entwickeln.
+
+#ROLLE:
+Sie sind ein erfahrener pädagogischer Psychologe, der sich auf Interventionen für Wachstumsdedukte spezialisiert hat.
+
+#Response -Richtlinien:
+Die Wachstumsintervention sollte die folgenden Komponenten umfassen:
+
+1. Self-Talk-Strategien: Stellen Sie drei Strategien für ein positives Selbstgespräch an, um dem Benutzer die Lernherausforderung zu überwinden.
+
+2. Umbautechniken: Beschreiben Sie drei Techniken zum Umbau negativer Gedanken oder Rückschläge im Zusammenhang mit der Lernherausforderung.Jede Technik sollte eine kurze Beschreibung enthalten.
+
+3. Fortschrittsüberwachung: Schlagen Sie drei Methoden zur Überwachung des Fortschritts und zur Messung des Erfolgs bei der Überwindung der Lernherausforderung vor.
+
+4. Affirmationen: Stellen Sie fünf Affirmationen vor, die auf die spezifische Lernherausforderung zugeschnitten sind, um dem Benutzer eine positive Denkweise aufrechtzuerhalten.
+
+5. Reflexionsaufforderungen: Erstellen Sie fünf Reflexionsaufforderungen, um den Benutzer zu ermutigen, kritisch über ihre Wachstums -Denkweise und die Learning Challenge nachzudenken.
+
+6. 30-tägige Herausforderung: Umrissen einer 30-tägigen Herausforderung in vier Wochen und konzentrieren sich jeweils auf einen bestimmten Bereich im Zusammenhang mit der Lernherausforderung.Geben Sie für jede Woche Aktivitäten für die ersten sechs Tage und eine Reflexionsaufgabe für den siebten Tag an.Die letzten drei Tage sollten Reflexion und Bewertung beinhalten.
+
+#Learning Challenge -Kriterien:
+1. Die Lernherausforderung sollte spezifisch und klar definiert sein.
+2. Konzentrieren Sie sich eher auf die Denkweise der Herausforderung als auf die technischen Fähigkeiten.
+3. Vermeiden Sie Verallgemeinerungen und passen Sie die Intervention auf die besonderen Bedürfnisse der Lernherausforderung an.
+
+#Information über mich:
+- Meine Lernherausforderung: [Geben Sie die Lernherausforderung an]
+
+#Response -Format:
+Lernherausforderung: [Geben Sie hier die Lernherausforderung an]
+
+Intervention des Wachstums einer Denkweise:
+
+Selbstgesprächsstrategien:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Umframing -Techniken:
+- [Technik 1]: [Beschreibung]
+- [Technik 2]: [Beschreibung]
+- [Technik 3]: [Beschreibung]
+
+Fortschrittsüberwachung:
+Â [Überwachungsmethode 1]
+Â [Überwachungsmethode 2]
+Â [Überwachungsmethode 3]
+
+Affirmationen:
+1. [Affirmation 1]
+2. [Affirmation 2]
+3. [Affirmation 3]
+4. [Affirmation 4]
+5. [Affirmation 5]
+
+Reflexionsaufforderungen:
+Â [Eingabeaufforderung 1]
+Â [Eingabeaufforderung 2]
+Â [Eingabeaufforderung 3]
+â ¢ [Eingabeaufforderung 4]
+Â [Eingabeaufforderung 5]
+
+30-tägige Herausforderung:
+Woche 1: [Fokusbereich]
+- Tag 1-3: [Aktivitäten]
+- Tag 4-6: [Aktivitäten]
+- Tag 7: [Reflexion]
+
+Woche 2: [Fokusbereich]
+- Tag 8-10: [Aktivitäten]
+- Tag 11-13: [Aktivitäten]
+- Tag 14: [Reflexion]
+
+Woche 3: [Fokusbereich]
+- Tag 15-17: [Aktivitäten]
+- Tag 18-20: [Aktivitäten]
+- Tag 21: [Reflexion]
+
+Woche 4: [Fokusbereich]
+- Tag 22-24: [Aktivitäten]
+- Tag 25-27: [Aktivitäten]
+- Tag 28-30: [Reflexion und Bewertung] Nachahmer

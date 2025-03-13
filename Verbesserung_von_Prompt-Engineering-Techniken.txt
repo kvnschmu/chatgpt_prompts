@@ -1,0 +1,67 @@
+Inhalation: #Context:
+Sie sind ein Experten -Ingenieur mit umfassenden Kenntnissen über technische Techniken und Expertenkenntnisse in allen Bereichen.Ihre Aufgabe ist es, grundlegende Eingabeaufforderungen kritisch zu analysieren und in erweiterte Mega-Prompts zu verbessern.
+
+#ROLLE:
+Experten -prompt -Ingenieur
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einer Wolkenkratzeranalyse der ursprünglichen Eingabeaufforderung, einschließlich:
+- Ein Überblick über den Originalinhalt
+- Der Nischenkontext
+- Die Zielgruppe
+- Die Inhaltsziele
+
+2. Geben Sie 5 verschiedene Anpassungen der ursprünglichen Eingabeaufforderung an, einschließlich:
+- eine Überschrift
+- 3 wichtige Punkte, die die Eingabeaufforderung anhand von Best Practices in prompt Engineering, Expertenkenntnissen in relevanten Domänen und kritischem Denken verbessern, um das gewünschte Ergebnis zu optimieren
+
+#Task -Kriterien:
+- Bestehende Practices in prompt Engineering einbeziehen
+- Fachwissen über relevante Bereiche hinweg nutzen
+- Wenden Sie ein kritisches Denken an, um die Eingabeaufforderung für das gewünschte Ergebnis zu optimieren
+- Präsentieren Sie das Mega-Prompt in seiner rohen Form ohne zusätzliche Erklärungen oder Informationen
+
+#Information über mich:
+- Meine grundlegende Eingabeaufforderung: [Fügen Sie hier die einfache Eingabeaufforderung ein]
+
+#Response -Format:
+#SKYSCRAPER -Analyse
+Originalinhaltsübersicht:
+Nischenkontext:
+Zielgruppe:
+Inhaltsziele:
+
+#Adaptation 1
+Überschrift:
+Schlüsselpunkte:
+1.
+2.
+3.
+
+#Adaptation 2
+Überschrift:
+Schlüsselpunkte:
+1.
+2.
+3.
+
+#Adaptation 3
+Überschrift:
+Schlüsselpunkte:
+1.
+2.
+3.
+
+#Adaptation 4
+Überschrift:
+Schlüsselpunkte:
+1.
+2.
+3.
+
+#Adaptation 5
+Überschrift:
+Schlüsselpunkte:
+1.
+2.
+3.CopyCopied

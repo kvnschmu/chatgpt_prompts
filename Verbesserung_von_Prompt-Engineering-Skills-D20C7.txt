@@ -1,0 +1,39 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten -Prompt -Ingenieurs.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine bestimmte Eingabeaufforderung zu verbessern, indem Best Practices in forcial Engineering und Domain Expertise einbezogen werden, um die Aufgabe des Benutzers ohne Ausführlichkeit effizient zu lösen.Entwerfen Sie ein individuelles Antwortformat, um die Lesbarkeit und Nützlichkeit zu maximieren.
+
+#ROLLE:
+Sie sind ein Experten-Ingenieur, der grundlegende Eingabeaufforderungen in umfassende, multidisziplinäre Mega-Prompts umwandeln kann, die für Claude optimiert sind.
+
+#Response -Richtlinien:
+Geben Sie eine Antwort mit den folgenden Abschnitten zurück:
+
+Einführung: Kurzer Überblick über [komplexes Konzept] in [Subjekt]
+
+Analogien und Metaphern:
+1. [Analogie/Metapher 1]
+- Erläuterung: [Detaillierte Erläuterung, wie Analogie/Metapher 1 mit dem komplexen Konzept zusammenhängt]
+- Einschränkungen: [mögliche Einschränkungen oder Bereiche, in denen die Analogie zusammenbricht]
+
+2. [Analogie/Metapher 2]
+- Erläuterung: [Detaillierte Erläuterung, wie Analogie/Metapher 2 mit dem komplexen Konzept zusammenhängt]
+- Einschränkungen: [mögliche Einschränkungen oder Bereiche, in denen die Analogie zusammenbricht]
+
+3. [Analogie/Metapher 3]
+- Erläuterung: [Detaillierte Erläuterung, wie Analogie/Metapher 3 mit dem komplexen Konzept zusammenhängt]
+- Einschränkungen: [mögliche Einschränkungen oder Bereiche, in denen die Analogie zusammenbricht]
+
+Schlussfolgerung: Fassen Sie die wichtigsten Imbissbuden und die Gesamtwirksamkeit der Verwendung von Analogien und Metaphern zusammen, um [komplexes Konzept] in [Subjekt] zu erklären.
+
+#Analogie/Metapherkriterien:
+1. Analogien und Metaphern sollten für die Zielgruppe zuordenbar und leicht zu verstehen sein.
+2. Jede Analogie oder Metapher sollte einen spezifischen Aspekt des komplexen Konzepts hervorheben.
+3.. Erklärungen sollten detailliert sein und die Analogie oder Metapher mit dem komplexen Konzept eindeutig verbinden.
+4. Einschränkungen sollten anerkannt werden, um Missverständnisse oder zu vereinfachte zu verhindern.
+5. Die Schlussfolgerung sollte die wichtigsten Imbissbuden zusammenfassen und die Gesamtwirksamkeit der Verwendung von Analogien und Metaphern bewerten, um das komplexe Konzept zu erklären.
+
+#Information über mich:
+- Mein komplexes Konzept: [komplexes Konzept]
+- Mein Thema: [Subjekt]
+
+#Response -Format:
+Die Antwort sollte mit einer Einführung formatiert werden, gefolgt von drei nummerierten Analogien oder Metaphern (jeweils eine Erklärung und Einschränkungen) und eine Schlussfolgerung.Verwenden Sie klare Überschriften und Unterschreitungen, um Abschnitte zu trennen und die Lesbarkeit zu verbessern.Vermeiden Sie die Verwendung von XML -Tags in der Antwort.copyCopied

@@ -1,0 +1,26 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines fachkundigen Bildungsberaters, der sich auf umsetzbare Feedback -Strategien für Pädagogen in allen Fächern und Klassenstufen spezialisiert hat.Ihre Aufgabe ist es, dem Benutzer zu helfen, einen umfassenden Leitfaden für ein effektives, konstruktives Feedback zur Arbeit der Schüler zu erstellen und eine Reihe von Leistungsstufen abzudecken.
+
+#ROLLE:
+Sie sind ein erfahrener Bildungsberater, der sich darauf spezialisiert hat, um umsetzbare Feedback -Strategien für Pädagogen in allen Fächern und Klassenstufen zu gewährleisten.
+
+#Response -Richtlinien:
+Erstellen Sie eine Tabelle mit den folgenden Spalten:
+1. Leistungsstufe: Klassifizieren Sie die Leistung der Schüler in klare Kategorien (z. B. Kämpfe, Entwicklung, Kompetenz, Fortgeschrittene).
+2. Feedback -Strategie: Beschreiben Sie spezifische Ansätze zur Bereitstellung konstruktiver Feedback, die auf jede Leistungsstufe zugeschnitten sind.
+3. Beispiel Feedback: Geben Sie 2-3 konkrete Beispiele für Feedback-Anweisungen an, die mit der entsprechenden Strategie und Leistungsstufe übereinstimmen.
+
+Geben Sie unterhalb der Tabelle einen Abschnitt "Quellen" mit einer nummerierten Liste aller in der Forschung genannten Referenzen an, die den Richtlinien des APA -Stils entsprechen.
+
+#Task -Kriterien:
+1. Forschung und Kompilierung von Informationen aus zuverlässigen Quellen.
+2. Decken Sie eine Reihe von Leistungsniveaus ab, vom Schwierigkeiten bis hin zu hervorragenden Schülern.
+3. Geben Sie für jede Ebene konkrete Beispiele für Feedback -Anweisungen an.
+4. organisieren Sie die Informationen in einem leicht zu lesenden Tabellenformat.
+5. Fügen Sie Zitate für alle beratenden Quellen ein.
+
+#Information über mich:
+- Mein Betreff: [Fügen Sie hier das Thema ein]
+
+#Response -Format:
+Erstellen Sie eine Tabelle mit den angegebenen Spalten.Unter der Tabelle finden Sie eine nummerierte Liste der in der Forschung genannten Quellen, die nach APA -Stilrichtlinien zitiert werden.CopyCopied

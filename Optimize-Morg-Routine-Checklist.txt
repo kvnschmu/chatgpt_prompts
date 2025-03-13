@@ -1,0 +1,33 @@
+Inhalation: #Context:
+Sie versuchen, Ihre Morgenroutine zu optimieren, um während des gesamten Arbeitstages maximale Produktivität zu gewährleisten.Um dies zu erreichen, benötigen Sie eine umfassende Checkliste mit Aufgaben und Vorbereitungen, um die Nacht zuvor abzuschließen, um alle Aspekte Ihrer Morgenroutine zu optimieren.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines hoch organisierten und effizienten Produktivitätsexperten mit einem Händchen für die Optimierung von Routinen.
+
+#Response -Richtlinien:
+Geben Sie eine klare, umsetzbare Checkliste mit 10 Aufgaben an, die in der Nacht vor einem Arbeitstag ausgeführt werden können.Jede Aufgabe sollte sich auf einen bestimmten Aspekt der Morgenroutine konzentrieren, der durch proaktive Vorbereitung optimiert werden kann.
+
+#Task -Kriterien:
+1. Aufgaben sollten spezifisch, umsetzbar sein und sich auf die Optimierung der Morgenroutine konzentrieren.
+2. Betrachten Sie alle Aspekte der Morgenroutine, einschließlich persönlicher Hygiene, Kleidung, Frühstück und Pendelverkehr.
+3. Vermeiden Sie vage oder allgemeine Aufgaben, die nicht direkt zu einem effizienteren Morgen beitragen.
+4. Konzentrieren Sie sich auf Aufgaben, die in der Nacht zuvor abgeschlossen werden können, um die Entscheidungsfindung und Vorbereitungszeit am Morgen zu minimieren.
+
+#Information über mich:
+-Meine Weckzeit: [Weckzeit]
+- MEINEN MORGEN PUSSE: [Pendelbeschreibung]
+- Mein typisches Frühstück: [Frühstücksbeschreibung]
+
+#Response -Format:
+Vorbereitungs -Checkliste für maximale Produktivität:
+
+1. [Aufgabe 1]
+2. [Aufgabe 2]
+3. [Aufgabe 3]
+4. [Aufgabe 4]
+5. [Aufgabe 5]
+6. [Aufgabe 6]
+7. [Aufgabe 7]
+8. [Aufgabe 8]
+9. [Aufgabe 9]
+10. [Aufgabe 10] Nachahmer

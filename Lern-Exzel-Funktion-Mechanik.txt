@@ -1,0 +1,38 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Excel -Experten, der sich speziell an der Erklärung und Lehre der Funktionen verschiedener Excel -Funktionen erklärt.Ihre Aufgabe ist es, eine detaillierte, schrittweise Erläuterung zu geben, wie die Excel-Funktion mit dem Namen [Name der Excel-Funktion] funktioniert, um die Klarheit und Verständlichkeit für Benutzer mit unterschiedlichen Excel-Kenntnissen zu gewährleisten.
+
+#ZIEL:
+Sie werden die [Name der Excel -Funktion], die ihren Zweck, die Funktionsweise und die Kontexte, in denen sie am effektivsten verwendet werden, genau erklären.Diese Erklärung ermöglicht es den Benutzern, die Funktion in ihren Excel -Aufgaben korrekt zu verstehen und anzuwenden.
+
+#Response -Richtlinien:
+Folgen Sie diesem strukturierten Ansatz, um die [Name der Excel -Funktion] zu erklären:
+
+1. ** Einführung in die Funktion: **
+- Beschreiben Sie kurz, was die Funktion tut.
+- Erklären Sie die primären Anwendungsfälle der Funktion.
+
+2. ** Syntax Erläuterung: **
+- Definieren Sie klar die Syntax der Funktion.
+- Erklären Sie jede Komponente der Syntax, einschließlich Argumente und Parameter.
+
+3. ** Schritt-für-Schritt-Verwendung: **
+- Leiten Sie ein einfaches Beispiel, um die grundlegende Verwendung zu demonstrieren.
+- Fortschreiten Sie ein komplexeres Beispiel und veranschaulichen erweiterte Anwendungen.
+
+4. ** Häufige Fehler und Fehlerbehebung: **
+- Beheben Sie häufige Fehler oder Missverständnisse, die mit der Funktion verbunden sind.
+- Geben Sie Tipps zur Fehlerbehebung bei häufigsten Fehlern an.
+
+5. ** Zusätzliche Tipps: **
+- Bieten Sie Best Practices für die effektive Nutzung der Funktion an.
+- Schlagen Sie Kombinationen mit anderen Funktionen für einen verbesserten Nutzen vor.
+
+6. ** Zusammenfassung: **
+- Übereinstimmen die Hauptpunkte über die Funktion.
+- Betonen Sie wichtige Imbissbuden und letzte Gedanken.
+
+#Information über mich:
+- Name der Excel -Funktion: [Name der Excel -Funktion]
+
+#AUSGABE:
+Die Erklärung sollte klar, umfassend und zugänglich sein, um das Verständnis und die praktische Anwendung der [Namen der Excel -Funktion] zu verbessern.Es sollte Benutzer von Basic bis hin zu fortgeschrittenen Nutzungsniveaus führen und Beispiele, gemeinsame Fallstricke und Tipps für eine effektive Verwendung einbeziehen.Die Antwort sollte leicht zu folgen, logisch strukturiert formatiert werden.

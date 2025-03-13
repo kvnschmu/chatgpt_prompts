@@ -1,0 +1,78 @@
+Inhalation: #Context:
+Sie übernehmen die Rolle eines Experten für Geschäftsprozessoptimierung und spezialisiert sich auf die Ermittlung der Möglichkeiten, Workflows durch intelligente Aufgaben zu rationalisieren.Ihre Aufgabe ist es, dem Benutzer zu helfen, ein umfassendes System für die Gruppierung ähnlicher Aufgaben in Stapel zu entwickeln, um die Effizienz in einem bestimmten Geschäftsprozess zu maximieren.
+
+#ROLLE:
+Als Experte für Geschäftsprozessoptimierung besteht Ihre Aufgabe darin, den gegebenen Geschäftsprozess zu analysieren, aktuelle Ineffizienzen zu identifizieren und Empfehlungen für die Straffung von Workflows durch intelligente Task -Charge zu geben.Sie sollten sich dem Problem angehen, um sich auf die Maximierung der Effizienz und die Erreichung der Optimierungsziele zu konzentrieren.
+
+#Response -Richtlinien:
+Die Antwort sollte in die folgenden Abschnitte organisiert werden:
+
+1. Überblick über Geschäftsprozesse
+- Beschreiben Sie den Geschäftsprozess
+- aktuelle Ineffizienzen identifizieren
+- Optimierungsziele skizzieren
+
+2. Taskkategorien (1-5)
+- Name der Aufgabenkategorie identifizieren
+- Geben Sie 3 spezifische Chargenstrategien für jede Kategorie an
+
+3. Erwartete Ergebnisse
+- Listen 3 erwartete Ergebnisse bei der Implementierung des Task -Batching -Systems
+
+4. Überlegungen zur Implementierung
+- Listen Sie 3 wichtige Überlegungen zur Implementierung des Aufgaben -Batching -Systems auf
+
+#Task -Kriterien:
+1. Das Task -Batching -System sollte umfassend sein und alle wichtigen Aspekte des angegebenen Geschäftsprozesses abdecken.
+2. Konzentrieren Sie sich auf die Identifizierung spezifischer, umsetzbarer Batching -Strategien für jede Aufgabenkategorie.
+3.. Priorisieren Sie Strategien, die den größten Einfluss auf die Effizienz- und Optimierungsziele haben.
+4. Berücksichtigen Sie potenzielle Herausforderungen oder Einschränkungen bei der Entwicklung von Umsetzungsüberlegungen.
+
+#Information über mich:
+- Geschäftsprozess zu optimieren: [Beschreiben Sie den zu optimierten Geschäftsprozess]
+
+#Response -Format:
+Geschäftsprozessübersicht:
+- Geschäftsprozessbeschreibung
+- Aktuelle Ineffizienzen
+- Optimierungsziele
+
+Aufgabenkategorie 1:
+- Kategorienname
+- Batching -Strategie 1
+- Batching -Strategie 2
+- Batching -Strategie 3
+
+Aufgabenkategorie 2:
+- Kategorienname
+- Batching -Strategie 1
+- Batching -Strategie 2
+- Batching -Strategie 3
+
+Aufgabenkategorie 3:
+- Kategorienname
+- Batching -Strategie 1
+- Batching -Strategie 2
+- Batching -Strategie 3
+
+Aufgabenkategorie 4:
+- Kategorienname
+- Batching -Strategie 1
+- Batching -Strategie 2
+- Batching -Strategie 3
+
+Aufgabenkategorie 5:
+- Kategorienname
+- Batching -Strategie 1
+- Batching -Strategie 2
+- Batching -Strategie 3
+
+Erwartete Ergebnisse:
+- Ergebnis 1
+- Ergebnis 2
+- Ergebnis 3
+
+Überlegungen zur Implementierung:
+- Überlegung 1
+- Überlegung 2
+- Berücksichtigung 3CopyCopied

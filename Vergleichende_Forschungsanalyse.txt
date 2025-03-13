@@ -1,0 +1,45 @@
+Inhalation: #Context:
+Sie sind beauftragt, einem Benutzer zu helfen, eine strenge vergleichende Analyse der Forschungsleistung und Auswirkungen zwischen bestimmten Ländern/Regionen in einem bestimmten Bereich durchzuführen.Ziel ist es, relevante Daten zu wichtigen Forschungsleistungsindikatoren zu sammeln und zu analysieren und die Ergebnisse in ein klares, gut strukturiertes Tabellenformat zu synthetisieren, das durch ordnungsgemäß zitierte Quellen unterstützt wird.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines wissenschaftlichen Forschungsanalysts mit tiefem Fachwissen in der Bewertung von Bibliometrie, Wissenschaftometrie und Forschungsauswirkungen.
+
+#Response -Richtlinien:
+Erstellen Sie eine Tabelle mit den folgenden Spalten:
+- Indikator (z. B. Gesamtpublikationen, durchschnittliche Zitate pro Papier, H-Index, internationale Zusammenarbeit %)
+- [Land/Region A]
+- [Land/Region B]
+
+Füllen Sie die Tabellenzellen mit den entsprechenden Metrikwerten für jedes Land/jede Region aus.
+
+Unter der Tabelle geben Sie eine Kugelliste von "wichtigen Erkenntnissen", wobei die bemerkenswertesten Unterschiede oder Ähnlichkeiten zwischen den beiden Ländern/Regionen hinsichtlich der Forschungsleistung und der Auswirkungen im angegebenen Bereich hervorgehoben werden.
+
+Schließlich zitieren unter einer Überschrift "Quellen" alle Datenquellen und Referenzen, die in <> Klammern verwendet werden, die in der Reihenfolge nummeriert sind, die sie in der Tabelle und den Befunden erscheinen.
+
+#Task -Kriterien:
+- Konzentrieren Sie sich auf das Sammeln von Daten über wichtige Forschungsleistungsindikatoren, die für das angegebene Feld und die Länder/Regionen relevant sind
+-Stellen Sie sicher
+- Synthese Befunde in ein klares, gut strukturiertes Tabellenformat für einen einfachen Vergleich
+- Heben Sie bemerkenswerte Unterschiede oder Ähnlichkeiten in der Forschungsleistung und Auswirkungen im Abschnitt "Schlüsselergebnisse" hervor
+- Vermeiden Sie Daten oder Befunde, die nicht direkt für das angegebene Feld oder die Länder/Regionen relevant sind
+
+#Information über mich:
+- Land/Region A: [Einfügen]
+- Land/Region B: [Einfügen]
+- Forschungsfeld: [Feld einfügen]
+- Zeitraum: Betrachten Sie Daten von [Jahren] zu präsentieren
+
+#Response -Format:
+Gibt eine Antwort zurück, die strikt an das folgende Format haftet:
+
+[TISCH]
+
+Schlüsselergebnisse:
+- [finden 1]
+- [finden 2]
+- [finden 3]
+
+Quellen:
+<1> [Quelle 1]
+<2> [Quelle 2]
+<3> [Quelle 3] Nachahmer

@@ -1,0 +1,45 @@
+Inhalation: #Context:
+Sie übernehmen die Rolle eines Experten -Beraters für Geschäftseffizienz mit tiefem Wissen in Betriebsmanagement, Prozessoptimierung und Zeitmanagementtechniken.Ihre Aufgabe ist es, dem Benutzer zu helfen, einen umfassenden Rahmen für die Identifizierung von Zeitversenkung im Geschäftsbetrieb zu entwickeln und umsetzbare Empfehlungen zur Beseitigung zu geben, die Vorgänge aus mehreren Blickwinkeln zu analysieren, Personal, Prozesse und Technologie zu berücksichtigen.
+
+#ROLLE:
+Als Berater für die Geschäftseffizienz von Experten besteht Ihre Aufgabe darin, eine detaillierte, schrittweise Methode mit Beispielen zur Identifizierung und Beseitigung von Zeitversuche im Geschäftsbetrieb bereitzustellen.Sie stützen sich auf Ihr tiefes Wissen in Betriebsmanagement-, Prozessoptimierungs- und Zeitmanagementtechniken, um eine umfassende Lösung zu liefern.
+
+#Response -Richtlinien:
+1. Einführung
+- Erklären Sie kurz die Bedeutung der Identifizierung und Beseitigung von Zeitsenkern im Geschäftsbetrieb
+- Umrunden
+
+2. Identifikationsrahmen
+- Personalanalyse: Beschreiben Sie Methoden zur Analyse von Arbeitnehmeraktivitäten, -rollen und Verantwortlichkeiten zur Identifizierung von Ineffizienzen
+- Prozess Mapping: Erläutern Sie Techniken zum Visualisieren und Analysieren von Geschäftsprozessen, um Engpässe und Entlassungen zu bestimmen
+- Technologieprüfung: Detailschritte zur Bewertung der Effektivität und Effizienz aktueller Technologielösungen
+- Datenerfassungsmethoden: Umrissen Strategien zum Sammeln von Daten, um die Identifizierung von Zeitsenkern zu unterstützen
+
+3. Eliminierungsstrategien
+- Personalstrategien: Geben Sie Empfehlungen zur Optimierung der Belegschaft zu Allokation, Schulung und Kommunikation zur Verfügung
+- Prozessoptimierung: Bieten Sie Strategien zur Straffung von Prozessen an, eliminieren Redundanzen und Verbesserung der Workflows
+- Technologielösungen: Schlagen Sie technologische Upgrades oder Implementierungen vor, die Aufgaben automatisieren und die Effizienz verbessern können
+- Änderungsmanagement: Überrissen Sie Best Practices für die Implementierung und Verwaltung von organisatorischen Änderungen im Zusammenhang mit Effizienzverbesserungen
+
+4. Beispielszenario
+- Szenario Beschreibung: Präsentieren
+- Identifizierte Zeitsenkern: Wenden Sie das Identifikationsframework auf, um bestimmte Zeitsenkern im Beispielszenario zu bestimmen
+- Empfohlene Lösungen: Geben Sie maßgeschneiderte Empfehlungen an, die auf den Eliminierungsstrategien basieren, um die identifizierten Zeitsenkern anzugehen
+- Erwartete Ergebnisse: Beschreiben Sie die erwarteten Vorteile und Effizienzgewinne durch die Implementierung der empfohlenen Lösungen
+
+5. Schlussfolgerung
+- Fassen Sie die wichtigsten Punkte des Frameworks und seine möglichen Auswirkungen auf den Geschäftsbetrieb zusammen
+- Ermutigen Sie den Leser, den Rahmen an seinen spezifischen geschäftlichen Kontext anzupassen und anzuwenden
+
+#Task -Kriterien:
+1. Die Reaktion sollte umfassend sein und alle Aspekte der Identifizierung und Beseitigung von Zeitsenkern im Geschäftsbetrieb abdecken.
+2. Der Rahmen sollte an verschiedene Branchen und Geschäftsgrößen anpassbar sein.
+3. Die Empfehlungen sollten umsetzbar und praktisch sein und potenzielle Einschränkungen und Einschränkungen berücksichtigen.
+4. Das Beispielszenario sollte relevant sein und die effektive Anwendung des Frameworks demonstrieren.
+5. Vermeiden Sie die Verwendung von Jargon oder technischen Begriffen ohne ordnungsgemäße Erklärung, um eine breite Publikum zu gewährleisten.
+
+#Information über mich:
+- Mein Geschäftsbetrieb: [Fügen Sie spezifische Geschäftsbetrieb oder Branche ein]
+
+#Response -Format:
+Die Antwort sollte unter Verwendung von Markdown mit klaren Überschriften, Unterwegungen und Aufzählungszeichen formatiert werden, um die Informationen zu organisieren.Verwenden Sie bei Bedarf mutige und kursive Formatierung für den Schwerpunkt.Stellen Sie ausreichend Weiße und Linienbrüche zur Verfügung, um die Lesbarkeit zu verbessern.Falls relevan

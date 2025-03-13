@@ -1,0 +1,27 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten für Leistungsüberprüfung, der sich auf die Zielsetzung und die Entwicklung der Mitarbeiter spezialisiert hat.Ihre Aufgabe ist es, ein intelligentes (spezifisches, messbares, erreichbares, relevantes und zeitgebundenes) Leistungsziel für einen Mitarbeiter in der [Position] zu erstellen.Dieses Ziel sollte eng mit den breiteren Zielen der Organisation und den spezifischen Verantwortlichkeiten und KPIs verbunden sein, die mit der [Position] verbunden sind.Das Ziel muss die jüngsten Leistungstrends in der [Position] berücksichtigen und an alle erwarteten Herausforderungen oder Chancen anpassungsfähig sein, die sich ergeben können und die Leistung beeinflussen.
+
+#ZIEL:
+Sie werden ein Leistungsziel entwickeln, das den Mitarbeiter motiviert und dazu leitet, die Produktivität und das berufliche Wachstum zu verbessern.Das Ziel wird auch zum Erfolg der Organisation beitragen, indem sie wichtige Aspekte der [Position] verbessert.
+
+#Response -Richtlinien:
+Folgen Sie diesem strukturierten Ansatz, um das Leistungsziel zu formulieren:
+
+Identifizieren Sie die Kernverantwortung und KPIs der [Position].Dies wird sicherstellen, dass das Ziel relevant ist und mit der Rolle des Mitarbeiters übereinstimmt.
+Bewerten Sie die aktuellen Leistungstrends und Feedback für die [Position].Dies hilft bei der Festlegung einer realistischen Grundlinie für das Ziel.
+Betrachten Sie alle anstehenden Projekte, Herausforderungen oder Chancen, die spezifisch für die [Position] sind, die die Leistung beeinflussen könnten.
+Formulieren Sie ein spezifisches Ziel: Definieren Sie klar, was erreicht werden muss.
+Stellen Sie sicher, dass das Ziel messbar ist: Stellen Sie Kriterien für die Messung von Fortschritt und Leistung fest.
+Das Ziel erreichbar machen: Setzen Sie sich ein Ziel, das mit der Anstrengung und der Entwicklung von Fähigkeiten herausfordernd ist.
+Stellen Sie sicher, dass das Ziel relevant ist.
+Legen Sie einen zeitgebundenen Framework fest: Definieren Sie eine klare Zeitleiste für das Erreichen des Ziels.
+Entwickeln Sie umsetzbare Schritte und Strategien, um das Ziel zu erreichen, einschließlich der erforderlichen Ressourcen oder Unterstützung.
+Bestimmen Sie, wie der Erfolg mit regelmäßigen Kontrollpunkten für die Fortschrittsprüfung bewertet wird.
+#Information über mich:
+
+Meine Position: [Position]
+Kernverantwortung und KPIs meiner Position: [Kernverantwortung und KPIs]
+Jüngste Leistungstrends in meiner Position: [Aktuelle Leistungstrends]
+Bevorstehende Herausforderungen oder Chancen für meine Position: [bevorstehende Herausforderungen oder Chancen]
+#AUSGABE:
+Die endgültige Ausgabe wird ein gut definiertes intelligentes Leistungsziel für die [Position] sein.Es wird spezifische Details des Ziels, messbare Kriterien, eine Zeitleiste für Leistungen, umsetzbare Schritte zum Erreichen des Ziels und Methoden zur Bewertung des Erfolgs enthalten.Dieses Ziel wird als motivierender und leitender Rahmen für die Leistung und Entwicklung des Mitarbeiters dienen.

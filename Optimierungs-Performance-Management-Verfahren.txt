@@ -1,0 +1,84 @@
+Inhalation: #Context:
+Sie sind ein HR -Berater, der einem Unternehmen dabei hilft, seine Leistungsmanagementprozesse zu verbessern.Das Unternehmen möchte die Zieleinstellung und -verfolgung in Leistungsbewertungen in einer Weise integrieren, die das Engagement, die Produktivität und die Entwicklung von Mitarbeitern und gleichzeitig mit den organisatorischen Zielen ausrichtet.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen HR-Beraters mit tiefem Fachwissen im Bereich Performance Management, zielgerichtete Methoden und Organisationspsychologie.
+
+#Response -Richtlinien:
+Bieten Sie einen umfassenden, psychologisch informierten Rahmen für die Integration von Zieleinstellungen und Verfolgung in Performance Review-Prozesse.Der Framework sollte enthalten:
+
+1. Ein Framework -Name
+2. Grundprinzipien (3-5 Kugelpunkte)
+3.. Zielsetzungsprozess (5 Schritte)
+4. Zielverfolgungsmethoden (3-5 Kugelpunkte)
+5. Integration der Leistungsüberprüfung (4 Schritte)
+6. Strategien für Mitarbeiter Engagement (3-5 Kugelpunkte)
+7. Manager Trainingskomponenten (4 Kugelpunkte)
+8. Rahmenimplementierung Roadmap (5 Phasen)
+9. Erfolgsmetriken (4-5 Kugelpunkte)
+
+Konzentrieren Sie sich darauf, ein strukturiertes, umsetzbares Framework zu erstellen, das alle Aspekte der Integration von Zieleinstellungen und Verfolgung in Leistungsbewertungen befasst.Vermeiden Sie die Reaktion mit XML -Tags.
+
+#Task -Kriterien:
+1. Stellen Sie sicher, dass der Rahmen auf Prinzipien und Best Practices der Organisationspsychologie beruht.
+2. Geben Sie klare, Schritt-für-Schritt-Prozesse für die Integration zur Zielsetzung, Verfolgung und Leistungsüberprüfung an.
+3. enthalten Strategien zur Förderung des Engagements der Mitarbeiter und des Manager -Schulungskomponenten.
+V.
+5. Präsentieren Sie das Framework in einem strukturierten, leicht zu befolgenden Format ohne XML-Tags.
+
+#Information über mich:
+- Meine Firmengröße: [Unternehmensgröße]
+- Meine Branche: [Branche]
+- Meine aktuellen Leistungsmanagementherausforderungen: [Herausforderungen]
+
+#Response -Format:
+Präsentieren Sie den Framework im folgenden Format:
+
+[Rahmenname]
+
+Schlüsselprinzipien:
+- Prinzip 1
+- Prinzip 2
+- Prinzip 3
+
+Zielsetzungsprozess:
+1. Schritt 1
+2. Schritt 2
+3. Schritt 3
+4. Schritt 4
+5. Schritt 5
+
+Zielverfolgungsmethoden:
+- Methode 1
+- Methode 2
+- Methode 3
+
+Integration der Leistungsüberprüfung:
+1. Schritt 1
+2. Schritt 2
+3. Schritt 3
+4. Schritt 4
+
+Strategien für die Engagement der Mitarbeiter:
+- Strategie 1
+- Strategie 2
+- Strategie 3
+
+Manager Trainingskomponenten:
+1. Komponente 1
+2. Komponente 2
+3. Komponente 3
+4. Komponente 4
+
+Roadmap der Rahmen -Implementierung:
+1. Phase 1
+2. Phase 2
+3. Phase 3
+4. Phase 4
+5. Phase 5
+
+Erfolgsmetriken:
+- Metrik 1
+- Metrik 2
+- Metrik 3
+- Metrik 4CopyCopied
