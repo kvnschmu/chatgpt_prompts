@@ -1,0 +1,42 @@
+Inhalation: #Context:
+Sie sind KI -Forscher und Ingenieur, die die technischen Details darüber verstehen möchten, wie ein KI -Chatbot unter der Motorhaube funktioniert.Ziel ist es, einen umfassenden und wissenschaftlich strengen Überblick über die wichtigsten Komponenten und Prozesse zu bieten, die für ein Expertenpublikum auf dem Gebiet der KI geeignet sind.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen KI -Forschers und -ingenieurs mit tiefem Wissen über die Verarbeitung natürlicher Sprache, maschinelles Lernen und die neuesten Fortschritte bei AI -Technologien.Geben Sie aus dieser Perspektive eine technische und eingehende Erklärung für das Innenleben eines KI-Chatbots an.
+
+#Response -Richtlinien:
+Die Erklärung sollte in die folgenden Abschnitte organisiert werden:
+
+1. Modellarchitektur: Beschreiben Sie die im Chatbot verwendete KI-Modellarchitektur wie Transformator-basierte Modelle wie GPT oder Bert.
+
+2. Schulungsdaten und -methoden: Diskutieren Sie die verwendeten Schulungsdaten und -methoden, einschließlich der Vorausbildung in Großsprachen und der Feinabstimmung in aufgabenspezifischen Daten.
+
+3. Inferenzprozess: Erklären Sie den Inferenzprozess, einschließlich der Erzeugung des Modells, die auf der Eingabe und seinem erlernten Wissen basieren.
+
+4. Wissensdarstellung: Deckung, wie Wissen im Modell dargestellt und gespeichert wird, wie durch gelehrte Parameter und Aufmerksamkeitsmechanismen.
+
+5. Argumentationsfunktionen: Diskutieren Sie die Argumentationsfunktionen des Modells, einschließlich seiner Fähigkeit, Schlussfolgerungen zu ziehen, den Kontext zu bewältigen und logische Operationen auszuführen.
+
+6. Sprachverständnis: Erklären Sie, wie das Modell natürliche Spracheingaben versteht und verarbeitet, einschließlich Techniken wie Tokenisierung, Einbettung und Aufmerksamkeit.
+
+7. Sprachgenerierung: Beschreiben Sie den Prozess der Sprachgenerierung, einschließlich Decodierungsstrategien und -techniken, um eine kohärente und fließende Leistung zu gewährleisten.
+
+8. Sicherheits- und Ausrichtung: Besprechen Sie Sicherheits- und Ausrichtungstechniken, mit denen sich das Modell im Einklang mit beabsichtigten Zielen verhält und schädliche oder voreingenommene Outputs vermeidet.
+
+9. Zusätzliche technische Details: Fügen Sie weitere relevante technische Details oder erweiterte Techniken bei, die in der Implementierung des Chatbot verwendet werden.
+
+10. Wichtige offene Fragen: Diskutieren Sie wichtige offene Fragen und Bereiche für weitere Forschungen und Verbesserungen im Bereich der Konversations -KI.
+
+#Task -Kriterien:
+- Konzentrieren Sie sich auf eine technische und wissenschaftlich strenge Erklärung, die für ein Experten -AI -Forscher -Publikum geeignet ist.
+- Abdecken Sie alle Schlüsselkomponenten und -prozesse, die an der Funktionsweise des Chatbot beteiligt sind, von Modellarchitektur bis hin zu Sicherheitsüberlegungen.
+- Verwenden Sie präzise Terminologie und beziehen Sie sich gegebenenfalls auf bestimmte Techniken, Modelle und Algorithmen.
+- Vereinfachungen oder Verallgemeinerungen vermeiden;Ziel auf Tiefe und Genauigkeit in den Erklärungen.
+- Heben Sie alle Einschränkungen, Herausforderungen oder offenen Fragen im aktuellen Stand der Technologie hervor.
+
+#Information über mich:
+- Mein KI -Fachwissen: [Experten -KI -Forscher]
+- Meine Vertrautheit mit der Implementierung des Chatbot: [Nehmen Sie eine allgemeine Vertrautheit an]
+
+#Response -Format:
+Organisieren Sie die Reaktion in deutlich abgegrenzten Abschnitten mit Markdown -Headern für jedes der 10 Themen, die in den Antwortrichtlinien beschrieben sind.Verwenden Sie durchgehend technische Begriffe und präzise Sprache, aber vermeiden Sie Jargon, wo möglich.Verwenden Sie veranschaulichende Beispiele, Diagramme oder Code -Snippets, wenn sie hilfreich sind, um komplexe Konzepte zu klären.Streben Sie einen logischen Ideenfluss an, der von grundlegenden Konzepten zu fortgeschritteneren Themen aufbaut.Schließen Sie mit einer Zusammenfassung der wichtigsten Imbissbuden und offenen Fragen, um weitere Forschung und Entwicklung vor Ort zu leiten.

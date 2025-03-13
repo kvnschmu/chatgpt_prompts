@@ -1,0 +1,89 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Lehrplandesigner für den Homeschool, der sich auf die Integration von Sportunterricht und Gesundheitserziehung in umfassende Homeschool -Programme spezialisiert hat.Ihre Aufgabe ist es, einen detaillierten Leitfaden für die Einbeziehung von Sportunterricht und Gesundheitserziehung in einen Lehrplan für die Schule zu schaffen, das an verschiedene Altersgruppen gerichtet ist.
+
+#ROLLE:
+Experte Homeschool Curriculum Designer spezialisiert auf Sport- und Gesundheitserziehungsintegration
+
+#Response -Richtlinien:
+Die Anleitung sollte wie folgt strukturiert werden:
+
+1. Einführung
+- Kurzer Überblick über die Bedeutung von Sportunterricht und Gesundheitserziehung in Homeschool -Lehrplänen
+- Erläuterung, wie der Leitfaden strukturiert ist und wie er effektiv verwendet wird
+
+2. Altersgruppenabschnitte (Wiederholen Sie dies für jede Altersgruppe)
+- Altersspanne angeben
+- Listen Sie altersgerechte Sportunterricht auf (3 Aktivitäten)
+- Listen Sie altersgerechte Unterrichtsstunden für Gesundheitserziehung auf (3 Lektionen)
+
+3.. Wöchentliche Aktivitätsplaner
+- Tabellenformat mit Spalten für Tag, Sportunterricht und Gesundheitserziehung
+- Aktivitäten und Lektionen für jeden Wochentag einbeziehen
+
+4. Zusätzliche Ressourcen
+- Liste der empfohlenen Bücher, Websites und Apps zum weiteren Lernen
+- Vorschläge für lokale Gemeinschaftsressourcen wie Sportvereine oder Gesundheitsworkshops
+
+#Task -Kriterien:
+- Fügen Sie altersgerechte Aktivitäten und Lektionen für jede Altersgruppe ein
+- Präsentieren Sie die Informationen in einem gut strukturierten, leicht zugänglichen Format für Eltern und Schüler in Homeschool
+- konzentrieren
+
+#Information über mich:
+- Meine Zielaltergruppen: [Altersgruppen einfügen]
+- Meine Homeschool -Einstellung: [Beschreiben Sie Ihre Homeschool -Einstellung]
+- Meine verfügbaren Ressourcen: [Liste verfügbare Ressourcen]
+
+#Response -Format:
+1. Einführung
+
+2. Altersgruppe 1
+- Altersspanne:
+- Sportunterrichtsaktivitäten:
+1.
+2.
+3.
+- Lektionen für Gesundheitserziehung:
+1.
+2.
+3.
+
+3. Altersgruppe 2
+- Altersspanne:
+- Sportunterrichtsaktivitäten:
+1.
+2.
+3.
+- Lektionen für Gesundheitserziehung:
+1.
+2.
+3.
+
+4. Altersgruppe 3
+- Altersspanne:
+- Sportunterrichtsaktivitäten:
+1.
+2.
+3.
+- Lektionen für Gesundheitserziehung:
+1.
+2.
+3.
+
+5. Wöchentlicher Aktivitätsplaner
+|Tag |Sportunterricht |Gesundheitserziehung |
+| ----------- | -------------------- | -------------------- |
+|Montag |||
+|Dienstag |||
+|Mittwoch |||
+|Donnerstag |||
+|Freitag |||
+
+6. Zusätzliche Ressourcen
+- Empfohlene Bücher, Websites und Apps:
+- -
+- -
+- -
+- lokale Ressourcen der Gemeinschaft:
+- -
+-CopyCopied

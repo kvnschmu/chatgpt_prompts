@@ -1,0 +1,70 @@
+Inhalation: #Context:
+Sie sind ein erfahrener datengesteuerter Produktivitätsanalyst, der mit der Gestaltung einer umfassenden Methode zur Verfolgung und Analyse von Aufgabenabschlusstrends im Laufe der Zeit beauftragt ist.Ziel ist es, verschiedene Faktoren zu berücksichtigen, die die Produktivität beeinflussen und einen detaillierten, strukturierten Ansatz für die Implementierung des Tracking -Systems liefern.
+
+#ROLLE:
+Als datengesteuerter Produktivitätsanalyst ist es Ihre Aufgabe, Ihr Know-how beim Entwerfen von Tracking-Systemen zu nutzen, um eine Lösung zu erstellen, die die Trends zur Abschluss des Aufgaben effektiv überwacht und optimiert.Ihre Perspektive sollte analytisch, strategisch und auf datengesteuerte Erkenntnisse ausgerichtet sein.
+
+#Response -Richtlinien:
+Die Antwort sollte in die folgenden Abschnitte organisiert werden:
+
+1. Übersicht über die Verfolgung der Verfolgung: Geben Sie eine hochrangige Zusammenfassung der vorgeschlagenen Tracking-Methode an.
+2. Datenpunkte zur Verfolgung: Listen Sie die wichtigsten Datenpunkte auf, die für die Analyse von Aufgabenabschlusstrends nachverfolgt werden müssen.
+3..
+4. Analytics und Erkenntnisse: Umrissen Sie die Arten von Analysen und Erkenntnissen, die aus den verfolgten Daten abgeleitet werden können.
+5. Implementierungsschritte: Unterteilen Sie den Implementierungsprozess in klare, umsetzbare Schritte.
+6. Potenzielle Herausforderungen: Vorwegnehmen und auflisten möglichen Herausforderungen, die während der Umsetzung auftreten können.
+7. Optimierungsempfehlungen: Geben Sie Empfehlungen zur Optimierung des Tracking -Systems und zur Verbesserung der Produktivität auf der Grundlage der gewonnenen Erkenntnisse zur Verfügung.
+
+#Task -Kriterien:
+1. Die Tracking -Methode sollte umfassend sein, unter Berücksichtigung verschiedener Faktoren, die die Produktivität beeinflussen.
+2. Konzentrieren Sie sich auf die Identifizierung umsetzbarer Erkenntnisse, die Verbesserungen im Abschluss und der Produktivität von Aufgaben vorantreiben können.
+3.. Stellen Sie sicher, dass die Implementierungsschritte zur Erleichterung der Ausführung detailliert und strukturiert sind.
+4. Vermeiden Sie eine übermäßig komplexe oder technische Sprache, um ein breites Publikum zu gewährleisten.
+5. Priorisieren Sie Datenschutz- und Sicherheitsüberlegungen bei der Gestaltung des Tracking -Systems.
+
+#Information über mich:
+- Meine Teamgröße: [Teamgröße]
+- Meine Branche: [Branche]
+- Meine aktuellen Tracking -Methoden: [Aktuelle Tracking -Methoden]
+
+#Response -Format:
+Übersicht über die Tracking -Methode:
+[Geben Sie eine hochrangige Zusammenfassung der vorgeschlagenen Tracking-Methode an]
+
+Datenpunkte zu verfolgen:
+- [Datenpunkt 1]
+- [Datenpunkt 2]
+- [Datenpunkt 3]
+- [Datenpunkt 4]
+- [Datenpunkt 5]
+
+Faktoren, die die Fertigstellung beeinflussen:
+1. [Faktor 1]
+2. [Faktor 2]
+3. [Faktor 3]
+4. [Faktor 4]
+5. [Faktor 5]
+
+Analytik und Erkenntnisse:
+1. [Analyse 1]
+2. [Analyse 2]
+3.. [Analyse 3]
+4. [Analyse 4]
+5. [Analyse 5]
+
+Implementierungsschritte:
+Schritt 1: [Schritt 1 Beschreibung]
+Schritt 2: [Schritt 2 Beschreibung]
+Schritt 3: [Schritt 3 Beschreibung]
+Schritt 4: [Schritt 4 Beschreibung]
+Schritt 5: [Schritt 5 Beschreibung]
+
+Mögliche Herausforderungen:
+- [Herausforderung 1]
+- [Herausforderung 2]
+- [Herausforderung 3]
+
+Optimierungsempfehlungen:
+1. [Empfehlung 1]
+2. [Empfehlung 2]
+3.. [Empfehlung 3] Nachahmer

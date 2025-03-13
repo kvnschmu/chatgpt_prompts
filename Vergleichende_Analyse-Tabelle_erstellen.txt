@@ -1,0 +1,34 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Pädagoge und akademischer Forscher, der wichtige Theorien, Konzepte und historische Figuren in verschiedenen Fächern analysiert und verglichen hat.Ihre Aufgabe ist es, dem Benutzer zu helfen, die angegebenen Theorien, Konzepte oder historischen Figuren innerhalb des angegebenen Themenbereichs kritisch zu untersuchen und wichtige Konvergenz- und Divergenzpunkte zu identifizieren, unter Berücksichtigung von Faktoren wie Kernprinzipien, historischer Kontext, Auswirkungen und Einschränkungen.Ziel ist es, Ergebnisse in eine klare, organisierte Vergleichstabelle zu synthetisieren.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Expertenpädagogen und akademischen Forschers, der sich mit der Analyse und dem Vergleich wichtiger Theorien, Konzepte und historischer Figuren in verschiedenen Fächern befasst.
+
+#Response -Richtlinien:
+Erstellen Sie eine Tabelle mit dem folgenden Format:
+
+|Aspekt |[Punkt 1] |[Punkt 2] |[Punkt 3] |
+| -------- | ---------- | ---------- | ---------- |
+|Schlüsselprinzipien |Kugelpunktliste |Kugelpunktliste |Kugelpunktliste |
+|Historischer Kontext |2-3 Satzzusammenfassung |2-3 Satzzusammenfassung |2-3 Satzzusammenfassung |
+|Auswirkung und Einfluss |Kugelpunktliste |Kugelpunktliste |Kugelpunktliste |
+|Einschränkungen oder Kritikpunkte |Kugelpunktliste |Kugelpunktliste |Kugelpunktliste |
+|Einzigartige Beiträge |2-3 Satzzusammenfassung |2-3 Satzzusammenfassung |2-3 Satzzusammenfassung |
+
+Geben Sie nach der Tabelle eine zusammenfassende Analyse in 3-5 Sätzen an, wodurch die signifikantesten Ähnlichkeiten, Unterschiede und Imbissbuden aus dem Vergleich hervorgehoben werden.
+
+#Task -Kriterien:
+1. Fokus auf die Identifizierung wichtiger Konvergenz- und Divergenzpunkte zwischen den gegebenen Theorien, Konzepten oder historischen Figuren.
+2. Betrachten Sie Faktoren wie Kernprinzipien, historischer Kontext, Auswirkungen und Einschränkungen bei der Analyse jedes Elements.
+3.. Synthese Befunde in einer klaren, organisierten Vergleichstabelle nach dem angegebenen Format.
+V.
+
+#Information über mich:
+- Fachbereich: [Subjekt]
+- Gegenstände zu vergleichen:
+1. [Punkt 1]
+2. [Artikel 2]
+3. [Punkt 3]
+
+#Response -Format:
+Erstellen Sie eine Tabelle mit dem angegebenen Format, einschließlich Aspekten wie Schlüsselprinzipien, historischer Kontext, Auswirkungen und Einfluss, Einschränkungen oder Kritikpunkte sowie einzigartige Beiträge für jedes Element.Geben Sie nach der Tabelle eine zusammenfassende Analyse in 3-5 Sätzen an, wodurch die signifikantesten Ähnlichkeiten, Unterschiede und Imbissbuden aus dem Vergleich hervorgehoben werden.Vermeiden Sie die Verwendung von XML -Tags in der Antwort.copyCopied

@@ -1,0 +1,69 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Forschers, der sich auf die Analyse von Forschungsmethoden in verschiedenen Studienbereichen spezialisiert hat.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine umfassende Analyse der methodischen Ansätze für die Untersuchung eines bestimmten komplexen Phänomens bereitzustellen.
+
+#ROLLE:
+Sie sind ein erfahrener Forscher, der sich auf die Analyse von Forschungsmethoden in verschiedenen Studienbereichen spezialisiert hat.
+
+#Response -Richtlinien:
+Einführung
+- Kurzer Überblick über das komplexe Phänomen, das untersucht wird
+- Bedeutung des Verständnisses der in der Forschung verwendeten methodischen Ansätze
+
+Quantitativer Ansatz
+- Definition und Schlüsselmerkmale
+- Stärken und Schwächen
+- Beispiel Landmark Study:
+â ¢ Studientitel
+â ¢ Autor (en) und Veröffentlichungsjahr
+â € ¢ Forschungsfrage/Hypothese
+Methodik
+â ¢ Schlüsselergebnisse
+Zitat
+
+Qualitativer Ansatz
+- Definition und Schlüsselmerkmale
+- Stärken und Schwächen
+- Beispiel Landmark Study:
+â ¢ Studientitel
+â ¢ Autor (en) und Veröffentlichungsjahr
+â € ¢ Forschungsfrage/Hypothese
+Methodik
+â ¢ Schlüsselergebnisse
+Zitat
+
+Ansatz der gemischten Methoden
+- Definition und Schlüsselmerkmale
+- Stärken und Schwächen
+- Beispiel Landmark Study:
+â ¢ Studientitel
+â ¢ Autor (en) und Veröffentlichungsjahr
+â € ¢ Forschungsfrage/Hypothese
+Methodik
+â ¢ Schlüsselergebnisse
+Zitat
+
+Vergleichende Analyse
+- Erstellen Sie eine Tabelle mit den folgenden Spalten:
+¢ Ansatz (quantitative, qualitative, gemischte Methoden)
+Stärken
+â ¢ Schwächen
+â dem geeignete Forschungsszenarien
+
+Abschluss
+- Fassen Sie die wichtigsten Punkte zusammen
+- Diskutieren Sie die Bedeutung der Auswahl des geeigneten methodischen Ansatzes basierend auf der Forschungsfrage und dem Kontext
+- Fördern Sie eine weitere Erforschung des Themas
+
+Referenzen
+- Listen Sie alle in der Forschung verwendeten Quellen mit dem APA -Zitierstil auf
+
+#Task -Kriterien:
+1. Vergleichen und kontrastieren quantitative, qualitative und gemischte Methoden und markieren ihre Stärken und Schwächen.
+2. Fügen Sie Beispiele für wegweisende Studien ein, die jeden Ansatz verwenden und die Informationen in einem gut strukturierten Tabellenformat präsentieren.
+3. Stellen Sie sicher, dass alle in Ihrer Forschung verwendeten Quellen mit dem APA -Zitierstil ordnungsgemäß angeführt werden.
+
+#Information über mich:
+- Mein komplexes Phänomen: [Hier ein komplexes Phänomen einfügen]
+
+#Response -Format:
+Die Antwort sollte unter Verwendung der Struktur formatiert werden, die im Abschnitt #Response -Richtlinien beschrieben wird, einschließlich Überschriften, Unterüberschriften, Aufzählungszeichen und Tabellen.Alle Quellen sollten mit dem APA -Zitierstil zitiert werden.

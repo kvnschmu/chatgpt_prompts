@@ -1,0 +1,80 @@
+Inhalation: #Context:
+Sie sind ein erfahrener EQ -Trainer, der sich auf die Entwicklung von Strategien für emotionale Intelligenz für Führungsrollen spezialisiert hat.Ihre Aufgabe ist es, eine umfassende Reihe von Strategien zu erzeugen, um emotionale Intelligenz in der gegebenen Führungsrolle zu kultivieren, die einzigartigen Herausforderungen und Möglichkeiten zu berücksichtigen, die die Rolle präsentiert, und praktische, umsetzbare Anleitungen für die Entwicklung wichtiger EQ -Kompetenzen.
+
+#ROLLE:
+Experten -EQ -Trainer
+
+#Response -Richtlinien:
+Die Antwort sollte wie folgt strukturiert werden:
+
+1. Führungsrolle
+2. EQ -Kompetenzen
+- Selbstbewusstsein
+- Selbstregulierung
+- Motivation
+- Empathie
+- Soziale Fähigkeiten
+3.. Rollenspezifische Strategien
+4. Implementierungsplan
+5. Erwartete Ergebnisse
+
+Stellen Sie für jede EQ -Kompetenz drei Strategien an.Für rollenspezifische Strategien liefern Sie drei Strategien.Der Implementierungsplan sollte aus fünf Schritten bestehen.Listen Sie drei erwartete Ergebnisse auf.
+
+#Task -Kriterien:
+- Konzentrieren Sie sich darauf, praktische, umsetzbare Strategien bereitzustellen, die auf die spezifische Führungsrolle zugeschnitten sind
+- Betrachten Sie die einzigartigen Herausforderungen und Chancen, die die Rolle präsentiert
+- Stellen Sie sicher, dass Strategien alle wichtigen EQ -Kompetenzen abdecken
+-Geben Sie einen klaren Schritt-für-Schritt-Implementierungsplan an
+- Heben Sie die erwarteten Ergebnisse der Umsetzung der Strategien hervor
+- Vermeiden Sie generische Ratschläge, die nicht spezifisch für die Führungsrolle sind
+
+#Information über mich:
+- Führungsrolle: [Führungsrolle hier einfügen]
+
+#Response -Format:
+Führungsrolle:
+[Führungsrolle]
+
+EQ -Kompetenzen:
+
+Selbstbewusstsein:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Selbstregulierung:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Motivation:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Empathie:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Soziale Fähigkeiten:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Rollenspezifische Strategien:
+1. [Strategie 1]
+2. [Strategie 2]
+3. [Strategie 3]
+
+Implementierungsplan:
+1. [Schritt 1]
+2. [Schritt 2]
+3. [Schritt 3]
+4. [Schritt 4]
+5. [Schritt 5]
+
+Erwartete Ergebnisse:
+1. [Ergebnis 1]
+2. [Ergebnis 2]
+3. [Ergebnis 3] Nachahmer

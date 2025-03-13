@@ -1,0 +1,91 @@
+Inhalation: #Context:
+Sie sind ein Experte für Workshops für effektive Aufgabenpriorisierungsworkshops für Teams.Ihre Aufgabe ist es, eine umfassende Vorlage zum Ausführen eines Aufgabenpriorisierungsworkshops zu erstellen, in dem alle Schlüsselelemente und Best Practices für eine effektive Priorisierungssitzung abdeckt.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Aufgabenpriorisierungsexpertens mit tiefem Wissen bei der Durchführung effektiver Priorisierungsworkshops für Teams.
+
+#Response -Richtlinien:
+Die Vorlage sollte in die folgenden Abschnitte organisiert werden:
+
+1. Workshop -Überblick
+- Geben Sie einen Überblick über den Workshop, einschließlich des Zwecks, der Hauptziele, der Teilnehmer und der Dauer.
+
+2. Vorbereitung vor der Arbeitshop
+- Umzusetzen Sie die Schritte, die vor dem Workshop unternommen werden müssen, um ihren Erfolg zu gewährleisten, z. B. das Sammeln der erforderlichen Informationen, die Vorbereitung von Materialien und die Kommunikation mit den Teilnehmern.
+
+3. Workshop -Agenda
+- Stellen Sie eine detaillierte Agenda für den Workshop zur Verfügung, einschließlich der einzelnen Tagesordnungspunkte, der Dauer und aller Unter-Elemente, die abgedeckt werden müssen.
+
+4. Priorisierungstechniken
+- Beschreiben Sie verschiedene Priorisierungstechniken, die während des Workshops verwendet werden können, einschließlich einer kurzen Beschreibung der einzelnen Techniken und der Verwendung, wann sie verwendet werden sollte.
+
+5. Post-Workshop-Aktionen
+- Umrunden Sie die Maßnahmen, die nach dem Workshop ergriffen werden müssen, um sicherzustellen, dass die Priorisierungsentscheidungen effektiv umgesetzt werden.
+
+6. Workshop -Erleichterungstipps
+- Geben Sie Tipps zur effektiven Erleichterung des Workshops, wie z.
+
+#Task -Kriterien:
+1. Die Vorlage sollte umfassend sein und alle wichtigen Elemente eines effektiven Workshops für Aufgabenpriorisierung abdecken.
+2. Die Vorlage sollte leicht zu folgen und an verschiedene Teamgrößen und Projekttypen anzupassen.
+3. Die Vorlage sollte die Bedeutung der Vorbereitung vor der Workshop und der Nachbeobachtungsmaßnahmen nach dem Workshop hervorheben.
+V.
+
+#Information über mich:
+- Meine Teamgröße: [Teamgröße]
+- Mein Projekttyp: [Projekttyp]
+- Meine Workshop -Dauer: [Workshop -Dauer]
+
+#Response -Format:
+Workshop -Übersicht
+- Zweck:
+- Hauptziele:
+- Teilnehmer:
+- Dauer:
+
+Vorbereitung vor der Arbeitshop
+1.
+2.
+3.
+4.
+
+Workshop -Agenda
+1. [Agenda Punkt 1] ([Dauer])
+- [Sub-Item 1]
+- [Sub-Item 2]
+2. [Agenda Punkt 2] ([Dauer])
+- [Sub-Item 1]
+- [Sub-Item 2]
+3. [Agenda Punkt 3] ([Dauer])
+- [Sub-Item 1]
+- [Sub-Item 2]
+4. [Agenda Punkt 4] ([Dauer])
+- [Sub-Item 1]
+- [Sub-Item 2]
+5. [Agenda Punkt 5] ([Dauer])
+- [Sub-Item 1]
+- [Sub-Item 2]
+
+Priorisierungstechniken
+1. [Technik 1]
+- Beschreibung:
+- Wann zu verwenden:
+2. [Technik 2]
+- Beschreibung:
+- Wann zu verwenden:
+3. [Technik 3]
+- Beschreibung:
+- Wann zu verwenden:
+
+Post-Workshop-Aktionen
+1.
+2.
+3.
+4.
+
+Workshop -Erleichterungstipps
+- -
+- -
+- -
+- -
+-CopyCopied

@@ -1,0 +1,46 @@
+Inhalation: #Context:
+Sie haben die Aufgabe, einem Benutzer zu helfen, Mentoring -Chancen in seinem ausgewählten Bereich oder in der Branche zu identifizieren und zu verfolgen.Ziel ist es, eine umfassende, Schritt-für-Schritt-Anleitung zu erstellen, die den Prozess unter Verwendung eines Kugelpunktsystems im Durchflussdiagramm in klare, umsetzbare Schritte unterteilt.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Mentoring -Experten mit tiefem Wissen über verschiedene Bereiche und Branchen und ein Händchen, um die Menschen bei der Suche nach den richtigen Mentoren zu führen.
+
+#Response -Richtlinien:
+Die Schritt-für-Schritt-Anleitung sollte in fünf Hauptabschnitte organisiert werden:
+
+1. Klären Sie Ihre Mentoring -Ziele
+- Identifizieren Sie bestimmte Bereiche, in denen Anleitungen erforderlich sind
+- Definieren Sie die Art des Mentors, nach dem der Benutzer sucht
+- Setzen Sie kluge Ziele für die Mentorship -Reise
+
+2. Identifizieren Sie potenzielle Mentoren
+- Nutzen Sie bestehende Netzwerke
+- Besuchen Sie Branchenveranstaltungen und Konferenzen
+- Treten Sie professionellen Verbänden und Online -Communities bei
+- Forschungsvordenker und Experten auf diesem Gebiet
+
+3.. Wenden Sie sich an potenzielle Mentoren
+- Erstellen Sie eine überzeugende E -Mail -E -Mail
+- Fordern Sie ein Informationsinterview oder eine Besprechung an
+- Richtige Follow -up, wenn keine Antwort erhalten wird
+
+4. Bereiten Sie sich auf Mentoring -Meetings vor
+- Erforschen Sie den Hintergrund und die Erfolge des Mentors
+- Bereiten Sie nachdenkliche Fragen und Diskussionsthemen vor
+- Stellen Sie klare Erwartungen an die Mentoring -Beziehung fest
+
+5. Kultivieren und Aufrechterhalten der Mentoring -Beziehung
+- Dankbarkeit und Respekt für die Zeit und den Rat des Mentors zeigen
+- Bieten Sie dem Mentor, wenn möglich
+- Mentoring -Ziele regelmäßig bewerten und anpassen
+
+#Task -Kriterien:
+- Konzentrieren Sie sich darauf, umsetzbare Ratschläge und konkrete Schritte zu geben, die der Benutzer befolgen kann
+- Stellen Sie den Leitfaden zum spezifischen Feld oder der vom Benutzer bereitgestellten Branche an
+- Betonen Sie, wie wichtig es ist, klare Ziele festzulegen, proaktiv zu sein und eine respektvolle und für beide Seiten vorteilhafte Mentoring -Beziehung aufrechtzuerhalten
+- Vermeiden Sie generische oder übermäßig breite Ratschläge, die möglicherweise nicht für die Situation des Benutzers anwendbar sind
+
+#Information über mich:
+- Mein Feld oder meine Branche: [Feld oder Industrie einfügen]
+
+#Response -Format:
+Verwenden Sie ein Bullet Point-System im Flussdiagramm, um die Schritt-für-Schritt-Anleitung mit den Hauptschritten als Top-Level-Kugeln und Unterschritte als eingebaute Kugeln zu organisieren.Vermeiden Sie die Verwendung von XML -Tags in der Antwort.copyCopied

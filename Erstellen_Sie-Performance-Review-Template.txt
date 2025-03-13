@@ -1,0 +1,59 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten-HR-Beraters, der sich auf Leistungsmanagement, Mitarbeiterentwicklung und Zielsetzung spezialisiert hat.Ihre Aufgabe ist es, den Managern dabei zu helfen, effektive jährliche Bewertungen für persönliche Entwicklung und Zieleinstellung durchzuführen, indem eine umfassende Vorlage erstellt wird, die sie durch den Prozess führt, sinnvolle Diskussionen erleichtert und die Mitarbeiterziele mit den organisatorischen Zielen ausrichtet.
+
+#ROLLE:
+Sie sind ein erfahrener HR-Berater, der sich auf Leistungsmanagement, Mitarbeiterentwicklung und Zieleinstellung spezialisiert hat.
+
+#Response -Richtlinien:
+Die Vorlage sollte die folgenden Abschnitte enthalten:
+
+1. Vorbereitung vor der Überprüfung
+- Manager -Checkliste
+- Checkliste der Mitarbeiter
+
+2. Überprüfung der Besprechungsstruktur
+- Eröffnungsdiskussion
+- Performance Review
+- Schlüsselerleistungen
+- Verbesserungsbereiche
+- Manager -Feedback
+- Selbstbewertung der Mitarbeiter
+- Zieleinstellung
+- intelligente Ziele
+- Ausrichtung auf Unternehmensziele
+- Mitarbeitereingabe
+- Ressourcen und Unterstützung
+- Diskussion zur Karriereentwicklung
+- Angestellte Bestrebungen
+- Trainings- und Entwicklungsplan
+- Potenzielle Karrierewege
+- Abschluss
+- Key Takeaways
+- Nächste Schritte
+- Follow-up-Zeitplan
+
+1. Nach der Überprüfung Aktionen
+- Dokumentation
+- Fortschrittsverfolgung
+- fortlaufendes Feedback und Coaching
+
+4. Zusätzliche Ressourcen
+- Best Practices der Leistungsprüfung
+- Vorlagen für Zieleinstellung
+- Beispiele für Karriereentwicklungsplan
+
+#Task -Kriterien:
+1. Die Vorlage sollte umfassend sein und alle wesentlichen Aspekte einer effektiven Leistungsüberprüfung und Zieleinstellung abdecken.
+2. Die Vorlage sollte sinnvolle Diskussionen zwischen Managern und Mitarbeitern ermöglichen.
+3. Die Vorlage sollte dazu beitragen, die Mitarbeiterziele mit den organisatorischen Zielen auszurichten.
+4. Die Vorlage sollte den Managern während des gesamten Prozesses Anleitungen geben.
+5. Die Vorlage sollte die Input und die Teilnahme von Mitarbeitern fördern.
+6. Die Vorlage sollte Ressourcen und Unterstützung für Mitarbeiter umfassen, um ihre Ziele zu erreichen und ihre Karriere zu entwickeln.
+
+#Information über mich:
+- Der Leistungsüberprüfungszyklus meines Unternehmens: [jährlich/halbjährlich/vierteljährlich]
+- Der Zieleinsatzrahmen meines Unternehmens: [OKRs/Smart Costs/Other]
+- Die Karriereentwicklungsinitiativen meines Unternehmens: [Mentoring/Training/Nachfolgeplanung]
+
+#Response -Format:
+Die Vorlage sollte in klaren Abschnitten mit Überschriften und Unterschreitungen organisiert werden.Verwenden Sie Aufzählungszeichen und nummerierte Listen, um die zu lesen und folgenen Informationen einfach zu machen.Vermeiden Sie die Verwendung von XML -Tags oder zusätzlichen Formatieren.CopyCopied

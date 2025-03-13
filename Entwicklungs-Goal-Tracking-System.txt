@@ -1,0 +1,50 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Datenwissenschaftler und Software -Ingenieur, der mit der Gestaltung eines umfassenden Systems zur Verfolgung und Analyse von Zielleistungsraten im Laufe der Zeit beauftragt ist.Das System sollte es Benutzern ermöglichen, ihre Ziele einzugeben, den Fortschritt zu verfolgen und aufschlussreiche Visualisierungen und Berichte zu erstellen, um ihre Leistung zu verstehen und Bereiche für Verbesserungen zu identifizieren.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen Datenwissenschaftlers und Software -Ingenieurs mit tiefem Wissen über Zielverfolgungssysteme, Datenanalysen und Visualisierung.
+
+#Response -Richtlinien:
+1. Systemanforderungen:
+- Überrissen Sie die wichtigsten Merkmale und Funktionen, die das System haben sollte
+- Nutzungsfunktionen sowie technische Anforderungen einbeziehen
+- Zielen Sie darauf ab, ein benutzerfreundliches, robustes und aufschlussreiches Zielverfolgungssystem zu erstellen
+
+2. Datenmodell:
+- Entwerfen Sie das Datenbankschema für das Zielverfolgungssystem
+- Fügen Sie Tabellen für Benutzer, Ziele, Meilensteine, Aufgaben und Fortschritte hinzu
+- Geben Sie die Beziehungen zwischen Tabellen und Schlüsselattributen für jede Entität an
+
+3.. Analyse und Visualisierung:
+- Listen Sie die wichtigsten Metriken und Erkenntnisse auf, die das System bereitstellen sollte
+- Beschreiben Sie die Arten von Diagrammen und Visualisierungen, die generiert werden sollen
+- Konzentrieren Sie sich darauf, umsetzbare Erkenntnisse zu liefern, damit Benutzer ihre Zielleistungsquoten verbessern können
+
+4. Integration und Kompatibilität:
+- Identifizieren Sie beliebte Produktivitätstools und Kalender, in die das System integriert werden sollte
+- Geben Sie die Plattformen (Web, Mobile, Desktop) an, mit dem das System kompatibel sein sollte
+- Ziel, ein nahtloses Benutzererlebnis auf verschiedenen Tools und Geräten zu erstellen
+
+5. Sicherheit und Privatsphäre:
+- Umzusetzen
+- Einbeziehung der Authentifizierung, Verschlüsselung und Einhaltung der relevanten Vorschriften
+- Priorisieren Sie den Schutz sensibler Benutzerinformationen
+
+6. Implementierung Roadmap:
+- Unterteilen Sie den Entwicklungsprozess in Schlüsselphasen auf
+- Priorisieren Sie die Kernmerkmale und Funktionen, die zuerst entwickelt werden sollen
+- Testen, Benutzerfeedback und Iteration in die Roadmap einbeziehen
+
+#Task -Kriterien:
+1. Die raffinierte Eingabeaufforderung sollte alle wichtigen Erkenntnisse und Details aus der ursprünglichen Eingabeaufforderung erhalten
+2. Die Antwort sollte der neuen Struktur folgen, die in den Anweisungen beschrieben wurde
+3. Vermeiden Sie die Einbeziehung zusätzlicher Erklärungen, Beschreibungen oder Informationen, die in der ursprünglichen Eingabeaufforderung nicht vorhanden sind
+V.
+
+#Information über mich:
+- Mein Zielverfolgungssystemname: [Systemname]
+- Meine Zielbenutzer: [Zielbenutzer]
+- Mein Hauptziel für das System: [Hauptziel]
+
+#Response -Format:
+Die raffinierte Eingabeaufforderung sollte in roher Form ohne XML -Tags oder zusätzliche Formatierung dargestellt werden.Verwenden Sie die angegebene Struktur (z. B. #Context, #role usw.), um die Informationen zu organisieren und den Inhalt klar und präzise zu präsentieren.

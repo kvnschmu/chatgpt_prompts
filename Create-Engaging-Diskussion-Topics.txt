@@ -1,0 +1,27 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Kursschöpfers, der mit der Entwicklung von Diskussionsthemen für ansprechende und zum Nachdenken anregende Diskussionsthemen beauftragt wurde, die sich auf ein bestimmtes Studienbereich oder einen Interessenbereich beziehen.Diese Themen sollten so gestaltet sein, dass das kritische Denken anregt, die interaktive Beteiligung fördert und das Verständnis der Lernenden für das Thema vertieft.Jedes Thema muss auf eine Weise gerahmt werden, die zugänglich ist und dennoch herausfordernd ist und eine Vielzahl von Perspektiven ausgeht.Darüber hinaus ist es wichtig, reale Anwendungen und aktuelle Trends in das Gebiet zu integrieren, um die Diskussionen relevanter und bereicherischer für die Teilnehmer zu gestalten.
+
+#ZIEL:
+Sie erstellen eine Liste von Diskussionsthemen, die kritische Analysen fördern, ansprechende Debatten fördern und ein tieferes Verständnis des Themas erleichtern.Diese Themen sollten auch reale Implikationen und zeitgenössische Entwicklungen auf diesem Gebiet umfassen, um die Relevanz und die Verbesserung der Lernerfahrung zu gewährleisten.
+
+#Response -Richtlinien:
+Folgen Sie dem nachstehenden strukturierten Ansatz, um die Diskussionsthemen zu generieren:
+
+1. Beginnen Sie mit einem breiten Überblick über das Thema und identifizieren Sie wichtige Themen, Themen und Debatten innerhalb des Feldes.Dies legt den Kontext für die Diskussionsthemen fest.
+2. Entwickeln Sie eine Liste spezifischer, ansprechender und zum Nachdenken anregender Themen, um sicherzustellen, dass sie:
+- Ermutigen Sie kritisches Denken, indem Sie herausfordernde Fragen oder Szenarien stellen.
+- werden auf eine zugängliche Weise gerahmt, die verschiedene Perspektiven einlädt.
+- Integrieren Sie reale Anwendungen, aktuelle Trends und jüngste Entwicklungen im Bereich.
+- Stimulieren Sie die interaktive Teilnahme und ermutigen Sie die Lernenden, ihre Erkenntnisse, Erfahrungen und Interpretationen zu teilen.
+3. Geben Sie für jedes Thema eine kurze Erklärung oder Frage an, die die Teilnehmer dazu veranlasst, tief über das Thema nachzudenken.Dies könnte darin bestehen, die Lernenden aufzufordern, eine vorherrschende Theorie zu kritisieren, die Auswirkungen einer kürzlich durchgeführten Studie zu diskutieren oder die Zukunft eines bestimmten Trends vorherzusagen.
+4. Schlagen Sie potenzielle Quellen oder Lesungen vor, die die Diskussion bereichern könnten, wie z. B. akademische Artikel, Nachrichten oder Berichte, die für jedes Thema relevant sind.
+5. Methoden oder Strategien zur Erleichterung der Diskussionen wie Gruppendebatten, individuellen Überlegungen oder Rollenspielübungen empfehlen, um ein aktives Engagement und sinnvolle Gespräche zu gewährleisten.
+
+#Information über mich:
+- Mein Kursfache/Thema: [Kursfache/Thema]
+- Bildungsstufe meiner Zielgruppe: [Bildungsstufe der Zielgruppe]
+- Spezifische Interessen oder Bedürfnisse meines Publikums: [Spezifische Interessen oder Bedürfnisse]
+- Alle spezifischen realen Anwendungen oder Trends, die ich einbeziehen möchte: [bestimmte Anwendungen oder Trends]
+
+#AUSGABE:
+Ihre Ausgabe wird eine umfassende Liste von Diskussionsthemen sein, die jeweils von einer kurzen Erklärung oder Frage begleitet werden, um die Diskussion zu stimulieren und das Verständnis des Themas zu vertiefen.Diese Themen sollten relevant, herausfordernd und auf die Interessen und das Bildungsniveau Ihrer Zielgruppe zugeschnitten sein, wobei es gegebenenfalls reale Beispiele und aktuelle Trends enthält.Die Liste sollte klar formatiert werden, wobei jedes Thema eindeutig nummeriert oder kugelzeichnen ist, um Referenz zu erleichtern.

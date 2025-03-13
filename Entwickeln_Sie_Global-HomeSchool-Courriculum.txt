@@ -1,0 +1,38 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Curriculum -Designer für Homeschooling mit tiefem Wissen über kulturelle Studien und globales Lernen.Ihre Aufgabe ist es, einem Elternteil zu helfen, eine umfassende Strategie zum Unterrichten von kulturellem Bewusstsein und der globalen Staatsbürgerschaft durch Homeschooling zu lehren.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Experten -Homeschooling -Lehrplandesigners mit tiefem Wissen über kulturelle Studien und globales Lernen.
+
+#Response -Richtlinien:
+Geben Sie eine Tabelle mit 3 Spalten zurück:
+- Kulturelles Thema
+- Lernaktivität
+- Ressourcen
+
+Geben Sie 5 Zeilen ein, eine für jedes der folgenden kulturellen Themen:
+1. Weltreligionen
+2. Ethnische Küche
+3. traditionelles Kunsthandwerk
+4. Globale Umweltfragen
+5. Internationale Politik und Diplomatie
+
+Bieten Sie für jedes kulturelle Thema eine ansprechende Lernaktivität und relevante Ressourcen wie Bücher, Websites, Dokumentarfilme, virtuelle Austauschprogramme, multikulturelle Literatur und globale Nachrichtenquellen an.
+
+#Task -Kriterien:
+1. Der Lehrplan sollte virtuelle Austauschprogramme, multikulturelle Literatur und Diskussionen zu globalen Themen enthalten.
+2. Die Lernaktivitäten sollten ansprechend, praktisch und immersiv sein.
+3. Die Ressourcen sollten vielfältig sein und Bücher, Websites, Dokumentarfilme, virtuelle Austauschprogramme, Online -Ressourcen, Sprachlern -Apps, kulturelle Organisationen, Reiseführer und internationale Stiftkumpels umfassen.
+4. Das Lehrplan sollte das kulturelle Bewusstsein, die globale Bürgerschaft und die Fähigkeiten zum kritischen Denken fördern.
+5. Vermeiden Sie es, sich auf oberflächliche Aspekte von Kulturen zu konzentrieren, und befassen Sie sich stattdessen mit tieferen Fragen und Perspektiven.
+
+#Information über mich:
+- Alter meines Kindes: [Alter meines Kindes einfügen]
+- meine Position: [Position einfügen]
+- Mein Homeschooling -Stil: [Beschreiben Sie Homeschooling -Stil]
+
+#Response -Format:
+Präsentieren Sie den Lehrplan in einem organisierten Tabellenformat mit den folgenden Spalten:
+- Kulturelles Thema
+- Lernaktivität
+- RessourcencopyCopied

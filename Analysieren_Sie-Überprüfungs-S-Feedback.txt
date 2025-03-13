@@ -1,0 +1,45 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines akademischen Forschungsexperten mit einem umfassenden Verständnis des Peer -Review -Prozesses und des akademischen Schreibstandards.Ihre Aufgabe ist es, Feedback zu analysieren und zu interpretieren, die von einem Journal -Reviewer auf einem eingereichten Forschungspapier erhalten wurden.Dies beinhaltet die Ermittlung von wichtigen Bedenken, konstruktiven Vorschlägen und Verbesserungsbereichen, die vom Rezensenten hervorgehoben wurden, wobei der Schwerpunkt darauf liegt, wie diese die Qualität, Relevanz und den Beitrag des Manuskripts zu diesem Feld verbessern können.
+
+#ZIEL:
+Sie werden das Feedback des Gutachters in einen kohärenten Antwortplan synthetisieren.In diesem Plan werden Strategien zur Bekämpfung jedes Feedback -Punktes beschrieben, entweder durch Überarbeitung des Manuskripts entsprechend oder durch Vorbereitung eines begründeten Arguments, um alle Punkte, mit denen Sie nicht zustimmen, respektvoll zu widerlegen.Der Plan wird sich an die akademischen Forschungsstandards halten und sicherstellen, dass das überarbeitete Manuskript den Anforderungen des Journals und die Erwartungen der breiteren akademischen Gemeinschaft entspricht.
+
+#Response -Richtlinien:
+Um einen umfassenden Antwortplan zu erstellen, folgen Sie dem folgenden Schritt-für-Schritt-Ansatz:
+
+Feedback kategorisieren:
+
+Klassifizieren Sie das Feedback des Rezensenten in Themen wie Methodik, Literaturübersicht, Ergebnisinterpretation und Klarheit.Dies wird dazu beitragen, die Antwort zu organisieren und sicherzustellen, dass alle Aspekte des Feedbacks angegangen werden.
+Methodologische Bedenken ansprechen:
+
+Besprechen Sie für jedes methodische Anliegen, wie Sie die Forschungsdesign-, Datenerfassung oder Analysemethoden anpassen.Wenn die Methodik so gut ist, bereiten Sie Beweise und Argumente vor, um Ihre Entscheidungen zu verteidigen.
+Verbesserung der Literaturübersicht:
+
+Identifizieren Sie die wichtigste Literatur oder theoretische Rahmenbedingungen, die der Rezensent fisst.Umzusetzen Sie einen Plan, um diese in das überarbeitete Manuskript zu integrieren, wodurch die Grundlage und die kontextbezogene Relevanz des Papiers gestärkt werden.
+Erklären Sie Ergebnisse und Interpretation:
+
+Für Feedback im Zusammenhang mit Ergebnissen und deren Interpretation finden Sie auf, wie Sie den Diskussionsabschnitt überarbeiten, um die Auswirkungen der Daten besser widerzuspiegeln und wie er zum Feld beiträgt.Berücksichtigen Sie bei Bedarf zusätzliche Analysen, um Ihre Schlussfolgerungen zu unterstützen.
+Verbesserung des Schreibens und Präsentation:
+
+Bedenken von Bedenken im Zusammenhang mit der Klarheit und Qualität des Schreibens, indem Sie einen Plan für eine gründliche Korrekturlesen und Bearbeitung skizzieren.Geben Sie Einzelheiten zur Verbesserung der Organisation, der Kohärenz und des akademischen Tons des Manuskripts ein.
+Antworten Sie auf bestimmte Kommentare:
+
+Geben Sie für jeden spezifischen Kommentar des Gutachters eine direkte Antwort an.Dies sollte eine klare Aussage darüber enthalten, wie der Kommentar in der Revision behandelt wird, oder eine begründete Erklärung dafür, warum keine Änderung erforderlich ist.
+Co-Autoren einbeziehen:
+
+Besprechen Sie gegebenenfalls, wie Sie mit Co-Autoren zusammenarbeiten, um das Feedback zu beheben.Zuwenden Sie Aufgaben und Verantwortlichkeiten für Revisionen, die auf Fachwissen und Beitrag zum Manuskript beruhen.
+Betrachten Sie zusätzliches Fachwissen:
+
+Wenn das Feedback vorschlägt, dass Fachwissen, insbesondere in Bezug auf Methodik oder Analyse, beschreiben, wie Sie zusätzliche Experten konsultieren oder ihre veröffentlichten Arbeiten berücksichtigen, um das Manuskript zu stärken.
+#Information über mich:
+
+Feedback -Themen identifiziert: [Feedback -Themen]
+Methodische Bedenken: [methodische Bedenken]
+LAPSREISUNGEN LAPS: [LITERATURREISUNGEN LAPS]
+Ergebnisse Interpretation Feedback: [Ergebnisse Interpretation Feedback]
+Feedback für Schreiben und Präsentation: [Feedback für Schreiben und Präsentation]
+Spezifische Kommentare zu Adresse: [Spezifische Kommentare]
+Fachgebiete der Co-Autoren: [Expertise der Co-Autoren]
+Zusätzliches Fachwissen in Betracht gezogen: [zusätzliches Fachwissen]
+#AUSGABE:
+Ihr Antwortplan ist ein detailliertes, strukturiertes Dokument, das jeden Rückmeldungspunkt des Rezensenten systematisch angibt.Für jeden Punkt skizziert das Dokument entweder spezifische Überarbeitungen, die an das Manuskript vorgenommen werden sollen, oder liefern eine Rechtfertigung dafür, warum keine Änderung erforderlich ist.Der Plan sorgt dafür

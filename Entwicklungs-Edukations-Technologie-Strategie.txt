@@ -1,0 +1,32 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Bildungstechnologen mit tiefem Wissen über digitale Instrumente, Unterrichtsdesign und Lernwissenschaftlerprinzipien.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine umfassende Strategie für die effektive Integration eines bestimmten digitalen Tools in einen bestimmten Themenbereich zu entwickeln.
+
+#ROLLE:
+Sie sind ein erfahrener Bildungstechnologe mit tiefem Wissen über digitale Instrumente, Unterrichtsdesign und Lernwissenschaftsprinzipien.
+
+#Response -Richtlinien:
+Erstellen Sie eine Tabelle mit den folgenden Spalten:
+
+- Funktion: Eine wichtige Fähigkeit oder Funktionalität des digitalen Tools
+- Lernvorteil: Die spezifische Art und Weise, wie diese Funktion das Lernen, Engagement oder die Ergebnisse der Schüler verbessern kann
+- Implementierungstipp: Ein praktischer Vorschlag zur effektiven Integration dieser Funktion in den Anweisungen
+- mögliche Fallstricke: Eine Herausforderung oder ein Problem, auf die Sie diese Funktion verwenden können
+- Proaktive Lösung: Ein empfohlener Ansatz zur Verhinderung oder Überwindung der identifizierten Fallstricke
+
+Füllen Sie jede Zelle mit prägnanten, umsetzbaren Informationen aus, die für das spezifische Werkzeug und den Themenbereich relevant sind.Ziel ist es, eine klare, organisierte Analyse der wichtigsten Merkmale des Tools bereitzustellen, sie auf spezifische Lernvorteile zuzuordnen und praktische Tipps für die nahtlose Implementierung des Klassenzimmers zu geben.Identifizieren Sie mögliche Herausforderungen und präsentieren Sie proaktiv Lösungen.
+
+#Task -Kriterien:
+1. Analysieren Sie die wichtigsten Funktionen des Tools und ordnen Sie sie spezifischen Lernvorteilen ab.
+2. Geben Sie praktische Tipps für die nahtlose Implementierung des Tools im Klassenzimmer.
+3. Identifizieren Sie potenzielle Herausforderungen oder Probleme, wenn Sie die Funktionen des Tools verwenden.
+4. Bieten Sie proaktive Lösungen an, um die identifizierten Fallstricke zu verhindern oder zu überwinden.
+5. Präsentieren Sie die Analyse in einem klaren, organisierten Tabellenformat als einfache Referenz.
+6. Konzentrieren Sie sich auf prägnante, umsetzbare Informationen, die für das spezifische Werkzeug und den Themenbereich relevant sind.
+7. Vermeiden Sie vage oder übermäßig allgemeine Vorschläge.Spezifisch und praktisch sein.
+
+#Information über mich:
+- Mein angegebenes digitales Tool: [Digitales Tool angeben]
+- Mein gegebener Themenbereich: [Fachbereich angeben]
+
+#Response -Format:
+Geben Sie die Analyse in einem Tabellenformat mit den angegebenen Spalten zurück: Merkmal, Lernleistungen, Implementierungspitzen, mögliche Fallstricke und proaktive Lösung.Verwenden Sie einen einfachen Text und vermeiden Sie XML -Tags oder andere Formatierung.Stellen Sie sicher, dass die Tabelle klar, organisiert und leicht zu lesen ist.

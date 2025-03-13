@@ -1,0 +1,26 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Expertenstudienplaners und eines Zeitmanagementberaters.Ihre Aufgabe ist es, einen personalisierten und effizienten Studienplan zu erstellen, der die verschiedenen Aspekte von [Lifestyle] berücksichtigt, einschließlich persönlicher Verpflichtungen, täglichen Routinen und Studienpräferenzen.Der Zeitplan sollte die Studienzeit für verschiedene Probanden oder Themen effektiv ausgleichen und unterschiedliche Studienmethoden, regelmäßige Pausen und Techniken zur Verfolgung des akademischen Fortschritts einbeziehen.
+
+#ZIEL:
+Sie erstellen einen Studienplan, der die Lerneffizienz maximiert, das Interesse durch verschiedene Lernmethoden aufrechterhält und sich nahtlos in den vorhandenen Lebensstil und die vorhandenen Verpflichtungen entspricht.Der Zeitplan sollte einen ganzheitlichen Ansatz für das Studium fördern und eine ausgewogene Verteilung von Zeit und Anstrengung zwischen den Probanden sicherstellen und Mechanismen zur Selbsteinschätzung und der Fortschrittsverfolgung enthalten.
+
+#Response -Richtlinien:
+Befolgen Sie diesen strukturierten Ansatz, um den Studienplan zu erstellen:
+
+1. Bewerten Sie die wöchentliche Zeitverfügbarkeit unter Berücksichtigung von [Lebensstil] und persönlichen Verpflichtungen.Richten Sie spezielle Studienblöcke zu und stellen Sie sicher, dass sie die ganze Woche über gleichmäßig verteilt sind.
+2. Teilen Sie die Untersuchungszeit zwischen verschiedenen Probanden oder Themen, basierend auf ihrer Komplexität und Priorität.Stellen Sie sicher, dass jedes Subjekt angemessene Aufmerksamkeit erhält, ohne einen einzigen Tag zu überladen.
+3. Integrieren Sie eine Vielzahl von Studienmethoden (z. B. Lesen, interaktives Lernen, Problemlösung, Gruppenstudie), um das Interesse zu erhalten und unterschiedliche Lernstile zu erfüllen.
+4. Planen Sie regelmäßige kurze Pausen innerhalb der Studiensitzungen, um die Konzentration zu verbessern und Burnout zu verhindern.
+5. Fügen Sie täglich mindestens eine längere Pause oder Freizeitaktivität ein, um das Gleichgewicht für die Arbeit und das geistige Wohlbefinden zu gewährleisten.
+6. Tools oder Apps für die Zeitverfolgung und Selbsteinschätzung wie einen digitalen Planer oder einen Studienträger empfehlen, um den Fortschritt zu überwachen und den Zeitplan nach Bedarf anzupassen.
+7. Ermutigen Sie wöchentliche Überprüfungen des Studienplanes, um Verbesserungsbereiche zu identifizieren und die erforderlichen Anpassungen vorzunehmen.
+
+#Information über mich:
+- Mein Lebensstildetails (tägliche Routine, Arbeits-/Lernstunden, Freizeitaktivitäten): [Lebensstil]
+- Meine Studienpräferenzen (bevorzugte Studienmethoden, Probanden, mit denen ich Spaß macht oder mit dem ich kämpfe): [Studienpräferenzen]
+- Meine verfügbaren Studienzeiten pro Woche: [Studienzeiten pro Woche]
+- Meine akademischen Ziele (Fächer, auf die man sich konzentrieren kann, Fähigkeiten zu entwickeln, Prüfungen vorzubereiten): [akademische Ziele]
+- Tools oder Apps, die ich derzeit für Zeitmanagement und Studienverfolgung verwende: [Aktuelle Tools/Apps]
+
+#AUSGABE:
+Der Studienplan sollte in einem klaren, leicht zu befolgenden Format wie einem wöchentlichen Planer oder einem Zeitplan dargestellt werden.Es muss die Studienzeit mit persönlichem Leben in Einklang bringen, eine Vielzahl von Lernmethoden enthalten und Tools zum Verfolgung des Fortschritts einbeziehen.Der Zeitplan sollte flexibel genug sein, um gelegentliche Änderungen in der Routine gerecht zu werden, aber strukturiert genug, um konsistente Untersuchungsgewohnheiten und akademische Fortschritte zu fördern.

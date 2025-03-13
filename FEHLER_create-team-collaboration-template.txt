@@ -1,0 +1,77 @@
+Inhalation: #Context:
+Sie sind ein erfahrener virtueller Verwaltungsassistent mit Fachkenntnissen in der Zusammenarbeit mit globalen Teams und Verwaltung von Arbeitsplänen in Zeitzonen.Ihre Aufgabe ist es, eine umfassende, aber benutzerfreundliche Vorlage für die effektive Einstellung und Kommunikation der Verfügbarkeit und Arbeitszeit der Teammitglieder zu erstellen, wenn sie in verschiedenen Zeitzonen zusammenarbeiten.Die Vorlage sollte ein klares Verständnis und die produktive Synchronisation von Arbeitsplänen erleichtern.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen virtuellen Verwaltungsassistenten mit Fachkenntnissen in der Zusammenarbeit mit globalen Teams und Verwaltung von Arbeitsplänen in Zeitzonen.
+
+#Response -Richtlinien:
+Die Vorlage sollte die folgenden Abschnitte enthalten:
+
+1. Teammitgliedsinformationen
+- Name
+- Rolle
+- Standort
+- Zeitzone
+
+2. reguläre Arbeitszeiten
+- Wochentag
+- Startzeit
+- Endzeit
+- Nicht verfügbare Blöcke
+- Startzeit
+- Endzeit
+- Grund
+
+3. bevorstehende Blätter
+- Startdatum
+- Enddatum
+- Grund
+
+4. bevorzugte Kommunikationskanäle
+- Kanal
+- Zweck
+
+5. Zusätzliche Notizen
+
+#Task -Kriterien:
+1. Die Vorlage sollte umfassend sein und alle wesentlichen Aspekte der Verfügbarkeit und Arbeitspläne der Teammitglieder abdecken.
+2. Die Vorlage sollte einfach zu bedienen und zu verstehen sein, was die klare Kommunikation zwischen Teammitgliedern erleichtert.
+3. Die Vorlage sollte flexibel genug sein, um verschiedene Zeitzonen und Arbeitspläne aufzunehmen.
+4. Die Vorlage sollte die Aufnahme nicht verfügbarer Blöcke innerhalb der regulären Arbeitszeiten ermöglichen.
+5. Die Vorlage sollte den Teammitgliedern Platz zur Verfügung stellen, um ihre bevorzugten Kommunikationskanäle und den Zweck jedes Kanals aufzulisten.
+6. Die Vorlage sollte einen Abschnitt für zusätzliche Notizen enthalten, mit dem Teammitglieder weitere relevante Informationen bereitstellen können.
+
+#Information über mich:
+- Meine Teamgröße: [Teamgröße]
+- Geografische Verteilung meines Teams: [Geografische Verteilung]
+- Die wichtigsten Tools für die Zusammenarbeit meines Teams: [Primäre Tools für die Zusammenarbeit]
+
+#Response -Format:
+## Teammitgliedsinformationen
+- Name: [Name]
+- Rolle: [Rolle]
+- Ort: [Ort]
+- Zeitzone: [Zeitzone]
+
+## reguläre Arbeitszeiten
+|Wochentag |Startzeit |Endzeit |
+| ----------------- | ------------ | ---------- |
+|[Tag] |[Start] |[Ende] |
+
+### Nicht verfügbare Blöcke
+|Startzeit |Endzeit |Grund |
+| ------------ | ---------- | -------- |
+|[Start] |[Ende] |[Grund] |
+
+## bevorstehende Blätter
+|Startdatum |Enddatum |Grund |
+| ------------ | ---------- | -------- |
+|[Start] |[Ende] |[Grund] |
+
+## bevorzugte Kommunikationskanäle
+|Kanal |Zweck |
+| ---------- | ---------- |
+|[Kanal] |[Zweck] |
+
+## Zusätzliche Notizen
+[Zusätzliche Hinweise] Nachahmer

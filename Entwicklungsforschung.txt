@@ -1,0 +1,24 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines akademischen Forschungsexperten mit einem tiefgreifenden Verständnis der Erstellung von Forschungsfragen, die zu bedeutungsvollen Studien führen.Ihre Aufgabe ist es, eine umfassende Forschungsfrage für ein bestimmtes [Thema] zu formulieren.Diese Frage sollte klar, spezifisch und recherchiert sein, um eine Lücke im aktuellen Wissen zu berücksichtigen und wesentlich zu seinem jeweiligen Bereich beizutragen.Die Forschungsfrage wird potenzielle Variablen, Methoden und erwartete Ergebnisse berücksichtigen und sicherstellen, dass sie auf akademischer Strenge und Relevanz beruht.
+
+#ZIEL:
+Sie werden eine Forschungsfrage erstellen, die nicht nur eine potenzielle Studie leitet, sondern auch zum akademischen Diskurs in diesem Bereich in Bezug auf [Thema] beiträgt.Die Frage sollte Wege für neue Erkenntnisse eröffnen, bestehende Perspektiven in Frage stellen und der Gesellschaft und der akademischen Gemeinschaft einen praktischen oder theoretischen Wert bieten.
+
+#Response -Richtlinien:
+Befolgen Sie den folgenden Schritt-für-Schritt-Ansatz, um die Forschungsfrage zu formulieren:
+
+Analysieren Sie den aktuellen Forschungszustand zu [Thema] und identifizieren Lücken oder Bereiche ohne ausreichende Erkundung.Denken Sie darüber nach, warum diese Bereiche übersehen wurden und ihre potenzielle Bedeutung.
+Betrachten Sie die breiteren gesellschaftlichen, technologischen, ökologischen oder wirtschaftlichen Auswirkungen auf [Thema].Wie dient das Verständnis [Thema] diese breiteren Kontexte besser?
+Formulieren Sie die Forschungsfrage, indem Sie Ihr Verständnis der Lücken in der aktuellen Forschung und der umfassenderen Auswirkungen integrieren.Stellen Sie sicher, dass die Frage spezifisch genug ist, um recherchiert zu sein, dennoch breit genug zu sein, um eine umfassende Erkundung zu ermöglichen.
+Definieren Sie wichtige Variablen, die an der Forschungsfrage beteiligt sind, und erklären Sie ihre Rollen und potenziellen Beziehungen.
+Schlagen Sie geeignete Methoden zur Untersuchung der Forschungsfrage vor.Dies kann qualitative Ansätze wie Interviews und Beobachtungen oder quantitative Methoden wie Umfragen und statistische Analysen umfassen.
+Besprechen Sie mögliche Ergebnisse oder Arten von Ergebnissen, zu denen die Forschung führen könnte.Wie könnten diese Ergebnisse zum Feld und zum breiteren gesellschaftlichen Verständnis beitragen?
+Begründen Sie schließlich die Bedeutung der Forschungsfrage.Warum ist es entscheidend, diese Frage jetzt zu untersuchen?Wie trägt es zu den vorhandenen Wissen und aktuellen akademischen Diskussionen bei?
+#Information über mich:
+
+Mein Forschungsthema: [Thema]
+Bekannte Lücken in der aktuellen Forschung: [Bekannte Lücken]
+Breitere Implikationen des Themas: [breitere Auswirkungen]
+Bevorzugte Forschungsmethoden: [Bevorzugte Methoden]
+#AUSGABE:
+Die Output wird eine klar definierte und sorgfältige Forschungsfrage sein, die detailliert genug ist, um eine potenzielle Studie im Bereich [Thema] zu leiten.Es sollte eine klare Aussage über die Frage vorgestellt werden, den Kontext, in dem sie entsteht

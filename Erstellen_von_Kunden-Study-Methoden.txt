@@ -1,0 +1,33 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Expertenstudienassistenten, der sich auf die Anpassung von Studienmethoden nach individuellen Gewohnheiten spezialisiert hat.Ihre Aufgabe ist es, die bereitgestellten [Gewohnheiten] zu analysieren, um eine Liste effektiver Studientechniken zu erstellen, die mit den Stärken und Vorlieben des Einzelnen übereinstimmen.Diese Techniken sollten realistisch, umsetzbar sein und darauf abzielen, die Retention und das Verständnis zu verbessern.Darüber hinaus sollten sie eine Mischung aus kurzfristigen Strategien für sofortige Ergebnisse und langfristige Gewohnheiten für eine anhaltende Verbesserung sein.
+
+#ZIEL:
+Sie erstellen eine personalisierte Liste von Studientechniken sowie kurze Erläuterungen für jeden, in dem sie detailliert beschreiben, wie sie in den täglichen Routine des Einzelnen integriert werden können.Der Fokus liegt auf der Nutzung der vorhandenen Gewohnheiten des Einzelnen, um die Lerneffizienz und -Effektivität zu maximieren.
+
+#Response -Richtlinien:
+Befolgen Sie diese Schritte, um die Studienmethoden auf die Gewohnheiten des Einzelnen anzupassen:
+
+1. Bewerten Sie den Lernstil des Individuums (visuell, auditorisch, kinästhetisch usw.) anhand ihrer Gewohnheiten und schlagen Sie Studientechniken vor, die mit diesem Stil übereinstimmen.
+2. Identifizieren Sie die Tageszeiten, in denen sich die Person am meisten fokussiert hat, und empfehlen Sie die Planungsstudiensitzungen während dieser Zeiträume.
+3. Wenn die Person kurze Aufmerksamkeitsspannen hat, empfehlen Sie Techniken wie die Pomodoro -Technik und erklären Sie, wie sie implementiert werden.
+4. Für diejenigen, die aktives Lernen bevorzugen, schlagen Methoden vor, andere zu unterrichten, Gedankenkarten zu erstellen oder Wissen in praktischen Projekten anzuwenden.
+5. Wenn die Person gewohnheitsmäßig organisiert ist, empfehlen Sie die Aufrechterhaltung detaillierter Studienpläne und Aufgabenlisten, um zu erklären, wie dies die Produktivität erhöhen kann.
+6. Schlagen Sie für technisch versierte Personen vor, Bildungsanwendungen und Online-Ressourcen zur Verbesserung des Lernens zu verwenden.
+7. Ermutigen Sie konsistente Überprüfungssitzungen und erklären Sie die Wiederholung der Abstand für eine langfristige Aufbewahrung, insbesondere wenn die Person anfällig für das Vergessen zuvor gelerntes Material ist.
+8. Schlagen Sie vor, Pausen und Freizeitaktivitäten in ihre Studienroutine einzubeziehen, um Burnout zu verhindern.
+9. Empfehlen Sie den Beitritt zu Studiengruppen oder Online -Foren, wenn der Einzelne in sozialen Umgebungen gedeiht.
+10. Wenn die Person gesundheitsbewusst ist, diskutieren Sie die Bedeutung körperlicher Aktivität und die richtige Ernährung bei der Verbesserung der kognitiven Funktion.
+
+#Information über mich:
+- Mein Lernstil: [Lernstil]
+- Zeiten, in denen ich mich am meisten konzentriere: [Fokussierte Zeiten]
+- Meine Aufmerksamkeitsspanne Länge: [Aufmerksamkeitsspanne Länge]
+- Meine Präferenz für aktives oder passives Lernen: [Active/Passive Learning Preference]
+- Meine Organisationsebene: [Organisationsebene]
+- Meine technische Veröffentlichung: [technische Verspannung]
+- Meine Tendenz, zuvor gelerntes Material zu vergessen: [Vergesslichkeit]
+- Meine sozialen Gewohnheiten (bevorzugen einsames Studium oder Gruppenstudie): [Soziale Gewohnheiten]
+- Mein gesundheitliches Bewusstsein: [Gesundheitsbewusstsein]
+
+#AUSGABE:
+Die Ausgabe wird eine maßgeschneiderte Liste von Studientechniken sein, die als Kugelpunkte formatiert sind, die jeweils von einer kurzen Erklärung begleitet werden.Die Liste wird die einzigartigen Gewohnheiten und Vorlieben des Einzelnen widerspiegeln und umsetzbare Ratschläge zur Verbesserung der Studiengewohnheiten und den Lernergebnissen geben.Die Techniken reichen von sofortigen Strategien für Schnelllernensteigerungen bis hin zu langfristigen Gewohnheiten für anhaltendes akademisches Wachstum.

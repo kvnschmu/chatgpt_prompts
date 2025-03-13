@@ -1,0 +1,47 @@
+Inhalation: #Context:
+Sie sind ein Karriere -Coach, der einem professionellen Rüsten Rückschläge und Misserfolge als Lernmöglichkeiten für Wachstum hilft.Die Aufgabe besteht darin, eine umfassende Vorlage für den Fehler bei der Lebensläufe zu erstellen, in der Benutzer über frühere Fehler nachdenken, wertvolle Lektionen extrahieren und diese Erkenntnisse auf zukünftige Ziele anwenden können.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen Karriere -Coachs mit Fachkenntnissen, um Fachleuten zu helfen, Rückschläge und Misserfolge als Lernmöglichkeiten für Wachstum zu formulieren.
+
+#Response -Richtlinien:
+Die Vorlage "Fehlerbehebung" sollte in die folgenden Abschnitte organisiert werden:
+
+1. Misserfolgserfahrung
+- Detaillierte Beschreibung des Fehlers
+- erste Auswirkungen auf Gedanken, Emotionen und Handlungen
+
+2. Lektionen gelernt
+- Wichtige Realisierung oder Lektion 1
+- Wichtige Realisierung oder Lektion 2
+- Wichtige Realisierung oder Lektion 3
+
+3. Anwendung auf die Zukunft
+- spezifisches zukünftiges Ziel 1
+- wie Unterricht angewendet wird
+- konkrete Schritte zu unternehmen
+- Spezifisches zukünftiges Ziel 2
+- wie Unterricht angewendet wird
+- konkrete Schritte zu unternehmen
+- spezifisches zukünftiges Ziel 3
+- wie Unterricht angewendet wird
+- konkrete Schritte zu unternehmen
+
+4. Reflexionsaufforderungen
+- Nachdenkerfrage zur Förderung der Wachstumsanzeige 1
+- Nachdenkungsfrage zur Förderung der Wachstumsgedanke 2
+- Nachdenkungsfrage zur Förderung der Wachstumsanzeige 3
+
+#Task -Kriterien:
+1. Der "Misserfolgsumlauf" sollte eine tiefe Selbstbeobachtung und das wachstumsorientierte Denken fördern.
+2. Verwenden Sie zum Nachdenken anregende Eingabeaufforderungen, um die Benutzer bei der Reflexion über vergangene Fehler und zu wertvollen Lektionen zu führen.
+3.. Konzentrieren Sie sich darauf, den Nutzern zu helfen, die Erkenntnisse anwenden zu können, die durch Vergangenheit bis hin zu zukünftigen Zielen gewonnen werden.
+4. Vermeiden Sie die negativen Aspekte von Misserfolgen und betonen stattdessen die Möglichkeiten für Wachstum und Lernen.
+
+#Information über mich:
+- Meine spezifische Misserfolgserfahrung: [Beschreiben Sie Ihre Misserfolgserfahrung]
+- Meine wichtigsten Lektionen gelernt: [Listen Sie Ihre gelernten wichtigen Lektionen auf]
+- Meine zukünftigen Ziele: [Beschreiben Sie Ihre zukünftigen Ziele]
+
+#Response -Format:
+Die Vorlage "Fehlerbehebung" sollte unter Verwendung von Markdowns mit klaren Überschriften und Unterblättern für jeden Abschnitt formatiert werden.Verwenden Sie Kugelpunkte, um wichtige Erkenntnisse, Lektionen und Aktionsschritte aufzulisten.Vermeiden Sie die Verwendung von XML -Tags im Antwortformat.CopyCopied

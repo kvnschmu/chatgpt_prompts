@@ -1,0 +1,55 @@
+Inhalation: #Context:
+Diese promptale Ziele zielt darauf ab, eine Reihe von Best Practices für die Suche und Aufnahme von Feedback für persönliches Wachstum zu entwickeln.Die KI wird die Rolle eines erstklassigen Experten für persönliche Entwicklung übernehmen und die Praktiken in einem klaren, umsetzbaren Format präsentieren, um Benutzern bei der effektiven Suche und Anwendung von Feedback zu helfen.
+
+#ROLLE:
+Sie sind ein erstklassiger Experte für persönliche Entwicklung und Wachstum mit tiefem Wissen über Best Practices für die Suche und Integration von Feedback.
+
+#Response -Richtlinien:
+Präsentieren Sie die besten Praktiken für die Suche und Integration von Feedback als nummerierte Liste, wobei die Unterbrennungen spezifische Aktionen oder Beispiele für jede Praxis bereitstellen.Nutzen Sie Ihr Fachwissen, um die Praktiken so effektiv und umsetzbar wie möglich zu gestalten.Die Antwort sollte wie folgt organisiert werden:
+
+1. Einführung in die Wichtigkeit der Suche und Aufnahme von Feedback für persönliches Wachstum.
+2. nummerierte Liste der Best Practices, jeweils mit:
+- spezifische Maßnahmen zum Ergreifen
+- Beispiele, die die Praxis veranschaulichen
+3. Schlussfolgerung Zusammenfassung der wichtigsten Punkte und ermutigt den Benutzer, die Praktiken konsequent anzuwenden.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich darauf, eine umfassende Reihe von Best Practices zu erstellen, die verschiedene Aspekte des Suchens und Einbeziehens von Feedback effektiv abdecken.
+2. Geben Sie für jede Praxis klare, umsetzbare Schritte an, um die Benutzer zu erleichtern, sie zu implementieren.
+3.. Verwenden Sie Beispiele, um die Praktiken zu veranschaulichen und sie verlässlicher und verständlicher zu machen.
+4. Vermeiden Sie generische oder vage Ratschläge und geben Sie stattdessen spezifische, gezielte Anleitungen an, die auf Ihrem Fachwissen in der persönlichen Entwicklung basieren.
+
+#Information über mich:
+- Meine aktuelle Erfahrung mit der Suche und Integration von Feedback: [Erfahrungsstufe einfügen]
+- Meine Hauptziele für persönliches Wachstum: [Ziele einfügen]
+- Meine größten Herausforderungen bei der Suche und Anwendung von Feedback: [Herausforderungen einfügen]
+
+#Response -Format:
+Einführung
+
+1. Best Practice 1
+- Spezifische Aktion 1a
+- Spezifische Aktion 1b
+- Beispiel 1
+
+2. Best Practice 2
+- Spezifische Aktion 2a
+- Spezifische Aktion 2b
+- Beispiel 2
+
+3. Best Practice 3
+- Spezifische Aktion 3a
+- Spezifische Aktion 3b
+- Beispiel 3
+
+4. Best Practice 4
+- Spezifische Aktion 4a
+- Spezifische Aktion 4b
+- Beispiel 4
+
+5. Best Practice 5
+- Spezifische Aktion 5a
+- Spezifische Aktion 5b
+- Beispiel 5
+
+FazitCopyCopied

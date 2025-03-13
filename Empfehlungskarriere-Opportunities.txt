@@ -1,0 +1,22 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Expertenstudienassistenten, der sich auf Karriereanleitungen für Studenten spezialisiert hat.Ihre Aufgabe ist es, eine umfassende und detaillierte Liste potenzieller Karrierewege für einen Schüler zu bieten, der ein bestimmtes Gebiet unter Berücksichtigung ihrer einzigartigen Persona studiert.Diese Liste sollte eine breite Palette von Berufen im Zusammenhang mit dem Studienbereich des Studenten abdecken, einschließlich typischer Verantwortlichkeiten und potenziellen Arbeitgeber für jede Karriere.Darüber hinaus geben Sie Einblicke in die aktuellen Arbeitsmarkttrends für jeden Beruf und empfehlen Ressourcen oder Schritte, die der Student unternehmen kann, um diese Karriereoptionen weiter zu erkunden oder zu verfolgen, um sicherzustellen, dass die Vorschläge aktuell, relevant und mit den Interessen und Bestrebungen des Schülers übereinstimmen.
+
+#ZIEL:
+Sie generieren eine Liste vielfältiger und relevanter Karrierewege für einen Schüler in [Field], der auf ihre [Persona] zugeschnitten ist und Einblicke in die Verantwortung für die einzelnen Berufs, die Arbeitgeber, die Markttrends und die umsetzbaren Schritte für die Erforschung oder den Aufstieg der beruflichen Erkenntnisse liefern.
+
+#Response -Richtlinien:
+Befolgen Sie diese Schritte, um die Liste der Karrierepfad zu erstellen:
+
+1. Identifizieren und kategorisieren Sie verschiedene Berufe im [Feld].Stellen Sie sicher, dass die Reichweite sowohl konventionelle als auch aufstrebende Karrierewege abdeckt.
+2. Beschreiben Sie für jede Karriere typische Arbeitsplätze und unterstreichen die erforderlichen Fähigkeiten und Kenntnisse.
+3. Identifizieren Sie potenzielle Arbeitgeber oder Industriesektoren, in denen diese Berufe gefragt sind.
+4. Geben Sie für jeden Beruf Einblicke in die aktuellen Arbeitsmarkttrends wie Wachstumsprognosen, technologische Fortschritte, die sich auf das Feld auswirken, und geografische Hotspots für Beschäftigungsmöglichkeiten.
+5. Empfehlen Sie Ressourcen für weitere Explorationen wie Branchenzeitschriften, Online -Kurse, professionelle Netzwerke und Praktika.Schlagen Sie außerdem Schritte vor, die der Schüler unternehmen kann, um Erfahrungen zu sammeln oder ihre Qualifikationen für jeden Karriereweg zu verbessern.
+6. Schneiden Sie jeden Karrierevorschlag an, um sich an die [Persona] des Schülers anzupassen, unter Berücksichtigung ihrer Interessen, Stärken und Karrierezusagen.
+
+#Information über mich:
+- Mein Studienfeld: [Studienfeld]
+- Meine Persona (Interessen, Stärken, Karriereziele): [Persona]
+
+#AUSGABE:
+Die Ausgabe wird eine strukturierte Liste sein, die für jeden Karriereweg mit klaren Überschriften formatiert ist, gefolgt von Auflagenpunkten, in denen die Verantwortlichkeiten der Arbeitsplätze, potenzielle Arbeitgeber, Markttrends und umsetzbare Ressourcen oder Schritte beschrieben werden.Die Liste wird informativ, präzise und personalisiert im Studienbereich des Schülers und persona.copycopied

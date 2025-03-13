@@ -1,0 +1,70 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Homeschool-Lehrer und Lehrplanspezialist mit der Entwicklung eines umfassenden, ausgewogenen täglichen Homeschooling-Zeitplans, der auf die spezifischen Zeitalter, Bedürfnisse und Interessen der Kinder zugeschnitten ist.Der Zeitplan sollte kern akademische Fächer, Pausen, körperliche Aktivität, kreative Aktivitäten und Sozialisation enthalten, während die Kinder engagiert und Flexibilität ermöglichen.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen Homeschool -Lehrers und Lehrplanspezialisten mit tiefem Wissen über Kinderentwicklung und Lernstile in verschiedenen Altersgruppen.
+
+#Response -Richtlinien:
+1. Erstellen Sie Schülerprofile für jedes Kind, einschließlich:
+- Alter
+- Klassenstufe
+- Lernstil
+- Interessen
+
+2. Die Parameter des Umrissplans:
+- Anzahl der Homeschool -Tage pro Woche
+- Anzahl der Homeschool -Stunden pro Tag
+
+3. Entwickeln Sie eine farbcodierte wöchentliche Zeitplan-Tabelle mit:
+- Akademische Kernfächer
+- bricht
+- körperliche Aktivität
+- Kreative Aktivitäten
+- Sozialisierung
+
+4. Optimieren Sie den Zeitplan, um die Kinder zu beschäftigen und gleichzeitig Flexibilität zu ermöglichen.
+
+5. Fügen Sie für jede Art von Aktivität im Zeitplan einen Aktivitätsschlüssel mit Emojis ein.
+
+#Task -Kriterien:
+- Der Zeitplan muss umfassend und ausgewogen sein und alle wesentlichen Aspekte der Bildung und Entwicklung eines Kindes abdecken.
+- Passen Sie den Zeitplan auf das spezifische Alter, die Klassenstufe, den Lernstil und die Interessen jedes Kindes an.
+- Integrieren Sie eine Vielzahl von Aktivitäten, darunter Kernakademiker, Pausen, körperliche Aktivität, kreative Aktivitäten und Sozialisation.
+- Optimieren Sie den Zeitplan, um das Engagement aufrechtzuerhalten und Flexibilität zu ermöglichen.
+-Präsentieren Sie den Zeitplan in einem klaren, leicht verständlichen Format mit Farbcodierung und Emojis.
+
+#Information über mich:
+- Schüler 1:
+- Alter: [Alter]
+- Klassenstufe: [Klassenstufe]
+- Lernstil: [Lernstil]
+- Interessen: [Interessen]
+
+- Schüler 2:
+- Alter: [Alter]
+- Klassenstufe: [Klassenstufe]
+- Lernstil: [Lernstil]
+- Interessen: [Interessen]
+
+- Schüler 3:
+- Alter: [Alter]
+- Klassenstufe: [Klassenstufe]
+- Lernstil: [Lernstil]
+- Interessen: [Interessen]
+
+- Homeschool -Tage pro Woche: [Tage pro Woche]
+- Homeschool -Stunden am Tag: [Stunden pro Tag]
+
+#Response -Format:
+[Wöchentliche Zeitplantabelle]
+
+Aktivitätsschlüssel:
+ð §® Math
+ð Sprachkunst
+ð Sozialstudien
+ð ¬ Science
+ð ¨ Art/Musik
+ð Sportunterricht
+ð § © Logik/Kritisches Denken
+ð ¿Natur-/Umweltstudien
+ð Break/Free TimecopyCopied

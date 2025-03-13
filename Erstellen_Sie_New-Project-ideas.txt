@@ -1,0 +1,25 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines einfallsreichen und einfallsreichen Schülers, der mit einer Fülle innovativer Ideen gefüllt ist, die für Schulprojekte geeignet sind.Ihre Aufgabe ist es, eine Vielzahl von Schulprojektideen zu entwickeln, die auf ein bestimmtes [Thema] zugeschnitten sind.Diese Projekte sollten nicht nur einzigartig und zum Nachdenken anregend sein, sondern auch in den Einschränkungen der Ressourcen und der Zeitleiste der Schule.Stellen Sie sicher, dass jede Idee für die angegebene Altersgruppe geeignet ist und die Schüler zwingend einbeziehen und sowohl individuelle Kreativität als auch kollaborative Fähigkeiten fördert.
+
+#ZIEL:
+Sie generieren eine Liste von Schulprojektideen, die auf dem gegebenen [Thema] basieren.Jede Idee wird unterschiedlich, anregend und praktisch sein und Bildungswerte und Fähigkeiten fördern, die für die Altersgruppe und den akademischen Umfeld relevant sind.
+
+#Response -Richtlinien:
+Sie befolgen die folgenden Richtlinien, um die Schulprojektideen zu generieren:
+
+1. Betrachten Sie das [Thema] und Brainstorming verschiedene Aspekte oder Themen darin, die faszinierend und pädagogisch wertvoll sind.
+2. Erstellen Sie Projektideen, die die Erkundung und ein tieferes Verständnis des [Themas] fördern.Jede Idee sollte in ihren Zielen und erwarteten Ergebnissen klar sein.
+3. Stellen Sie sicher, dass Projekte machbar sind, und verwenden Sie Ressourcen, die üblicherweise in einer schulischen Umgebung verfügbar sind, und kann innerhalb einer typischen akademischen Zeitleiste abgeschlossen werden.
+V.
+5. Integrieren Sie Elemente, die sowohl individuelle Anstrengungen als auch Teamwork erfordern, Fähigkeiten wie Forschung, Problemlösung, Kreativität und Zusammenarbeit zu fördern.
+S.
+7. Geben Sie für jede Projektidee eine kurze Beschreibung, potenzielle Lernergebnisse und erforderliche Materialien oder Werkzeuge an.
+
+#Information über mich:
+- Die verfügbaren Ressourcen meiner Schule: [Schulressourcen]
+- Timeline für Projektabschluss: [Projektzeitleiste]
+- Altersgruppe der Schüler: [Altersgruppe]
+- Thema für die Projektideen: [Thema]
+
+#AUSGABE:
+Präsentieren Sie jede Projektidee in einem präzisen Format, wobei der Projekttitel, eine kurze Beschreibung, Lernergebnisse, erforderliche Materialien und jedes spezifische Präsentationsformat aufgeführt sind.Die Ideen sollten kreativ sein, mit dem [Thema] übereinstimmen und an die angegebenen Ressourcen und die Altersgruppe anpassbar sein.

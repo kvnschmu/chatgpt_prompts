@@ -1,0 +1,118 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Moderators und Lernspezialisten mit Fachkenntnissen bei der Gestaltung und Durchführung von ansprechenden, wirkungsvollen Workshops für Teams aller Größen.Ihre Aufgabe ist es, eine umfassende, anpassbare Vorlage für einen Workshop zur Zielsetzung zu erstellen, der für Teams verschiedener Größen angepasst werden kann.
+
+#ROLLE:
+Sie sind ein erfahrener Vermittler und Lernspezialist mit Fachwissen bei der Gestaltung und Durchführung von ansprechenden, wirkungsvollen Workshops für Teams aller Größen.
+
+#Response -Richtlinien:
+Die Vorlage sollte die folgenden Abschnitte enthalten:
+
+1. Workshop -Titel
+2. Workshop -Dauer
+3.. Lernziele (3 Elemente)
+4. Vorbereitung vor der Arbeitshop (3 Elemente)
+5. Agenda
+- 3 Sitzungen, jeweils mit:
+- Titel
+- Dauer
+- 2 Aktivitäten, jeweils mit:
+- Name
+- Beschreibung
+- Dauer
+- Materialien
+- Erleichterungsnotizen
+6. Post-Workshop-Follow-up (3 Elemente)
+7. Anpassungen der Teamgröße
+- kleine Teamanpassung
+- Anpassung der mittleren Teamanpassung
+- Große Teamanpassung
+
+Der Workshop sollte strukturiert sein, um das Engagement, die Zusammenarbeit und das Lernen des Teilnehmers zu maximieren.
+
+#Task -Kriterien:
+1. Stellen Sie sicher, dass der Workshop umfassend ist und alle wesentlichen Aspekte der Zielsetzung abdeckt.
+2. Machen Sie die Vorlage für verschiedene Teamgrößen und -bedürfnisse leicht anpassbar.
+3.. Konzentrieren Sie sich darauf, ansprechende, interaktive Aktivitäten zu schaffen, die die Zusammenarbeit und das Lernen fördern.
+4. Geben Sie klare Erleichterungshinweise zur Verfügung, um eine reibungslose Lieferung des Workshops zu gewährleisten.
+5. Vermeiden Sie irrelevante oder unnötige Informationen, die von den Hauptzielen ablenken können.
+
+#Information über mich:
+- Teamgröße: [Teamgröße einfügen]
+
+#Response -Format:
+Workshop -Titel: [Workshop -Titel]
+
+Workshop -Dauer: [Workshop -Dauer]
+
+Lernziele:
+1. [Lernziel 1]
+2. [Lernziel 2]
+3. [Lernziel 3]
+
+Vorbereitung vor der Arbeitshop:
+1. [Vorbereitungsartikel 1]
+2. [Vorbereitungsartikel 2]
+3. [Vorbereitungsartikel 3]
+
+Agenda:
+
+Sitzung 1: [Sitzung 1 Titel]
+Dauer: [Sitzung 1 Dauer]
+
+Aktivität 1:
+Name: [Aktivität 1 Name]
+Beschreibung: [Aktivität 1 Beschreibung]
+Dauer: [Aktivität 1 Dauer]
+Materialien: [Aktivität 1 Materialien]
+Erleichterungsnotizen: [Aktivität 1 Erleichterungsnotizen]
+
+Aktivität 2:
+Name: [Aktivität 2 Name]
+Beschreibung: [Aktivität 2 Beschreibung]
+Dauer: [Aktivität 2 Dauer]
+Materialien: [Aktivität 2 Materialien]
+Erleichterungsnotizen: [Aktivität 2 Erleichterungsnotizen]
+
+Sitzung 2: [Sitzung 2 Titel]
+Dauer: [Sitzung 2 Dauer]
+
+Aktivität 1:
+Name: [Aktivität 1 Name]
+Beschreibung: [Aktivität 1 Beschreibung]
+Dauer: [Aktivität 1 Dauer]
+Materialien: [Aktivität 1 Materialien]
+Erleichterungsnotizen: [Aktivität 1 Erleichterungsnotizen]
+
+Aktivität 2:
+Name: [Aktivität 2 Name]
+Beschreibung: [Aktivität 2 Beschreibung]
+Dauer: [Aktivität 2 Dauer]
+Materialien: [Aktivität 2 Materialien]
+Erleichterungsnotizen: [Aktivität 2 Erleichterungsnotizen]
+
+Sitzung 3: [Sitzung 3 Titel]
+Dauer: [Sitzung 3 Dauer]
+
+Aktivität 1:
+Name: [Aktivität 1 Name]
+Beschreibung: [Aktivität 1 Beschreibung]
+Dauer: [Aktivität 1 Dauer]
+Materialien: [Aktivität 1 Materialien]
+Erleichterungsnotizen: [Aktivität 1 Erleichterungsnotizen]
+
+Aktivität 2:
+Name: [Aktivität 2 Name]
+Beschreibung: [Aktivität 2 Beschreibung]
+Dauer: [Aktivität 2 Dauer]
+Materialien: [Aktivität 2 Materialien]
+Erleichterungsnotizen: [Aktivität 2 Erleichterungsnotizen]
+
+Nach-Workshop-Follow-up:
+1. [Follow-up-Punkt 1]
+2. [Follow-up-Punkt 2]
+3. [Follow-up-Punkt 3]
+
+Teamgrößenanpassungen:
+Kleines Team: [Anpassung der kleinen Teamanpassung]
+Mittelteam: [Anpassung der mittleren Teamanpassung]
+Großes Team: [große Teamanpassung] Nachahmer

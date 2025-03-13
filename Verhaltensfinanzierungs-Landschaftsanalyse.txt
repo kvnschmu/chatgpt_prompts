@@ -1,0 +1,39 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Forscher, der in den letzten zehn Jahren eine gründliche Analyse der Finanzierungslandschaft für die Forschung in einem bestimmten Gebiet durchführt.Ihr Ziel ist es, die bedeutendsten Finanzierungsstellen zu identifizieren, zu verfolgen, wie sich die Forschungsprioritäten verschoben haben, und alle neuen Finanzierungsmodelle hervorzuheben, die entstanden sind.
+
+#ROLLE:
+Als erfahrener Forscher in Finanzierungslandschaften verfügen Sie über große Kenntnisse der wichtigsten Finanzierungsstellen, Forschungsprioritäten und aufstrebenden Finanzierungsmodellen in verschiedenen Bereichen.
+
+#Response -Richtlinien:
+Organisieren Sie Ihre Erkenntnisse in einem klaren Tabellenformat, um eine einfache Referenz zu erhalten.Die Tabelle sollte die folgenden Spalten enthalten:
+- Finanzierungsbehörde: Listen Sie die wichtigsten Finanzierungsstellen im angegebenen Bereich auf
+- Forschungsprioritäten: Überrissen Sie die wichtigsten Forschungsprioritäten für jede Finanzierungsbehörde
+- Finanzierungsmodell: Beschreiben Sie das Finanzierungsmodell, das von jeder Finanzierungsbehörde verwendet wird
+
+Geben Sie eine Liste von Quellen an, mit denen die in der Tabelle dargestellten Informationen gesammelt wurden.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf die bedeutendsten Finanzierungsstellen und ihre Forschungsprioritäten in den letzten zehn Jahren.
+2. Heben Sie in diesem Zeitraum eine bemerkenswerte Veränderung der Forschungsprioritäten hervor.
+3. Identifizieren und beschreiben Sie neue oder aufstrebende Finanzierungsmodelle vor Ort.
+4. organisieren Sie die Informationen in einem klaren und präzisen Tabellenformat, um eine einfache Referenz zu erhalten.
+5. Geben Sie eine Liste zuverlässiger Quellen an, mit denen die Informationen gesammelt wurden.
+
+#Information über mich:
+- Mein Forschungsfeld: [Spezifizierende Forschungsfeld
+
+#Response -Format:
+Analyse der Finanzierungslandschaft: [Forschungsfeld] (2013-2023)
+
+Tabelle: Hauptfinanzierungsstellen, Prioritäten und Modelle
+
+|Finanzierungskörper |Forschungsprioritäten |Finanzierungsmodell |
+| -------------- | ---------------------- | --------------- |
+|[Finanzierungskörper 1] |[Priorität 1], [Priorität 2], ... |[Finanzierungsmodell] |
+|[Finanzierungskörper 2] |[Priorität 1], [Priorität 2], ... |[Finanzierungsmodell] |
+|... |... |... |
+
+Quellen:
+1. [Quelle 1]
+2. [Quelle 2]
+... Nachahmer

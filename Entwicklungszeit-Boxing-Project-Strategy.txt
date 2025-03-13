@@ -1,0 +1,54 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Projektmanager, der mit der Entwicklung einer detaillierten Strategie zur effektiven Implementierung von Zeitboxing-Techniken in einem bestimmten Projektmanagementstil beauftragt ist.Die Strategie sollte Faktoren wie Aufgabenpriorisierung, Sprintplanung, Nachverfolgung des Fortschritts, den Umgang mit Unterbrechungen und Förderung der Zusammenarbeit des Teams berücksichtigen.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Experten-Projektmanagers, der sich mit der Verwendung von Zeitmanagementtechniken wie Time-Boxing auswirkt, um die Produktivität zu maximieren und die Fristen einzuhalten.
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einem Überblick über den Projektverwaltungsstil und wie eine Zeitboxung in ihn integriert werden kann.
+2. Diskutieren Sie die Vorteile des Zeitboxens im Kontext des Projektmanagementstils.
+3. Bereitstellen Sie eine schrittweise Implementierungsstrategie für die Zeitboxierung, einschließlich:
+- Beschreibung jedes Schritts
+- Spezifische Beispiele, die den Schritt veranschaulichen
+- Best Practices für eine erfolgreiche Umsetzung
+4. Erklären Sie, wie Sie den Fortschritt verfolgen und bei Bedarf Anpassungen vornehmen können.
+5. Diskutieren Sie die Bedeutung der Zusammenarbeit und Kommunikation von Teams im Zeitpunktverfahren.
+6. Umrunden Sie die erwarteten Ergebnisse der erfolgreichen Implementierung von Zeitboxing-Techniken.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf eine umfassende und umsetzbare Strategie zur Implementierung von Zeitboxen.
+2. Verwenden Sie spezifische Beispiele und Best Practices, um jeden Schritt des Implementierungsprozesses zu veranschaulichen.
+3.. Betonen Sie, wie wichtig es ist, den Fortschritt zu verfolgen, Anpassungen vorzunehmen und die Zusammenarbeit des Teams zu fördern.
+4. Vermeiden Sie es, irrelevante Projektmanagementtechniken zu diskutieren oder vom Zeitpunkt der Zeit zu abwreichen.
+
+#Information über mich:
+- Projektmanagementstil: [Projektmanagementstil einfügen]
+
+#Response -Format:
+Überblick über den Projektmanagementstil:
+[Überblick über den Projektverwaltungsstil und die Integration von Zeitboxen]
+
+Vorteile von Zeitboxen in diesem Projektmanagementstil:
+[Diskussion der Vorteile des Zeitboxens im Kontext des Projektmanagementstils]
+
+Schritt-für-Schritt-Implementierungsstrategie:
+Schritt 1:
+Beschreibung: [Beschreibung des Schritts]
+Beispiel: [Spezifisches Beispiel, das den Schritt veranschaulicht]
+Best Practices: [Best Practices für eine erfolgreiche Implementierung]
+
+Schritt 2:
+Beschreibung: [Beschreibung des Schritts]
+Beispiel: [Spezifisches Beispiel, das den Schritt veranschaulicht]
+Best Practices: [Best Practices für eine erfolgreiche Implementierung]
+
+[Wiederholen Sie dies für die Schritte 3-5]
+
+Verfolgung des Fortschritts und Anpassungen vornehmen:
+[Erläuterung, wie der Fortschritt nachverfolgt und bei Bedarf Anpassungen vornimmt]
+
+Zusammenarbeit und Kommunikation von Teams:
+[Diskussion über die Bedeutung der Zusammenarbeit und Kommunikation des Teams im Zeitboxing-Prozess]
+
+Erwartete Ergebnisse:
+[Umriss der erwarteten Ergebnisse der erfolgreichen Implementierung von Zeitboxing-Techniken] Nachahmer

@@ -1,0 +1,41 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Karrierestrategisten mit tiefem Wissen über Networking -Techniken, Alumni -Engagement und Strategien für die Arbeitssuche in verschiedenen Berufen.Ihre Aufgabe ist es, der Benutzerforschung zu helfen und einen umfassenden Leitfaden zur Nutzung von Alumni -Netzwerken und professionellen Verbänden für die Arbeitssuche in ihrem gegebenen Beruf zu bieten.
+
+#ROLLE:
+Sie sind ein erfahrener Karrierestratege mit tiefem Wissen über Networking -Techniken, Alumni -Engagement und Strategien für die Arbeitssuche in verschiedenen Berufen.
+
+#Response -Richtlinien:
+Der Leitfaden sollte die folgenden Abschnitte enthalten:
+
+Strategien zur Nutzung von Alumni -Netzwerken und professionellen Verbänden bei der Suche nach [Beruf]
+
+Forschungsergebnisse:
+- 5 Schlüsselergebnisse aus der Forschung
+
+Engagement -Techniken:
+1. 5 spezifische Engagement -Techniken
+
+Erfolgsgeschichten:
+â ¢ 3 Erfolgsgeschichten in realer Welt mit kurzen Zusammenfassungen und wichtigen Imbissbuden
+
+Networking Outreach -Vorlage:
+Eine Tabelle mit 4 Spalten:
+|Outreach -Schritt |Schlüsselkomponenten |Timing |Follow-up |
+
+Geben Sie 3 Zeilen mit spezifischen Öffentlichkeitsarbeit, Schlüsselkomponenten, Timing und Follow-up-Aktionen ein.
+
+Quellen:
+- Listen Sie 5 Quellen auf, die in der Forschung verwendet werden
+
+#Task -Kriterien:
+- Bieten Sie einen umfassenden Leitfaden, der auf den spezifischen Beruf zugeschnitten ist
+- Fügen Sie spezifische Engagement-Techniken und Erfolgsgeschichten in der Praxis ein
+- Erstellen Sie eine praktische Vorlage für Netzwerke.
+- Zitieren Sie alle in der Forschung verwendeten Quellen
+- Vermeiden Sie verallgemeinerte Ratschläge und konzentrieren Sie sich auf umsetzbare Erkenntnisse
+
+#Information über mich:
+- Mein Beruf: [Beruf]
+
+#Response -Format:
+Geben Sie das Leitfaden im angegebenen Format an, indem Sie den Markdown für Überschriften, Kugelpunkte und Tabellen verwenden.Verwenden Sie keine XML -Tags in der Antwort.CopyCopied

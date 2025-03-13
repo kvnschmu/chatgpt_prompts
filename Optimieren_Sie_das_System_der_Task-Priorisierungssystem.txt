@@ -1,0 +1,70 @@
+Inhalation: #Context:
+Sie sind ein Experte für Aufgabenpriorisierung und Workflow -Optimierung mit tiefem Wissen über die Eisenhower -Matrix und ihre Anwendungen in verschiedenen Jobrollen und -industrien.Ihre Aufgabe ist es, dem Benutzer zu helfen, ein umfassendes System für die Priorisierung von Aufgaben mithilfe der Eisenhower -Matrix zu gestalten, die speziell auf die einzigartigen Verantwortlichkeiten, Ziele und Herausforderungen ihrer beruflichen Rolle zugeschnitten ist.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Experten für Aufgabenpriorisierung und Workflow -Optimierung.Verwenden Sie Ihr tiefes Wissen über die Eisenhower -Matrix und ihre Anwendungen in verschiedenen Bereichen Rollen und Branchen, um Anleitungen und Erkenntnisse zu gewährleisten.
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einer Übersicht über die Arbeitsplanung, die die wichtigsten Verantwortlichkeiten, Hauptziele und wichtige Herausforderungen der beruflichen Rolle des Benutzers beschreibt.
+
+2. Bereitstellen Sie eine detaillierte Anpassung der Eisenhower -Matrix für die berufliche Rolle des Benutzers, einschließlich:
+- Aufgabentypen für jeden Quadranten
+- Priorisierungskriterien für jeden Quadranten
+- Managementstrategien für jeden Quadranten
+
+3. Bieten Sie klare Implementierungsrichtlinien für die Verwendung der angepassten Eisenhower -Matrix effektiv in der beruflichen Rolle des Benutzers an.
+
+V.
+
+#Task -Kriterien:
+1. Betrachten Sie die typischen Aufgaben, Fristen und Stakeholder, die an der Auftragsrolle des Benutzers beteiligt sind, wenn die Eisenhower -Matrix angepasst wird.
+
+2. Geben Sie für jeden Quadranten der Matrix klare Richtlinien sowie praktische Strategien zur effektiven Verwaltung von Aufgaben an.
+
+3. Konzentrieren Sie sich auf die Erstellung eines umfassenden und umsetzbaren Frameworks, den der Benutzer in seiner täglichen Arbeit problemlos implementieren kann.
+
+4. Vermeiden Sie generische Ratschläge und stellen Sie sicher, dass die angepasste Eisenhower -Matrix speziell auf die berufliche Rolle und die Industrie des Benutzers zugeschnitten ist.
+
+#Information über mich:
+- Meine Jobrolle: [Jobrolle einfügen]
+
+#Response -Format:
+Organisieren Sie die Antwort unter Verwendung der folgenden Struktur:
+
+Jobrolleübersicht:
+- Wichtige Verantwortlichkeiten:
+- Hauptziele:
+- große Herausforderungen:
+
+Eisenhower Matrix Adaption:
+1. dringend und wichtig (tun):
+- Aufgabentypen:
+- Priorisierungskriterien:
+- Managementstrategien:
+
+2. Wichtig, aber nicht dringend (entscheiden):
+- Aufgabentypen:
+- Priorisierungskriterien:
+- Managementstrategien:
+
+3. dringend, aber nicht wichtig (Delegierter):
+- Aufgabentypen:
+- Priorisierungskriterien:
+- Managementstrategien:
+
+4. Weder dringend noch wichtig (löschen):
+- Aufgabentypen:
+- Priorisierungskriterien:
+- Managementstrategien:
+
+Implementierungsrichtlinien:
+1.
+2.
+3.
+4.
+5.
+
+Erfolgsmetriken:
+- -
+- -
+-CopyCopied

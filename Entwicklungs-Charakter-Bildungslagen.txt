@@ -1,0 +1,67 @@
+Inhalation: #Context:
+Als erfahrener Pädagoge, der sich auf Charakterentwicklung und Ethikausbildung für Familien in Homeschooling spezialisiert hat, ist es Ihre Aufgabe, einen umfassenden Plan für die Einbeziehung von Charaktererziehung und Ethik in die täglichen Homeschooling -Routinen zu entwerfen.Der Plan sollte spezifische Lektionen auf Tugendbasis, zum Nachdenken anregende moralische Dilemma-Diskussionen und bedeutungsvolle gemeinnützige Projekte umfassen, die in einem organisierten und leicht zu befolgenden Format vorgestellt werden.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines erfahrenen Pädagogen, der sich auf Charakterentwicklung und Ethikausbildung für Familien in der Schule spezialisiert hat.
+
+#Response -Richtlinien:
+Der Plan sollte für jede Tugend in Abschnitte organisiert werden, einschließlich:
+1. Eine kurze Beschreibung der Lektion
+2. Ein moralisches Dilemma oder ein Diskussionsthema
+3. Eine praktische Aktivität oder ein Projekt
+
+Der Plan sollte auch einen Abschnitt für gemeinnützige Projekte mit kurzen Beschreibungen jedes Projekts enthalten.
+
+Schließlich sollte der Plan eine Tabelle zur Entwicklung des Charakters Merkmal mit Spalten enthalten für:
+- Tugend
+- Definition
+- Lektion
+- Diskussion
+- Aktivität
+- Fortschrittsverfolgung
+
+#Task -Kriterien:
+- Konzentrieren Sie sich darauf, spezifische, umsetzbare Lektionen und Aktivitäten für jede Tugend bereitzustellen
+-Stellen Sie sicher, dass die Diskussionen zum Nachdenken anregen und altersgerecht sind
+- gemeinnützige Projekte sollten für Familien von Homeschooling sinnvoll und machbar sein
+- Vermeiden Sie vage oder übermäßig theoretische Konzepte
+- Betonen Sie die praktische Anwendungs- und Charakterentwicklung
+
+#Information über mich:
+- Mein Zielaltersbereich: [Zielaltersbereich einfügen]
+- Mein Homeschooling -Stil: [Beschreiben Sie Ihren Homeschooling -Stil]
+- Die Werte meiner Familie: [Listen Sie die Grundwerte Ihrer Familie auf]
+
+#Response -Format:
+1. [Tugend 1]
+- Lektion: [kurze Beschreibung der Lektion]
+- Diskussion: [Morales Dilemma oder Diskussionsthema]
+- Aktivität: [praktische Aktivität oder Projekt]
+
+2. [Tugend 2]
+- Lektion: [kurze Beschreibung der Lektion]
+- Diskussion: [Morales Dilemma oder Diskussionsthema]
+- Aktivität: [praktische Aktivität oder Projekt]
+
+3. [Tugend 3]
+- Lektion: [kurze Beschreibung der Lektion]
+- Diskussion: [Morales Dilemma oder Diskussionsthema]
+- Aktivität: [praktische Aktivität oder Projekt]
+
+4. [Tugend 4]
+- Lektion: [kurze Beschreibung der Lektion]
+- Diskussion: [Morales Dilemma oder Diskussionsthema]
+- Aktivität: [praktische Aktivität oder Projekt]
+
+5. gemeinnützige Projekte
+- [Projekt 1]: [kurze Beschreibung]
+- [Projekt 2]: [kurze Beschreibung]
+- [Projekt 3]: [kurze Beschreibung]
+
+Entwicklungstabelle für Charakter -Merkmale:
+|Tugend |Definition |Lektion |Diskussion |Aktivität |Fortschritt |
+| -------- | ------------ | -------- | ------------ | ---------- | ---------- |
+|[Tugend 1] |[Definition] |[Lektion] |[Diskussion] |[Aktivität] |[Fortschrittsverfolgung] |
+|[Tugend 2] |[Definition] |[Lektion] |[Diskussion] |[Aktivität] |[Fortschrittsverfolgung] |
+|[Tugend 3] |[Definition] |[Lektion] |[Diskussion] |[Aktivität] |[Fortschrittsverfolgung] |
+|[Tugend 4] |[Definition] |[Lektion] |[Diskussion] |[Aktivität] |[Fortschrittsverfolgung] | Nachahmer

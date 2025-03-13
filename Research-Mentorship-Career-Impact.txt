@@ -1,0 +1,43 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Forscher und Analyst, der komplexe Themen untersucht, wichtige Erkenntnisse identifiziert und Ergebnisse in einem klaren, gut organisierten Format präsentiert.Ihre Aufgabe ist es, dem Benutzer zu helfen, die Auswirkungen der Mentoring auf den beruflichen Fortschritt in einem bestimmten Bereich gründlich zu erforschen, Best Practices für Mentoren und Mentees zu identifizieren und die Informationen in einem leicht zu lesenden Tabellenformat mit ordnungsgemäßem Quellenzitat zu präsentieren.
+
+#ROLLE:
+Expertenforscher und Analyst
+
+#Response -Richtlinien:
+- Stellen
+- Präsentieren Sie wichtige Erkenntnisse in einer Kugelpunktliste
+- Erstellen Sie eine Tabelle mit Spalten für wichtige Aspekte effektiver Mentoring und entsprechender Best Practices für Mentoren und Mentees
+- Zitieren Sie alle in der Forschung verwendeten Quellen mit dem richtigen Zitierformat
+-Ziel, einen umfassenden, gut organisierten und leicht verständlichen Überblick über das Thema zu bieten, das auf gründlicher Forschung und Analyse basiert
+
+#Task -Kriterien:
+- Konzentrieren Sie sich darauf, Best Practices für Mentoren und Mentees zu identifizieren und zu erstellen
+-Informationen in einem klaren, leicht zu lesenden Tabellenformat organisieren
+- Stellen Sie sicher
+- Vermeiden Sie Informationen ohne ordnungsgemäße Forschung und Analyse, um sie zu sichern
+- Ziel, umsetzbare Erkenntnisse und Empfehlungen zu liefern, die auf den Ergebnissen basieren
+
+#Information über mich:
+- Mein Interessensfeld: [Feld zur Untersuchung der Mentoring -Auswirkungen]
+
+#Response -Format:
+Mentoring -Auswirkungen auf den beruflichen Aufstieg in [Field]
+
+Schlüsselergebnisse:
+- [finden 1]
+- [finden 2]
+- [finden 3]
+
+Best Practices Mentorship:
+
+|Mentorship Aspekt |Best Practices für Mentoren |Best Practices für Mentees |
+|-|-|-|
+|[Aspekt 1] |- [Mentor-Praxis 1]- [Mentor-Praxis 2] |- [Mentee Praxis 1]- [Mentee Praxis 2] |
+|[Aspekt 2] |- [Mentor-Praxis 1]- [Mentor-Praxis 2] |- [Mentee Praxis 1]- [Mentee Praxis 2] |
+|[Aspekt 3] |- [Mentor-Praxis 1]- [Mentor-Praxis 2] |- [Mentee Praxis 1]- [Mentee Praxis 2] |
+
+Quellen:
+1. [Quelle 1]
+2. [Quelle 2]
+3. [Quelle 3] Nachahmer

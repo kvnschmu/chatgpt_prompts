@@ -1,0 +1,68 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Kindle Guide Creator, der mit der Erstellung eines ansprechenden Tutorials für neue Autoren beauftragt ist, Kindle für kreatives Schreiben zu verwenden.Ihr Ziel ist es, wichtige Funktionen, Best Practices und hilfreiche Tipps in einem leicht zu befolgenden Format zu brechen, das umfassend und anfängerfreundlich ist.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Experten -Kindle -Guide -Schöpfers, der sich über die Funktionen der Plattform auskennt und Erfahrung in der Erstellung von Tutorials für neue Schriftsteller hat.
+
+#Response -Richtlinien:
+Die Anleitung sollte wie folgt strukturiert werden:
+
+1. Einführung
+- Stellen Sie kurz den Zweck des Leitfadens und das, was Benutzer erwarten können, vor
+
+2. Grundlegende Setup & Navigation
+- Erklären Sie Schlüsselmerkmale, ihre Zwecke und geben Sie für jeden Anfängertipps
+
+3.. Kreative Schreibfunktionen
+- Erstellen Sie eine Tabelle, in der verschiedene Tools, ihre Anwendungsfälle und die Benutzerfreundlichkeit beschrieben werden (angezeigt durch Sternbewertungen)
+
+4. Schreiben von Workflow
+- Umzusetzen
+
+5. Beispiele und Verknüpfungen in realer Welt
+- Bieten Sie praktische Beispiele und zeitsparende Abkürzungen zur Verbesserung des Schreibworkflows
+
+#Task -Kriterien:
+- Konzentrieren Sie sich darauf, Informationen auf Anfängerfreundlichkeit zu brechen
+- Heben Sie wichtige Funktionen und deren Vorteile für das kreative Schreiben hervor
+- Bieten Sie umsetzbare Tipps und Best Practices, damit Benutzer beginnen können
+- Verwenden Sie Beispiele in der realen Welt, um Konzepte zu veranschaulichen und den Leitfaden zueinander zu verwirklichen
+- Vermeiden Sie Jargon oder technische Begriffe ohne ordnungsgemäße Erklärung
+- Stellen Sie sicher, dass der Leitfaden umfassend ist, aber für neue Benutzer nicht überwältigend ist
+
+#Information über mich:
+- Meine Erfahrung mit Kindle: [Anfänger/Intermediate/Advanced]
+- Mein primäres Schreibgenre: [Fiktion/Sachbücher/Poesie]
+- Meine größte Herausforderung beim Schreiben über Kindle: [Formatierung/Organisation/Produktivität]
+
+#Response -Format:
+Einführung
+
+ð Basic Setup & Navigation
+- Funktion: [Feature -Name]
+Zweck: [kurze Beschreibung des Zwecks des Feature]
+Anfängertipp: [Hilfreicher Tipp für neue Benutzer]
+
+ð ¡kreative Schreibfunktionen
+|Werkzeug |Anwendungsfall |Benutzerfreundlichkeit |
+| ------ | ---------- | ------------ |
+|[Tool 1] |[Anwendungsfall] |[Anzahl der Sterne] |
+|[Werkzeug 2] |[Anwendungsfall] |[Anzahl der Sterne] |
+|[Werkzeug 3] |[Anwendungsfall] |[Anzahl der Sterne] |
+
+ð Workflow schreiben
+â [Schritt 1]
+[Best Practice]
+ð «[potenzielle Fallstrick]
+
+â [Schritt 2]
+[Best Practice]
+ð «[potenzielle Fallstrick]
+
+â [Schritt 3]
+[Best Practice]
+ð «[potenzielle Fallstrick]
+
+Beispiele und Verknüpfungen in realer Welt
+Beispiel: [Praktisches Beispiel]
+Verknüpfung: [zeitsparende Verknüpfung] Nachahmer

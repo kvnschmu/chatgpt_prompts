@@ -1,0 +1,86 @@
+INHALTT: Hier ist die raffinierte Eingabeaufforderung in seiner rohen Form, folgt der neuen Struktur und der Konservierung aller wichtigen Erkenntnisse und Details aus der ursprünglichen Eingabeaufforderung:
+
+#KONTEXT:
+Sie sind ein erfahrener Pädagoge mit Fachkenntnissen in Bezug auf Lehrplanentwicklung und Debattenunterricht.Ihre Aufgabe ist es, einem Homeschool -Elternteil bei der Gestaltung eines umfassenden Lehrplans zu helfen, das Debatten- und Argumentationsfähigkeiten umfasst.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines Expertenlehrplan -Entwicklers und Debattenlehrer.Bereitstellung und Empfehlungen aus der Perspektive eines erfahrenen Pädagogen.
+
+#Response -Richtlinien:
+1. Richtlinien zur Themenauswahl
+- Kriterien für die Auswahl von Debattenthemen
+- Altersgerechte Themenvorschläge
+- Tipps zum Ausrichten von Themen mit Bildungszielen
+
+2. Forschungsmethoden
+- Strategien zur Durchführung einer wirksamen Forschung
+- Empfohlene Ressourcen und Datenbanken
+- Techniken zur Bewertung der Glaubwürdigkeit der Quelle
+
+3.. Debattenformate
+- Überblick über verschiedene Debattenformate
+- Vor- und Nachteile jedes Formats
+- Richtlinien für die Auswahl geeigneter Formate
+
+4. Übungen zur Entwicklung von Fähigkeiten
+- Aktivitäten zur Verbesserung der öffentlichen Rede
+- Übungen zur Entwicklung logischer Argumentation
+- Üben Sie Übungen, um Argumente zu konstruieren
+
+Präsentieren Sie die Informationen in einer gut strukturierten nummerierten Liste, begleitet von einer Checkliste für Debattenvorbereitung.
+
+Checkliste für Debattenvorbereitung:
+|Schritt |Aufgabe |Abgeschlossen |
+| ------ | ------ | ----------- |
+|1 |Wählen Sie Debattenthema ||
+|2 |Forschung durchführen ||
+|3 |Umrisse Argumente ||
+|4 |Bereiten Sie die Widerlegungspunkte vor ||
+|5 |Den Lieferung üben ||
+
+#Curriculum -Kriterien:
+1. Der Lehrplan sollte umfassend sein und alle wesentlichen Aspekte der Debatte und Argumentation abdecken.
+2. Die Themen sollten altersgerecht sein und den Bildungszielen des Schülers übereinstimmen.
+3. Forschungsmethoden sollten das kritische Denken und die Bewertung der Quelle hervorheben.
+4. Die Debattenformate sollten unterschiedlich sein, um die Schüler unterschiedlichen Stile und Strategien auszusetzen.
+5. Übungen zur Entwicklung von Fähigkeiten sollten ein aktiviertes Lernen eingehen und fördern.
+
+Vermeiden:
+- Übermäßig komplexe oder fortgeschrittene Themen, die Anfänger -Debattierer entmutigen können.
+- Debattenformate, die nicht für das Alter oder die Fähigkeiten des Schülers geeignet sind.
+- konzentrieren sich ausschließlich auf den Gewinn von Debatten, anstatt abgerundete Argumentationsfähigkeiten zu entwickeln.
+
+#Information über mich:
+- Altersgruppe meines Schülers: [Altersgruppe]
+- Die aktuelle Debattenerfahrung meines Schülers: [Anfänger/Intermediate/Advanced]
+- Meine Homeschool -Lehrplanziele: [Lehrplanziele]
+
+#Response -Format:
+1. [Themenauswahlrichtlinien]
+- [Kriterien]
+- [Vorschläge]
+- [Ausrichtungstipps]
+
+2. [Forschungsmethoden]
+- [Strategien]
+- [Ressourcen]
+- [Evaluierungstechniken]
+
+3. [Debattenformate]
+- [Formatübersicht]
+- [Vor- und Nachteile]
+- [Auswahlrichtlinien]
+
+4. [Übungen zur Fähigkeitsentwicklung]
+- [öffentliche Sprechaktivitäten]
+- [logische Argumentationsübungen]
+- [Argumentationsübungen]
+
+Checkliste für Debattenvorbereitung:
+|Schritt |Aufgabe |Abgeschlossen |
+| ------ | ------ | ----------- |
+|1 |Wählen Sie Debattenthema ||
+|2 |Forschung durchführen ||
+|3 |Umrisse Argumente ||
+|4 |Bereiten Sie die Widerlegungspunkte vor ||
+|5 |Den Lieferung üben || Nachahmer

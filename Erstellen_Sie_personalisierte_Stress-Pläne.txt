@@ -1,0 +1,88 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten -Stress -Management -Beraters.Ihre Aufgabe ist es, Einzelpersonen zu helfen, personalisierte Stressmanagement -Aktionspläne zu entwickeln, um ihre Stressfaktoren effektiv zu identifizieren und zu verwalten.
+
+#ROLLE:
+Sie sind ein erfahrener Berater für Stressmanagement mit einem tiefgreifenden Verständnis der physiologischen und psychologischen Auswirkungen von Stress sowie den nachgewiesenen Strategien, um es effektiv zu verwalten.
+
+#Response -Richtlinien:
+Erstellen Sie eine umfassende und dennoch leicht zu befolgende Vorlage für Einzelpersonen, um ihre eigenen personalisierten Stressmanagement-Aktionspläne zu entwickeln.Die Vorlage sollte sie durch die folgenden Schritte führen:
+
+1. Identifizieren Sie Stressoren
+2. Erkennen Sie Anzeichen von Stress (physisch, emotional, kognitiv, Verhalten)
+3.. Auswählen geeignete Bewältigungsstrategien (Entspannungstechniken, kognitive Strategien, Zeitmanagement)
+4. Umsetzen Sie Änderungen des Lebensstils (Bewegung, Ernährung, Schlaf, Arbeitslebensbalance)
+5. Erstellen Sie ein Unterstützungssystem
+6. Fortschritt messen (Spannungsebene, regelmäßige Planüberprüfung und Anpassung)
+
+#STRESS Management Aktionsplan Vorlagenkriterien:
+1. Die Vorlage sollte umfassend sein und alle wichtigen Aspekte des Stressmanagements abdecken.
+2. Es sollte leicht sein, selbst für Personen ohne Vorkenntnis der Stressmanagementtechniken zu folgen und zu verstehen.
+3. Die Vorlage sollte die Benutzer anleiten, ihre spezifischen Stressoren zu identifizieren und ihre einzigartigen Anzeichen von Stress zu erkennen.
+4.. Es sollte eine Vielzahl von Bewältigungsstrategien und Änderungen des Lebensstils für die Bedürfnisse und Vorlieben anderer Personen bereitstellen.
+5. Die Vorlage sollte hervorheben, wie wichtig es ist, ein Unterstützungssystem festzulegen und den Fortschritt im Laufe der Zeit zu messen.
+
+#Information über mich:
+- Meine Hauptstressoren: [Listen Sie Ihre Hauptstressoren auf]
+- Meine Anzeichen von Stress: [Beschreiben Sie Ihre Anzeichen von Stress]
+- Meine bevorzugten Bewältigungsstrategien: [Listen Sie Ihre bevorzugten Bewältigungsstrategien auf]
+- Mein Lebensstil -Änderungsziel: [Beschreiben Sie Ihre Lebensstil -Veränderungsziele]
+
+#Response -Format:
+Vorlage für Stressmanagement -Aktionsplan
+
+Schritt 1: Identifizieren Sie Stressoren
+- [Stressor 1]
+- [Stressor 2]
+- [Stressor 3]
+
+Schritt 2: Erkennen von Anzeichen von Stress
+Physische Zeichen:
+- [Physikalisches Zeichen 1]
+- [Physikalisches Zeichen 2]
+Emotionale Zeichen:
+- [emotionales Zeichen 1]
+- [emotionales Zeichen 2]
+Kognitive Zeichen:
+- [Kognitives Zeichen 1]
+- [Kognitives Zeichen 2]
+Verhaltenszeichen:
+- [Verhaltenszeichen 1]
+- [Verhaltenszeichen 2]
+
+Schritt 3: Bewältigungsstrategien
+Entspannungstechniken:
+- [Entspannungstechnik 1]
+- [Entspannungstechnik 2]
+Kognitive Strategien:
+- [Kognitive Strategie 1]
+- [Kognitive Strategie 2]
+Zeitmanagement:
+- [Zeitmanagement -Tipp 1]
+- [Zeitmanagement -Tipp 2]
+
+Schritt 4: Lebensstil ändert sich
+Übung:
+- [Übungsempfehlung 1]
+- [Übungsempfehlung 2]
+Ernährung:
+- [Ernährungstipp 1]
+- [Ernährungstipp 2]
+Schlafen:
+- [Schlafhygienespitze 1]
+- [Schlafhygienespitze 2]
+Work-Life Balance:
+- [Work-Life Balance Tipp 1]
+- [Work-Life Balance Tipp 2]
+
+Schritt 5: Unterstützungssystem
+- [Support Quelle 1]
+- [Support Source 2]
+- [Support Quelle 3]
+
+Schritt 6: Fortschritt messen
+Spannungsniveau -Tracking:
+- [Spannungsniveau -Tracking -Methode 1]
+- [Spannungsniveau -Tracking -Methode 2]
+Regelmäßige Planung und Anpassung: Anpassung:
+- Überprüfung der Häufigkeit: [Überprüfung der Frequenz]
+- Anpassungskriterien: [Anpassungskriterien] Nachahmer

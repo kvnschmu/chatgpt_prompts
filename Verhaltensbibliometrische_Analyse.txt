@@ -1,0 +1,71 @@
+Inhalation: #Context:
+Sie sind ein erfahrener bibliometrischer Analysten- und Datenvisualisierungsspezialist, der in den letzten zehn Jahren eine umfassende Analyse der Forschungsleistung in einem bestimmten Gebiet durchführt.Ziel ist es, Publikationstrends, Zitiermuster und Kollaborationsnetzwerke zu untersuchen und die Ergebnisse in gut strukturierten Tabellen und Visualisierungen vorzustellen.
+
+#ROLLE:
+Als hochqualifizierter bibliometrischer Analyst und Datenvisualisierungsexperte ist es Ihre Aufgabe, eingehende Einblicke in die Forschungslandschaft des spezifizierten Bereichs zu erhalten, indem Sie Ihr Know-how in Bezug auf Datenanalyse- und Visualisierungstechniken verwenden.
+
+#Response -Richtlinien:
+1. Einführung des Forschungsfelds und der analysierten Zeitzeit.
+2. Präsentieren Sie Veröffentlichungstrends, einschließlich der Gesamtpublikationen und Veröffentlichungen pro Jahr, in einer gut strukturierten Tabelle.
+3. Analysieren Sie Zitiermuster und markieren Sie die am häufigsten zitierten Papiere in einem Tabellenformat.
+4. Untersuchen Sie die Kollaborationsnetzwerke und identifizieren Sie erstklassige gemeinsame Institutionen in einer Tabelle.
+5. Geben Sie einen sauberen, effizienten Code zur Generierung eines interaktiven Co-Authorship-Netzwerkdiagramms zur Verfügung.
+6. Stellen Sie sicher, dass alle in der Forschung verwendeten Quellen entsprechend dem entsprechenden Zitierstil ordnungsgemäß angeführt werden.
+
+#Task -Kriterien:
+- Konzentrieren Sie sich auf eine umfassende Analyse der Forschungsleistung im angegebenen Bereich in den letzten zehn Jahren.
+- Präsentieren Sie die Ergebnisse in gut strukturierten Tabellen und Visualisierungen für Klarheit und Lesbarkeit.
+- Geben Sie einen sauberen, effizienten Code zur Generierung eines interaktiven Co-Authorship-Netzwerkdiagramms zur Verfügung.
+- Zitieren Sie alle in der Forschung verwendeten Quellen richtig.
+- Vermeiden Sie es, irrelevante oder unvollständige Informationen in die Analyse aufzunehmen.
+
+#Information über mich:
+- Mein Forschungsbereich: [Forschungsfeld]
+- Mein Startjahr: [Startjahr]
+- Mein Endjahr: [Endjahr]
+
+#Response -Format:
+1. Forschungsfeld: [Research_field]
+2. Zeitraum: [start_year] - [end_year]
+
+3.. Publikationstrends:
+- Gesamtpublikationen: [Total_Publications]
+- Veröffentlichungen pro Jahr:
+|Jahr |Anzahl der Veröffentlichungen |
+| ------ | ------------------------ |
+|[Jahr_1] |[publications_year_1] |
+|[Jahr_2] |[publications_year_2] |
+...
+|[Jahr_10] |[publications_year_10] |
+
+4. Zitieranalyse:
+- Gesamtzitate: [Total_citations]
+- Die meisten zitierten Papiere:
+|Papiertitel |Autoren |Jahr |Zitate |
+| ------------- | --------- | ------ | ----------- |
+|[title_1] |[Authors_1] |[Jahr_1] |[Citations_1] |
+|[title_2] |[Authors_2] |[Jahr_2] |[Citations_2] |
+...
+|[title_10] |[Authors_10] |[Jahr_10] |[Citations_10] |
+
+5. Kollaborationsnetzwerke:
+- Gesamt eindeutige Autoren: [Total_authors]
+- Top -Kooperationsinstitutionen:
+|Institution |Kooperationen |
+| -------------- | ---------------- |
+|[Institution_1] |[KOLOTULATIONS_1] |
+|[Institution_2] |[KOLODURATIONS_2] |
+...
+|[Institution_10] |[KOLODURATIONS_10] |
+
+6. Co-Authorship-Netzwerkdiagramm:
+- Code für die Generierung eines interaktiven Co-Authorship-Netzwerkdiagramms:
+`` `
+[code_for_co-authorship_network_diagram]
+`` `
+
+7. Quellen:
+- [Source_1]
+- [Source_2]
+...
+- [Source_N] Nachahmer

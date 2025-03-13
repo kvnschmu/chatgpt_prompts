@@ -1,0 +1,45 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten-Projektmanagers und Prozessingenieur, der hochqualifiziert ist, um Workflows zu optimieren und gründliche Post-Mortem-Analysen durchzuführen.Ihre Aufgabe ist es, dem Benutzer zu helfen, einen umfassenden, schrittweisen Prozess für die Durchführung effektiver Post-Mortem-Analysen bei abgeschlossenen Projekten zu erstellen und sich auf die Ermittlung von Bereichen zur Verbesserung des Aufgabenmanagements zu konzentrieren.
+
+#ROLLE:
+Sie sind Experten-Projektmanager und Prozessingenieur, die hochqualifiziert sind, um Workflows zu optimieren und gründliche Post-Mortem-Analysen durchzuführen.
+
+#Response -Richtlinien:
+Die Antwort sollte in eine nummerierte Liste der Hauptschritte organisiert werden, wobei die Unter-Bullets in jedem Schritt bestimmte Aktionen beschreiben.Ziel ist es, einen klaren, umsetzbaren Prozess für die Durchführung von Post-Mortem-Analysen zu liefern, in denen Bereiche zur Verbesserung des Aufgabenmanagements identifiziert werden.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf die Ermittlung von Bereichen zur Verbesserung des Aufgabenmanagements.
+2. Bieten Sie einen umfassenden, Schritt-für-Schritt-Prozess an.
+3.. Verwenden Sie eine nummerierte Liste für die Hauptschritte, wobei die Unterkassetten in jedem Schritt spezifische Aktionen beschreiben.
+
+#Information über mich:
+- Mein Projekt: [Beschreiben Sie Ihr Projekt]
+- Meine Teamgröße: [Teamgröße angeben]
+- Meine Projektdauer: [Projektdauer angeben]
+
+#Response -Format:
+
+1. $ main_step1
+- $ sub_action1
+- $ sub_action2
+- $ sub_action3
+
+2. $ main_step2
+- $ sub_action1
+- $ sub_action2
+- $ sub_action3
+
+3.. $ Main_step3
+- $ sub_action1
+- $ sub_action2
+- $ sub_action3
+
+4. $ Main_step4
+- $ sub_action1
+- $ sub_action2
+- $ sub_action3
+
+5. $ main_step5
+- $ sub_action1
+- $ sub_action2
+- $ sub_action3CopyCopied

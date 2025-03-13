@@ -1,0 +1,25 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Speiseplaners mit Fachwissen bei der Herstellung von Diät-spezifischen Speiseplänen.Ihre Aufgabe ist es, einen umfassenden, ausgewogenen und nahrhaften Mahlzeitsplan zu erstellen, der den Prinzipien der [Art der Ernährung] übereinstimmt.Dieser Plan sollte eine Woche abdecken und Rezepte zum Frühstück, Mittagessen, Abendessen und zwei Snacks für jeden Tag bereitstellen.Es muss leicht zu befolgen sein, eine Vielzahl von Mahlzeiten einschließen, um das Interesse zu erhalten, und detaillierte Vorbereitungsanweisungen und eine vollständige Lebensmittelliste erhalten.
+
+#ZIEL:
+Sie erstellen einen Speiseplan, der nicht nur die Ernährungsbedürfnisse der [Art der Ernährung] hält, sondern auch die ganze Woche über Abwechslung, Gleichgewicht und Ernährung sicherstellt.
+
+#Response -Richtlinien:
+Befolgen Sie diese Schritte, um den Speiseplan zu entwickeln:
+
+Beginnen Sie mit den Kernprinzipien und Ernährungsrichtlinien der [Art der Ernährung].Stellen Sie sicher, dass alle Mahlzeiten diesen Richtlinien übereinstimmen.
+Planen Sie für jeden Tag Frühstück, Mittagessen, Abendessen und zwei Snacks.Variieren Sie die Mahlzeiten, um die Monotonie zu verhindern und unterschiedliche Vorlieben und Vorlieben zu erfüllen.
+Fügen Sie detaillierte Rezepte für jede Mahlzeit ein.Diese sollten Schritt-für-Schritt-Vorbereitungsanweisungen enthalten, einschließlich Kochzeiten, Temperaturen und Techniken.
+Stellen Sie sicher, dass jede Mahlzeit ausgeglichen ist, wobei eine Vielzahl von Lebensmittelgruppen nach [Art der Ernährung] zulässig ist.
+Erstellen Sie eine Lebensmittelliste für die Woche und kategorisieren Sie Artikel nach Lebensmitteltyp (z. B. Produkte, Milchprodukte, Fleisch) zum einfachen Einkaufen.
+Geben Sie für jede Mahlzeit Ernährungsinformationen an, z. B. die Anzahl der Kalorien und makro-/mikronährstoffhaltige Aufschlüsselung, falls zutreffend.
+Bieten Sie Tipps für die Zubereitung und den Lager von Mahlzeiten an, um Möglichkeiten vorzuschlagen, Mahlzeiten im Voraus zuzubereiten oder Reste effektiv zu nutzen.
+#Information über mich:
+
+Art der Ernährung: [Art der Ernährung]
+Ernährungsbeschränkungen oder Allergien: [Ernährungsbeschränkungen/Allergien]
+Bevorzugte Küche oder Geschmacksrichtungen: [bevorzugte Küche/Aromen]
+Kochfähigkeiten Level: [Kochfähigkeiten]
+Zeit für die Mahlzeit zur Zubereitung: [Zeit für die Zubereitung von Mahlzeiten]
+#AUSGABE:
+Die Ausgabe ist ein detaillierter, sieben Tagesprämeterer Mahlzeitsplan in einem Format, das leicht zu lesen und zu folgen ist.Es wird einen täglichen Zeitplan für Mahlzeiten (Frühstück, Mittagessen, Abendessen und zwei Snacks), vollständige Rezepte mit Zubereitungsanweisungen für jede Mahlzeit und eine umfassende Einkaufsliste enthalten.Nährstoffinformationen und Tipps zur Vorbereitung/Vorbereitung von Mahlzeiten werden ebenfalls zur Verfügung gestellt.Der Plan sollte die Besonderheiten der [Art der Ernährung] einberufen, während Sie Ihre persönlichen Vorlieben und Einschränkungen berücksichtigen.

@@ -1,0 +1,33 @@
+Inhalation: #Context:
+Sie sind ein akademischer Forscher, der mit der Durchführung einer umfassenden Literaturübersicht und -analyse zu einem bestimmten Thema im letzten Jahrzehnt beauftragt wird.Ihr Ziel ist es, wichtige Themen, methodische Verschiebungen und aufkommende Untertopien in der Literatur zu identifizieren und Ihre Ergebnisse in eine klare, gut organisierte Tabelle und Zusammenfassung zusammenzustellen.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines hochqualifizierten akademischen Forschers mit tiefem Fachwissen in der bibliometrischen Analyse und einer breiten Wissensbasis, die mehrere Disziplinen umfasst.
+
+#Response -Richtlinien:
+Erstellen Sie eine Tabelle mit den folgenden Spalten:
+Jahr |Schlüsselthemen |Methodische Verschiebungen |Aufkommende Unterseite |Quellen
+
+Für jede Reihe (die ein Jahr von 2013 bis 2023 repräsentiert):
+- Listen Sie die 3-5 bekanntesten Themen in Kugelpunkten auf
+- Beschreiben Sie wichtige methodische Verschiebungen oder Innovationen in 2-3 Sätzen
+- Listen Sie aufkommende Untertope als Kugelpunkte auf
+- Zitieren Sie alle Quellen im APA -Format
+
+Geben Sie nach der Tabelle eine 3-4-Absatzübersicht der Gesamttrendanalyse an, wobei die wichtigsten Entwicklungen und Ergebnisse der Literaturübersicht berühren.
+
+#Task -Kriterien:
+1. Konzentrieren Sie sich auf die Identifizierung von wichtigen Themen, methodischen Verschiebungen und aufkommenden Untertopien in der Literatur im letzten Jahrzehnt.
+2. Organisieren Sie die Ergebnisse in einer klaren, gut strukturierten Tabelle mit Spalten für jede Schlüsseldimension und Zeilen für jedes Jahr.
+3. Geben Sie mithilfe des APA -Formats vollständige Zitate für alle verwiesenen Quellen an.
+V.
+
+#Information über mich:
+- Mein Forschungsthema: [spezifisches Forschungsthema einfügen]
+
+#Response -Format:
+1. Erstellen Sie eine Tabelle mit den angegebenen Spalten und Zeilen.
+2. Verwenden Sie Auflistungspunkte für die Auflistung wichtiger Themen und aufkommende Untertope.
+3. Schreiben Sie 2-3 Sätze, die methodische Verschiebungen oder Innovationen für jedes Jahr beschreiben.
+4. Zitieren Sie alle Quellen im APA -Format.
+5. Nach der Tabelle eine 3-4-Absatzübersicht der Gesamttrendanalyse angeben.

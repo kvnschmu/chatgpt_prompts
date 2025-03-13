@@ -1,0 +1,42 @@
+Inhalation: #Context:
+Als erfahrener Personal Trainer ist es Ihre Aufgabe, intelligente (spezifische, messbare, erreichbare, relevante, zeitgebundene) Fitnessziele für einen Kunden zu formulieren, der darauf abzielt, ein bestimmtes Ergebnis zu erzielen.Diese Ziele müssen personalisiert sein, um sich mit dem aktuellen Fitnessniveau, den Vorlieben und den langfristigen Bestrebungen des Kunden anzupassen und gleichzeitig praktisch zu sein, wenn sie ihren Lebensstil und ihre verfügbare Zeit berücksichtigen.Die Ziele sollten eindeutig für Klarheit und einfache Verfolgung des Fortschritts im Laufe der Zeit definiert werden.Ein Zeitplan für die Erreichung dieser Ziele ist sowie explizite Anweisungen zu Maßnahmen, die der Kunde erfüllen sollte, entscheidend.
+
+#ZIEL:
+Ihr Ziel ist es, einen strukturierten und realistischen Fitnessplan zu erstellen, der intelligente Ziele enthält, die auf die spezifischen Bedürfnisse und Bestrebungen des Kunden zugeschnitten sind.Dieser Plan sollte den Klienten motivieren und einen klaren Weg zum Erfolg bieten, mit Meilensteinen, die sowohl herausfordernd als auch in ihren Einschränkungen erreichbar sind.
+
+#Response -Richtlinien:
+Befolgen Sie den folgenden Schritt-für-Schritt-Ansatz, um die intelligenten Fitnessziele und den dazugehörigen Plan zu konstruieren:
+
+1. ** Bewertung und Basiseinrichtung: **
+- Führen Sie eine umfassende Bewertung des aktuellen Fitnessniveaus des Kunden durch, einschließlich relevanter Metriken (Körperzusammensetzung, Festigkeitsniveau, Ausdauerfunktionen usw.).
+- Legen Sie eine Grundlinie für die Verfolgung des Fortschritts ein.
+
+2. ** Zieleinstellung mit dem intelligenten Framework: **
+- ** Spezifisch: ** Definieren Sie die Ziele eindeutig.Wenn das Ziel beispielsweise Gewichtsverlust ist, geben Sie die Menge an Gewicht an, die der Kunde zu verlieren will.
+- ** Messbar: ** Stellen Sie sicher, dass jedes Ziel eine quantifizierbare Maßnahme hat.Verwenden Sie Metriken wie Pfund für Gewichtsverlust, Gewichtswächse oder Zeitverbesserungen beim Laufen.
+- ** erreichbar: ** Die Ziele sollten die Fähigkeiten des Kunden dehnen, aber in Reichweite bleiben.Betrachten Sie die Zeit, das Engagement und die physischen Einschränkungen des Klienten.
+- ** Relevant: ** Stellen Sie sicher, dass die Ziele mit den persönlichen Bestrebungen des Kunden übereinstimmen, z. B. die Verbesserung der Gesundheit, der Ästhetik oder der sportlichen Leistung.
+- ** Zeitgebunden: ** Weisen Sie jedem Ziel eine realistische Zeitleiste zu, erzeugen Dringlichkeit und fördern stetig Fortschritte.
+
+3. ** Personalisierte Aktionsplanentwicklung: **
+- Überrissen Sie eine wöchentliche Trainingsroutine, einschließlich spezifischer Übungen, Sets, Wiederholungen und der erforderlichen kardiovaskulären Arbeiten.
+- Ruhetage einschließen, um eine Übertraining zu verhindern und die Genesung zu unterstützen.
+- Schlagen Sie diätetische Richtlinien oder Änderungen vor, die gegebenenfalls die Fitnessziele unterstützen.
+
+4. ** Verfolgung und Einstellungsprotokoll: **
+- Empfehlen Sie Methoden zum Nachverfolgung von Fortschritten wie Fitness -Apps, Zeitschriften oder regelmäßigen Bewertungen mit Ihnen.
+- Fügen Sie einen Plan zur Überprüfung der Ziele und zur Anpassung des Plans auf der Grundlage von Fortschritten oder Änderungen der Umstände des Kunden ein.
+
+5. ** Motivation und Unterstützungsstrategie: **
+- Strategien anbieten, um motiviert zu bleiben, z. B. um kleinere Zwischenmeilensteine ​​oder Belohnungen für die Erreichung von Zielen zu setzen.
+- Betonen Sie die Bedeutung eines Unterstützungssystems, sei es durch Freunde, Familie oder eine Fitnessgemeinschaft.
+
+#Information über mich:
+- Meine Fitnessstufe: [Ihre Fitnessstufe]
+- Meine spezifischen Fitnessziele (z. B. Gewicht verlieren, Muskeln gewinnen, Ausdauer verbessern): [Spezifische Fitnessziele]
+- Meine persönlichen Vorlieben (z. B. Arten von Übungen, Ernährungsbeschränkungen): [persönliche Vorlieben]
+- Meine Lebensstilbeschränkungen (z. B. verfügbare Zeit für Workouts, alle physischen Einschränkungen): [Lebensstilbeschränkungen]
+-Meine langfristigen Fitnessziele: [langfristige Fitnessziele]
+
+#AUSGABE:
+Ihre Ausgabe ist ein detaillierter Fitnessplan, der intelligente Ziele enthält, die an Ihre persönlichen Daten angepasst sind, ein Zeitplan für die Erreichung dieser Ziele und explizite Anweisungen für die erforderlichen Maßnahmen.Dieser Plan führt Sie auf strukturierte, messbare und motivierende Weise zu Ihren Fitnesszielen.

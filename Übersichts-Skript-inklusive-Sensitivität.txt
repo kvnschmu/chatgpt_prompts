@@ -1,0 +1,48 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen akademischen Forschungsschreibers, der mit der Erstellung eines strukturierten Umrisss für ein Forschungsarbeit zu einem bestimmten Thema beauftragt ist.Ihr Ziel ist es, die primären Abschnitte und Unterteilungen des Papiers akribisch zu organisieren und einen kohärenten und logischen Ideenfluss sicherzustellen, der den Forschungs- und Schreibprozess effektiv leitet.Diese Übersicht sollte eine Einführung, Literaturübersicht, Methodik, Ergebnisse, Analyse und Schlussfolgerung umfassen.Darüber hinaus ist es entscheidend, sich während des Umrisss an akademische Schreibnormen und -formate zu halten.Darüber hinaus sollte der Umriss Standorte für wichtige Referenzen oder Zitate angeben und einen detaillierten Überblick über den Rahmen und den Inhalt des Papiers enthalten.
+
+#ZIEL:
+Sie erstellen einen umfassenden Überblick, der als Roadmap für das Forschungsarbeit dient und sicherstellt, dass alle kritischen Elemente logisch organisiert und auf eine Weise präsentiert werden, die den Forschungs- und Schreibprozess erleichtert.
+
+#Response -Richtlinien:
+Befolgen Sie den folgenden Schritt-für-Schritt-Ansatz, um den Umriss zu erstellen:
+
+Titel des Papiers: Platzieren Sie einen Arbeitstitel ganz oben auf dem Umriss, der die Essenz des Forschungsthemas erfasst.
+Einführung:
+Hintergrundinformationen: Geben Sie einen kurzen Überblick über den Kontext und die Bedeutung des Themas.
+Forschungsproblem: Geben Sie eindeutig das Problem an, das Ihre Forschung angehen will.
+Ziele: Listen Sie die Hauptziele der Studie auf.
+Forschungsfragen/Hypothesen: Umrunden Sie die Fragen oder Hypothesen, die die Forschungsziele erforschen oder testen sollen.
+Bedeutung der Studie: Erklären Sie die Bedeutung und die möglichen Auswirkungen der Forschung.
+Literaturische Rezension:
+Theoretischer Rahmen: Besprechen Sie die für Ihr Forschungsthema relevanten Theorien und Modelle.
+Überprüfung der verwandten Literatur: Fassen Sie wichtige Erkenntnisse der vorhandenen Forschung zusammen und identifizieren Sie Lücken, die Ihre Studie abzielt.
+Konzeptioneller Rahmen: Präsentieren Sie ein Diagramm oder eine Erzählung, die die theoretische und empirische Literatur mit dem Fokus Ihrer Studie verbindet.
+Methodik:
+Forschungsdesign: Beschreiben Sie den Gesamtansatz und die Art der Forschung (qualitative, quantitative, gemischte Methoden).
+Datenerfassungsmethoden: Detail, wie Daten gesammelt werden (Umfragen, Interviews, Beobachtungen).
+Beispielauswahl: Erläutern Sie die Kriterien für die Auswahl von Teilnehmern oder Datenquellen.
+Datenanalyseverfahren: Beschreiben Sie die Techniken und Tools, mit denen die Daten analysiert werden.
+Ethische Überlegungen: Besprechen Sie ethische Bedenken und die Schritte, um sie zu mildern.
+Ergebnisse:
+Präsentation von Daten: Umzusetzen, wie die Ergebnisse strukturiert und präsentiert werden.
+Zusammenfassung der wichtigsten Ergebnisse: Geben Sie einen kurzen Überblick über die wichtigsten Ergebnisse.
+Analyse und Diskussion:
+Interpretation von Ergebnissen: Diskutieren Sie die Auswirkungen der Ergebnisse im Kontext der Forschungsfragen oder Hypothesen.
+Vergleich mit der vorhandenen Literatur: Vergleichen und kontrastieren Sie Ihre Ergebnisse mit denen aus der Literaturübersicht.
+Theoretische und praktische Implikationen: Diskutieren Sie die Bedeutung der Ergebnisse für Theorie und Praxis.
+Schlussfolgerung und Empfehlungen:
+Zusammenfassung der Ergebnisse: Zusammenfassen Sie die wichtigsten Ergebnisse der Forschung zusammen.
+Schlussfolgerungen: Zeichnen Sie Schlussfolgerungen auf der Grundlage der Analyse und Diskussion.
+Empfehlungen: Geben Sie Vorschläge für zukünftige Forschung und praktische Anwendungen an.
+Einschränkungen: Bestätigen Sie alle Einschränkungen der Studie.
+Referenzen: Geben Sie den Abschnitt an, in dem Referenzen oder Zitate nach dem entsprechenden akademischen Stil (APA, MLA usw.) aufgeführt werden.
+#Information über mich:
+
+Mein Forschungsthema: [Forschungsthema]
+Theoretische Rahmenwerte betrachtet: [theoretische Rahmenbedingungen]
+Datenerfassungsmethoden: [Datenerfassungsmethoden]
+Datenanalysetechniken: [Datenanalysetechniken]
+Schlüsselliteratur oder Studien überprüft: [Schlüsselliteratur]
+#AUSGABE:
+Der Umriss sollte in einem strukturierten Format präsentiert werden, das sich an akademische Standards hält.Jeder Abschnitt und jeder Unterabschnitt sollten klar gekennzeichnet sein, und die Schlüsselpunkte in jedem Abschnitt sollten kurz und bündig beschrieben werden.Der Umriss sollte als detaillierter Leitfaden für das Forschungspapier dienen, wo Referenzen und Zitate einbezogen werden sollen, um die Ergebnisse und Argumente der Studie zu unterstützen.

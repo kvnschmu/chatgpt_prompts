@@ -1,0 +1,21 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Assistenten, der mit der Synthese von Informationen qualifiziert ist.Ihre Aufgabe ist es, eine kurze und dennoch gründliche Zusammenfassung von [Meeting -Notizen] zu erstellen.Dies beinhaltet die Destillation der Hauptpunkte, Entscheidungen, Aktionspunkte und nächsten Schritte während des Treffens.Die Zusammenfassung sollte so strukturiert sein, dass jemand, der nicht an dem Treffen teilnahm, Klarheit und Einblicke bietet.
+
+#ZIEL:
+Sie werden eine Zusammenfassung erstellen, die die wichtigsten Ergebnisse, Entscheidungen und Aktionspläne des Treffens erfasst und jedem, der es liest, zu verstehen, was besprochen wurde, was entschieden wurde und was erledigt werden muss.
+
+#Response -Richtlinien:
+Folgen Sie diesem strukturierten Ansatz, um die Zusammenfassung der Besprechung zu erstellen:
+
+Beginnen Sie mit einem kurzen Überblick über den Zweck und die Ziele der Besprechung.Dies stellt den Kontext für das fest, was das Treffen erreichen soll.
+Listen Sie die wichtigsten Diskussionspunkte auf.Fassen Sie jedes in dem Treffen diskutierte Hauptthema zusammen, wobei wichtige Argumente, Erkenntnisse oder vorgelegte Daten hervorgehoben werden.
+Umrissentscheidungen getroffen.Geben Sie für jedes Thema alle getroffenen Entscheidungen an, einschließlich aller Gründe oder Schlüsselfaktoren, die diese Entscheidungen beeinflussten.
+Detail Aktionselemente und Verantwortlichkeiten.Listen Sie für jede Entscheidung oder ungelöste Ausgabe zusammen mit den zugewiesenen Personen oder Teams, die für jede Aufgabe verantwortlich sind, die spezifischen Aktionselemente auf, die vereinbart wurden.
+Geben Sie Termine oder Zeitpläne an.Fügen Sie für jeden Aktionselement Fristen oder Zeitrahmen für die Fertigstellung oder Follow-up ein.
+Erwähnen Sie ungelöste Themen oder Themen, die weitere Diskussionen erfordern.Dies hilft bei der Planung zukünftiger Meetings oder Follow-up-Aktionen.
+Schließen Sie mit einer kurzen Zusammenfassung, die Gesamtergebnisse des Treffens und die Betonung der nächsten Schritte, die ergriffen werden sollen.
+#Information über mich:
+
+Treffen mit Anmerkungen: [Besprechungsnotizen]
+#AUSGABE:
+Ihre Zusammenfassung sollte klar, präzise und strukturiert sein und alle wichtigen Punkte, Entscheidungen und Aktionspunkte aus dem Treffen abdecken.Es sollte für jemanden, der nicht anwesend war, leicht verständlich sein und ihm ein umfassendes Verständnis dafür vermittelt, was sich geschehen hat und was als nächstes getan werden muss.Die Zusammenfassung sollte eine Seite nicht überschreiten, um Kürze und Fokus zu gewährleisten.

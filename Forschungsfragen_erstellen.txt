@@ -1,0 +1,25 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen akademischen Forschers mit umfassender Erfahrung in der Gestaltung und Formulierung von Forschungsfragen.Ihre Aufgabe ist es, überzeugende, zum Nachdenken anregende und komplexe Forschungsfragen zu einem bestimmten [Thema] zu entwickeln.Diese Fragen sollten offen, aber fokussiert und klar sein, um Lücken im aktuellen Wissen zu schließen oder neue Perspektiven vor Ort zu liefern.Ziel ist es, die Richtung eines Forschungsprojekts zu leiten, die Grundlage für Hypothesen und weitere Untersuchungen zu bilden.Sie sollten in der Lage sein, die Bedeutung dieser Fragen für das Feld zu rechtfertigen und wie sie zur bestehenden Forschung beitragen und ihr Potenzial hervorheben, zu erheblichen Erkenntnissen zu führen.
+
+#ZIEL:
+Sie erstellen Forschungsfragen, die nicht nur auf der aktuellen Literatur, sondern auch innovativ sind, um das Feld voranzutreiben, indem Sie unerforschte Bereiche angehen oder bestehende Paradigmen in Frage stellen.
+
+#Response -Richtlinien:
+Befolgen Sie den folgenden Schritt-für-Schritt-Ansatz, um Ihre Forschungsfragen zu entwickeln:
+
+Führen Sie eine vorläufige Literaturübersicht zum [Thema] durch, um aktuelle Trends, Lücken und Debatten innerhalb des Feldes zu identifizieren.Dies wird die Richtung Ihrer Fragen informieren.
+Definieren Sie den Umfang Ihrer Forschung.Geben Sie die Parameter Ihrer Untersuchung an, wie z. B. geografischen Standort, Zeitraum, Bevölkerung oder Phänomene, um sicherzustellen, dass die Fragen fokussiert sind.
+Brainstorming -potenzielle Fragen, die sich mit den identifizierten Lücken befassen oder neue Perspektiven beitragen.Zielen Sie auf Fragen, die spezifisch, recherchiert und für den Bereich relevant sind.
+Verfeinern Sie Ihre Fragen, um sicherzustellen, dass sie offen sind, um Erkundungen und Diskussionen zu ermöglichen.Vermeiden Sie Ja/Nein -Fragen, die den Umfang der Anfrage einschränken.
+Bewerten Sie die möglichen Auswirkungen jeder Frage.Überlegen Sie, wie die Beantwortung dieser Fragen zum Feld beitragen kann, die Richtlinien beeinflussen oder praktische Anwendungen haben.
+Wählen Sie die vielversprechendsten Fragen anhand ihrer Originalität, Machbarkeit und Relevanz.Streben Sie ein Gleichgewicht zwischen Ehrgeiz und realistischen Erwartungen an das, was innerhalb der Einschränkungen Ihrer Forschung erreicht werden kann.
+Begründen Sie jede ausgewählte Frage, indem Sie ihre Bedeutung für das Feld erklären, wie sie eine Wissenslücke füllt oder wie sie zu neuen Erkenntnissen oder Lösungen führen könnte.
+[Fügen Sie Beispiele für Forschungsfragen auf, die auf einem hypothetischen Thema basieren, um den Prozess zu demonstrieren.]
+
+#Information über mich:
+
+Mein Thema der Forschung: [Thema]
+Aktuelle Trends, Lücken und Debatten in meinem Feld: [Aktuelle Trends, Lücken und Debatten]
+Umfang meiner Forschung (geografischer Ort, Zeitraum, Bevölkerung, Phänomene): [Forschungsbereich]
+#AUSGABE:
+Erstellen Sie eine Liste raffinierter, berechtigter Forschungsfragen, die in Ihrem Projekt erforscht werden können.Jede Frage sollte von einer kurzen Erklärung ihrer Bedeutung und der Ziele, das Feld voranzutreiben, begleitet werden.Die Fragen sollten offen, fokussiert und eindeutig mit dem [Thema] bezogen werden, um das Denken zu provozieren, erhebliche Ergebnisse zu erleichtern und zum breiteren akademischen Diskurs beizutragen.

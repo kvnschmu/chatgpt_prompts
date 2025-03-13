@@ -1,0 +1,61 @@
+Inhalation: #Context:
+Sie sind ein fachmännischer Designer, der mit der Erstellung eines robusten Systems zur Priorisierung von Projekten auf der Grundlage wichtiger Metriken und strategischer Ziele beauftragt ist.Das Framework sollte Unternehmen helfen, datengesteuerte Entscheidungen zu treffen und ihre Projektportfolios zu optimieren.
+
+#ROLLE:
+Als fachmännischer Designer für Entscheidungsrahmen ist es Ihre Aufgabe, ein umfassendes und anpassbares System zu entwickeln, das Projekte basierend auf mehreren Faktoren bewertet, klare Visualisierungen von Projektdaten bietet und umsetzbare Empfehlungen für die Projektpriorisierung bietet.
+
+#Response -Richtlinien:
+1. Entwickeln Sie ein Multi-Faktor-Bewertungssystem, das Projekte basierend auf:
+A.Potenzielle Kapitalrendite (ROI)
+B.Verfügbarkeit und Zuordnung von Ressourcen
+C.Ausrichtung auf die gesamte Geschäftsstrategie
+2. Erstellen Sie eine klare Methodik, um jedem Faktor Bewertungen zuzuweisen
+3.. Ermöglichen Sie anpassbare Gewichtungen jedes Faktor
+4. Entwerfen Sie ein Tool zur Datenvisualisierung, das enthält:
+A.Seite an Seite Vergleiche der Projektergebnisse
+B.Visuelle Darstellung der Ressourcenzuweisung über Projekte hinweg
+C.Strategische Ausrichtungskartierung
+5. Bereitstellung umsetzbarer Empfehlungen für die Projektpriorisierung basierend auf Framework -Outputs
+6. Umrunden Sie eine Implementierungs -Roadmap für den Framework
+
+#Task -Kriterien:
+- Das Scoring-System sollte ROI-, Ressourcen- und strategische Ausrichtungsbewertungen auf einer Skala von 1-5 umfassen
+- Die Bewertungsmethode sollte eindeutige Kriterien und Schwellenwerte für jede Punktzahl haben
+- Die Datenvisualisierung sollte interaktive Dashboards mit Filter-, Sortier- und Bohrerfunktionen enthalten
+- Priorisierungsempfehlungen sollten "schnelle Siege" und "strategische Wetten" identifizieren
+- Implementierung Roadmap sollte die Datenerfassung, Modelltests, Pilotierung und Integration mit vorhandenen Prozessen abdecken
+
+#Information über mich:
+- Die wichtigsten strategischen Ziele meiner Organisation: [Ziele einfügen]
+- Das aktuelle Projektportfolio meiner Organisation: [beschreiben Portfolio]
+- Die Ressourcenbeschränkungen meiner Organisation: [Beschreiben Sie Einschränkungen]
+
+#Response -Format:
+1. Bewertungssystem
+- ROI-Punktzahl (1-5)
+- Ressourcenbewertung (1-5)
+- Strategischer Ausrichtungswert (1-5)
+
+2. Bewertungsmethode
+- Kriterien und Schwellenwerte für jeden Punktzahl -Level
+- Anpassbare Faktor -Gewichtungen
+
+A. Datenvisualisierung
+- Interaktive Dashboards
+- Projektwerte (Balkendiagramme)
+- Ressourcenzuweisung (Kreisdiagramme, gestapelte Balkendiagramme)
+- Strategische Ausrichtungsmatrix
+
+4. Priorisierungsempfehlungen
+- Rangliste Projekte nach Gesamtwerten und strategischer Ausrichtung
+- Identifizierte "schnelle Siege" und "strategische Wetten"
+- Anleitung zur Projektsequenzierung und zum Portfolio -Mix
+
+5. Implementierung Roadmap
+1. Definieren und validieren Sie Bewertungskriterien
+2. Daten sammeln und normalisieren
+3. Tools für Modell- und Visualisierungsergebnisse und Testbewertungen erstellen und testen
+4. Pilotrahmen mit Teilmenge von Projekten
+5. Rahmen und skalieren Sie das Rahmen basierend auf Pilotergebnissen
+6. Integrieren Sie Framework in vorhandene Prozesse
+7. Bieten Sie Schulungen und Änderungsmanagement SupportCopyCopied an
