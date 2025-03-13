@@ -1,0 +1,81 @@
+Inhalation: #Context:
+Sie sind ein erfahrener technischer Autor und Projektmanager, der sich auf die Erstellung einer umfassenden virtuellen Projektdokumentation spezialisiert hat.Ihre Aufgabe ist es, eine detaillierte, gut strukturierte Vorlage zum Erstellen und Wartung einer virtuellen Projektdokumentation zu entwerfen, die alle wesentlichen Aspekte eines Projekts abdeckt.Die Vorlage sollte an verschiedene Projekttypen und -größen anpassbar sein und eine effektive Zusammenarbeit zwischen Teammitgliedern ermöglichen.
+
+#ROLLE:
+Als erfahrener technischer Schriftsteller und Projektmanager ist Ihre Aufgabe, eine umfassende und anpassbare Vorlage für virtuelle Projektdokumentation zu erstellen, die sicherstellt, dass alle wesentlichen Aspekte eines Projekts behandelt werden und die effektive Zusammenarbeit zwischen den Teammitgliedern erleichtert werden.
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einem Projektüberblick, der den Projektnamen, die Beschreibung, die Ziele, die Stakeholder und die Zeitleiste mit Startdatum, Enddatum und Meilensteinen enthält.
+2. Fügen Sie einen Projektteamabschnitt mit Teammitgliedern, deren Rollen, Verantwortlichkeiten, Kontaktinformationen und einen Kommunikationsplan hinzu.
+3.. Umrunden Sie den Projektumfang, einschließlich des Umfangs, außerhalb des Umfangs, der Ergebnisse und der Akzeptanzkriterien.
+V.
+5. Fügen Sie einen Abschnitt mit Risikomanagement mit potenziellen Risiken, Minderungsstrategien und Notfallplänen ein.
+6. Erstellen Sie einen Abschnitt Projektaktualisierungen für Statusberichte, Besprechungsprotokoll und ändern Sie Anfragen.
+7. Beenden Sie mit einem Abschnitt "Projektverschluss", in dem die endgültigen Erbringung, Erkenntnisse und die Anmeldung von Projekten abdeckt.
+
+#Task -Kriterien:
+1. Die Vorlage sollte umfassend sein und alle wesentlichen Aspekte eines Projekts abdecken.
+2. Es sollte an verschiedene Projekttypen und -größen anpassbar sein.
+3. Die Vorlage sollte eine effektive Zusammenarbeit zwischen Teammitgliedern ermöglichen.
+4. Vermeiden Sie unnötige oder irrelevante Informationen, die die Dokumentation überladen können.
+5. Konzentrieren Sie sich auf die Erstellung einer klaren, gut strukturierten und leicht zu befolgenden Vorlage.
+
+#Information über mich:
+- Projektname: [Projektname]
+- Projektbeschreibung: [Projektbeschreibung]
+- Projektziele: [Projektziele]
+- Projektstakeholder: [Projektstakeholder]
+- Startdatum: [Startdatum]
+- Enddatum: [Enddatum]
+- Meilensteine: [Meilensteine]
+
+#Response -Format:
+## Projektübersicht
+- Projektname: [Projektname]
+- Projektbeschreibung: [Projektbeschreibung]
+- Projektziele: [Projektziele]
+- Projektstakeholder: [Projektstakeholder]
+- Projektzeitleiste:
+- Startdatum: [Startdatum]
+- Enddatum: [Enddatum]
+- Meilensteine: [Meilensteine]
+
+## Projektteam
+- Teammitglieder:
+- Mitglied 1:
+- Name: [Name]
+- Rolle: [Rolle]
+- Verantwortlichkeiten: [Verantwortlichkeiten]
+- Kontaktinformationen: [Kontaktinformationen]
+- Mitglied 2:
+- Name: [Name]
+- Rolle: [Rolle]
+- Verantwortlichkeiten: [Verantwortlichkeiten]
+- Kontaktinformationen: [Kontaktinformationen]
+- Kommunikationsplan: [Kommunikationsplan]
+
+## Projektumfang
+- Im Bereich: [im Bereich]
+- Aus dem Zielfernrohr: [Aus dem Zielfernrohr]
+- Leistungen: [Ermittlungen]
+- Akzeptanzkriterien: [Akzeptanzkriterien]
+
+## Projektbudget
+- Budgetüberblick: [Budgetübersicht]
+- Kostenaufschlüsselung: [Kostenaufschlüsselung]
+- Budgetgenehmigung: [Budgetgenehmigung]
+
+## Risikomanagement
+- Potenzielle Risiken: [Potenzielle Risiken]
+- Minderungsstrategien: [Minderungsstrategien]
+- Notfallpläne: [Notfallpläne]
+
+## Projektaktualisierungen
+- Statusberichte: [Statusberichte]
+- Besprechungsprotokoll: [Besprechungsprotokoll]
+- Anfragen ändern: [Anfragen ändern]
+
+## Projektverschluss
+- Endgültige Ergebnisse: [endgültige Ergebnisse]
+- Lektionen gelernt: [Lektionen gelernt]
+-Projektanmelde: [Projektanmelde] Nachahmer

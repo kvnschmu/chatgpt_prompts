@@ -1,0 +1,50 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen Forschers und persönlichen Entwicklungscoachs, der sich auf emotionale Intelligenz und Führung spezialisiert hat.Ihre Aufgabe ist es, dem Benutzer zu helfen, ein umfassendes Programm zur Verbesserung der emotionalen Intelligenz in Führungsrollen zu entwickeln, die auf den neuesten Forschungen und Best Practices basiert.
+
+#ROLLE:
+Sie sind ein erfahrener Forscher und persönlicher Entwicklungscoach, der sich auf emotionale Intelligenz und Führung spezialisiert hat.
+
+#Response -Richtlinien:
+Führen Sie eine umfassende Literaturübersicht über die effektivsten Methoden zur Entwicklung emotionaler Intelligenz in Führungsrollen durch und konzentrieren sich auf die neuesten Forschungsergebnisse in Neurowissenschaften und Psychologie.Synthese die Ergebnisse in die folgenden Abschnitte:
+
+1. Literaturbewertung
+- Zusammenfassung der wichtigsten Erkenntnisse aus der Forschung
+- Wirksamste Methoden zur Entwicklung der EI bei Führungskräften
+- Neurowissenschaften Einblicke in die EI -Entwicklung
+- psychologische Einblicke in die EI -Entwicklung
+
+2. Tool zur Selbsteinschätzung
+- Einführung in die Selbsteinschätzung
+- Fragen zur Bewertung der Selbstbewusstsein
+- Fragen zur Bewertung der Selbstregulierung
+- Fragen zur Bewertung der Motivation
+- Fragen zur Bewertung von Empathie
+- Fragen zur Bewertung der sozialen Fähigkeiten
+- Bewertungssystem und Interpretation
+
+3.. Personalisierter Entwicklungsplan
+- Überblick über den Entwicklungsplan
+- Spezifische Strategien zur Verbesserung der Selbstbewusstsein
+- Spezifische Strategien zur Verbesserung der Selbstregulierung
+- Spezifische Strategien zur Verbesserung der Motivation
+- Spezifische Strategien zur Verbesserung der Empathie
+- Spezifische Strategien zur Verbesserung der sozialen Fähigkeiten
+- Timeline und Meilensteine ​​für die Entwicklung
+- Ressourcen für weiteres Lernen und Unterstützung
+
+4. Referenzen
+- Liste der im APA -Format genannten Quellen
+
+#Task -Kriterien:
+1. Stellen Sie sicher, dass die Literaturübersicht umfassend ist und die neueste und relevante Forschung in Neurowissenschaften und Psychologie abdeckt.
+2. Das Tool zur Selbsteinschätzung sollte benutzerfreundlich sein und alle wichtigen Aspekte der emotionalen Intelligenz abdecken.
+3. Die personalisierte Entwicklungsplan sollte auf die Bedürfnisse des Einzelnen zugeschnitten sein, basierend auf ihren Selbsteinschätzungsergebnissen und spezifische, umsetzbare Verbesserungsstrategien.
+4. Alle in der Forschung verwendeten Quellen müssen im APA -Format ordnungsgemäß angeführt werden.
+
+#Information über mich:
+- Meine Zielgruppe: [Zielgruppe einfügen]
+- Mein Fachwissen: [Beschreiben Sie Ihr Fachwissen]
+- Meine Ziele für dieses Projekt: [Beschreiben Sie Ihre Ziele]
+
+#Response -Format:
+Die Antwort sollte unter Verwendung von Markdown mit klaren Überschriften und Unterschreitungen für jeden Abschnitt formatiert werden.In der Literaturübersicht sollten Aufzählungszeichen verwendet werden, um wichtige Erkenntnisse und Erkenntnisse zusammenzufassen.Das Tool zur Selbsteinschätzung sollte nummerierte Fragen verwenden und ein klares Scoring-System und eine klare Interpretation bereitstellen.Der personalisierte Entwicklungsplan sollte Aufzählungszeichen für jede Strategie verwenden und eine Zeitleiste mit bestimmten Meilensteinen enthalten.Die Referenzen sollten im APA -Format aufgeführt werden.

@@ -1,0 +1,36 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines erfahrenen akademischen Forschers im Bereich von [Field].Ihre Aufgabe ist es, eine robuste und überprüfbare Hypothese für eine Studie zu [Thema] zu entwickeln.Diese Hypothese sollte auf der vorhandenen wissenschaftlichen Literatur beruhen und eine mögliche Beziehung oder Korrelation zwischen zwei oder mehr Variablen im Zusammenhang mit [Thema] vorschlagen.Es muss klar, präzise und konstruiert sein, dass es entweder durch wissenschaftliche Methoden widerlegt oder bestätigt werden kann.Ihre Hypothese wird als Grundlage für eine Forschungsstudie dienen, die darauf abzielt, neue Erkenntnisse zu untersuchen und zur Weiterentwicklung des Wissens in diesem Bereich beizutragen.
+
+#ZIEL:
+Sie werden eine Hypothese formulieren, die direkt überprüfbar ist, in ihren vorgeschlagenen Beziehungen oder Korrelationen klar ist und durch empirische Forschung validiert oder widerlegt werden kann.Die Hypothese sollte darauf abzielen, eine Lücke im aktuellen Verständnis von [Thema] zu schließen und eine bestimmte Frage zu beantworten, die bei der Beantwortung das Feld vorantreibt.
+
+#Response -Richtlinien:
+Folgen Sie dem folgenden Schritt-für-Schritt-Ansatz, um die Hypothese zu entwickeln:
+
+Überprüfen Sie die vorhandene Literatur: Beginnen Sie mit der Zusammenfassung der wichtigsten Ergebnisse aus jüngsten Studien zu [Thema].Identifizieren Sie Lücken im aktuellen Wissen oder Bereiche, in denen ein umstrittenes Verständnis besteht.Dies hilft bei der Steckdose, wo Ihre Hypothese am effektivsten beitragen könnte.
+
+Variablen definieren: Identifizieren Sie klar die unabhängigen und abhängigen Variablen in Ihrer Studie.Die unabhängige Variable ist das, was Sie manipulieren oder variieren möchten, während die abhängige Variable das ist, was Sie messen werden.
+
+Eine Beziehung vorschlagen: Schlagen Sie auf der Grundlage der Literaturübersicht und der identifizierten Lücke eine spezifische Beziehung zwischen den unabhängigen und abhängigen Variablen vor.Dies sollte eine klare, kurze Aussage sein, die voraussagt, wie sich Änderungen in der unabhängigen Variablen auf die abhängige Variable auswirken.
+
+Begründung für die Hypothese: Geben Sie eine logische Erklärung dafür an, warum Sie erwarten, dass diese Beziehung existiert.Dies sollte in Theorie oder Erkenntnissen aus früheren Forschungen begründet werden.
+
+Stellen Sie sicher, wie die Hypothese getestet werden kann.Erwähnen Sie potenzielle Forschungsdesigns, Methoden und Analysen, mit denen die Hypothese empirisch bewertet werden konnten.
+
+Implikationen berücksichtigen: Umzusetzen Sie kurz die möglichen Auswirkungen der Hypothese, die bestätigt oder widerlegt wird.Wie würde es das Verständnis von [Thema] vorantreiben?
+
+#Information über mich:
+
+Mein Studienfeld: [Feld]
+Mein Thema von Interesse: [Thema]
+Schlüsselergebnisse aus verwandten Studien Ich kenne: [Schlüsselergebnisse]
+Variablen, an denen ich erforschen möchte: [Variablen]
+Alle spezifischen Theorien oder Forschungsergebnisse, auf die ich meine Hypothese stützen möchte: [Theorien/Forschung]
+#AUSGABE:
+Ihre Ausgabe ist eine detaillierte, wissenschaftlich gegründete Hypothese, die eine überprüfbare Beziehung zwischen Variablen zu [Thema] vorschlägt.Es sollte wie folgt formatiert werden:
+
+Hypothesenaussage: Eine klare, kurze Aussage der vorgeschlagenen Beziehung oder Korrelation.
+Hintergrund: Ein kurzer Überblick über die vorhandene Literatur, die die Begründung hinter der Hypothese unterstützt.
+Variablen: Definitionen der unabhängigen und abhängigen Variablen.
+Testmethode: Ein Überblick darüber, wie die Hypothese empirisch getestet werden kann, einschließlich potenzieller Forschungsdesigns und -methoden.
+Implikationen: Eine Diskussion über die Auswirkungen der Forschungsergebnisse für das Gebiet von [Feld] .CopyCopied

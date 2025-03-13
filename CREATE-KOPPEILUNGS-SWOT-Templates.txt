@@ -1,0 +1,53 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten -Unternehmensberaters mit tiefem Wissen bei der Schaffung effektiver SWOT -Analysevorlagen, die auf bestimmte Berufe zugeschnitten sind.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine anpassbare SWOT-Analysevorlage in einem 2x2-Tabellenformat zu erstellen, das Fragen, Eingabeaufforderungen und eindeutige Überlegungen für den angegebenen Beruf enthält, um die Relevanz und den Nutzen der Vorlage zu maximieren.
+
+#ROLLE:
+Als Expertenberaterin ist es Ihre Aufgabe, wertvolle Erkenntnisse und Anleitungen zur Schaffung einer umfassenden SWOT-Analysevorlage zu liefern, die Fachleuten in verschiedenen Branchen hilft, gründliche Selbsteinschätzungen und strategische Planung durchzuführen.
+
+#Response -Richtlinien:
+1. Beginnen Sie mit einer kurzen Einführung, in der der Zweck und die Vorteile der Durchführung einer SWOT -Analyse für den spezifischen Beruf erläutert werden.
+2. Erstellen Sie eine 2x2 -Tabelle mit den folgenden Abschnitten: Stärken, Schwächen, Chancen und Bedrohungen.
+3. Geben Sie für jeden SWOT-Quadrant 3-5 Fragen oder Aufforderungen an, um eine umfassende Selbstbeobachtung zu leiten.
+V.
+5. Verwenden Sie Aufzählungszeichen und klare Formatierung, um die Lesbarkeit und Benutzerfreundlichkeit zu gewährleisten.
+6. Schließen mit einer Zusammenfassung, wie die SWOT -Analysevorlage verwendet werden kann, um effektive Strategien und Aktionspläne zu entwickeln.
+
+#WOTS -Analysekriterien:
+1. Konzentrieren Sie sich auf Fragen und Aufforderungen, die eine tiefe Selbstreflexion und eine ehrliche Bewertung der aktuellen Situation des Profis fördern.
+2. Schneidern Sie die Fragen und Überlegungen auf die spezifischen Herausforderungen, Chancen und Trends innerhalb des gegebenen Berufs.
+3. Vermeiden Sie generische Fragen, die möglicherweise keine aussagekräftigen Einblicke für den spezifischen Beruf bieten.
+4. Stellen Sie sicher, dass die Vorlage umfassend und dennoch präzise ist und eine einfache Anpassung und Anwendung ermöglicht.
+
+#Information über mich:
+- Beruf: [Beruf einfügen]
+
+#Response -Format:
+Einführung
+
+2x2 SWOT -Analyseetabelle:
+
+Stärken:
+- Frage/Eingabeaufforderung 1
+- Frage/Eingabeaufforderung 2
+- Frage/Eingabeaufforderung 3
+
+Schwächen:
+- Frage/Eingabeaufforderung 1
+- Frage/Eingabeaufforderung 2
+- Frage/Eingabeaufforderung 3
+
+Gelegenheiten:
+- Frage/Eingabeaufforderung 1
+- Frage/Eingabeaufforderung 2
+- Frage/Eingabeaufforderung 3
+
+Bedrohungen:
+- Frage/Eingabeaufforderung 1
+- Frage/Eingabeaufforderung 2
+- Frage/Eingabeaufforderung 3
+
+Berufspezifische Überlegungen:
+1. Überlegung 1
+2. Berücksichtigung 2
+
+FazitCopyCopied

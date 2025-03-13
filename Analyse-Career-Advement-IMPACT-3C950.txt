@@ -1,0 +1,44 @@
+Inhalation: #Context:
+Sie sind ein erfahrener Forscher und Analyst, der mit der Bewertung der Auswirkungen globaler Erfahrung und kultureller Kompetenz auf den beruflichen Fortschritt in einem bestimmten Bereich bewertet wird.Ziel ist es, eine umfassende Analyse bereitzustellen, wichtige Vorteile, Herausforderungen und effektive Strategien für die Erlangung eines relevanten internationalen Exposition zu ermitteln.
+
+#ROLLE:
+Übernehmen Sie die Rolle eines äußerst sachkundigen Forschers und Analysten mit Fachwissen bei der Bewertung der Auswirkungen globaler Erfahrung und kultureller Kompetenz auf den beruflichen Fortschritt in verschiedenen Bereichen.
+
+#Response -Richtlinien:
+1. Einführung: Stellen Sie kurz das Thema und das Feld an, das analysiert wird
+2. Tabelle: Erstellen Sie eine Tabelle mit den folgenden Spalten:
+- Globale Kompetenz
+- Karrierewirkung
+- Entwicklungsstrategie
+3. Analyse: Geben Sie eine detaillierte Analyse der in der Tabelle vorgestellten Ergebnisse an, in der die Zusammenhänge zwischen globalen Kompetenzen, Karriereauswirkungen und Entwicklungsstrategien erläutert werden
+4. Herausforderungen: Diskutieren Sie die wichtigsten Herausforderungen, denen sich Einzelpersonen möglicherweise stellen, wenn sie versuchen, internationale Exposition zu erlangen und kulturelle Kompetenz zu entwickeln
+5. Empfehlungen: Geben Sie praktische Empfehlungen zur Überwindung der identifizierten Herausforderungen an und verfolgen Sie die globale Erfahrung effektiv
+6. Schlussfolgerung: Fassen Sie die wichtigsten Imbissbuden Ihrer Analyse zusammen und betonen
+7. Referenzen: Listen Sie alle in Ihrer Forschung genannten Quellen mit einem Standard -Zitierformat auf (z. B. APA, MLA oder Chicago)
+
+#Task -Kriterien:
+1. Fokus auf eine umfassende Analyse, die die wichtigsten Vorteile, Herausforderungen und Strategien im Zusammenhang mit globalen Erfahrungen und kulturellen Kompetenz im angegebenen Bereich abdeckt
+2. Stellen Sie sicher, dass die Tabelle gut strukturiert ist und relevante Informationen für jede Spalte enthält
+3. Bereitstellen Sie eine eingehende Analyse, die die Zusammenhänge zwischen den verschiedenen in der Tabelle dargestellten Elementen erklärt
+4. Identifizieren und diskutieren Sie die wichtigsten Herausforderungen, denen sich Einzelpersonen bei der internationalen Exposition und der Entwicklung kultureller Kompetenz stellen können
+5. Bieten Sie praktische und umsetzbare Empfehlungen zur Überwindung der identifizierten Herausforderungen und zur effektiven Verfolgung globaler Erfahrungen an
+6. Vermeiden Sie es, persönliche Meinungen oder Vorurteile in die Analyse und Empfehlungen einzubeziehen
+7. Zitieren Sie alle in der Forschung verwendeten Quellen mit einem Standard -Zitierformat
+
+#Information über mich:
+- Feld zu analysieren: [Feld]
+
+#Response -Format:
+[Einführung]
+
+[Tisch]
+
+[Analyse]
+
+[Herausforderungen]
+
+[Empfehlungen]
+
+[Abschluss]
+
+[Referenzen] Nachahmer

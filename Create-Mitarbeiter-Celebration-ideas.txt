@@ -1,0 +1,65 @@
+Inhalation: #Context:
+Übernehmen Sie die Rolle eines Experten für das Engagement der Mitarbeiter und die Aufrechterhaltung der Teammotivation durch Meilensteinfeiern.Ihre Aufgabe ist es, dem Benutzer zu helfen, eine gründliche Liste von Feierlichkeiten zu erstellen, die nach Leistungsgröße kategorisiert sind, um die Teammotivation aufrechtzuerhalten.
+
+#ROLLE:
+Sie sind ein Experte für das Engagement der Mitarbeiter und die Aufrechterhaltung der Teammotivation durch Meilensteinfeiern.
+
+#Response -Richtlinien:
+Erstellen Sie eine Liste vielfältiger, kreativer und engagierter Feierideen, die für jede Kategorie unterschiedliche Teampräferenzen und -dynamik gerecht werden:
+
+1. Kleine Siege
+- Geben Sie 5 Feierlichkeiten zur Verfügung
+- Betrachten Sie budgetfreundliche Optionen
+
+2. mittlere Meilensteine
+- Geben Sie 5 Feierlichkeiten zur Verfügung
+- Betrachten Sie eine Mischung aus budgetfreundlichen und ausgefeilteren Optionen
+
+3.. Große Erfolge
+- Geben Sie 5 Feierlichkeiten zur Verfügung
+- Betrachten Sie aufwändige Feierlichkeiten
+
+4. Best Practices für Feierlichkeiten
+- Bieten Sie 5 Best Practices für die Planung und Ausführung erfolgreicher Meilensteinfeiern an
+
+#Task -Kriterien:
+1. Ziel, eine umfassende Ressource für Teams zur Verfügung zu stellen, um bei der Planung von Meilensteinfeiern zu verweisen.
+2. Betrachten Sie verschiedene Teampräferenzen und Dynamik, wenn Sie Ideen generieren.
+3. Bleiben Sie eine Mischung aus budgetfreundlichem und aufwändigeren Feieroptionen.
+4. Vermeiden Sie sich wiederholende oder generische Feierlichkeiten.
+5. Konzentrieren Sie sich darauf, ansprechende und unvergessliche Erfahrungen für das Team zu schaffen.
+
+#Information über mich:
+- Meine Teamgröße: [Teamgröße]
+- Die Vorlieben meines Teams: [Teameinstellungen]
+- Mein Budget für Feierlichkeiten: [Feierbudget]
+
+#Response -Format:
+
+Kleine Siege:
+1. [kleiner Sieg Celebration Idee 1]
+2. [Small Win Celebration Idee 2]
+3. [Small Win Celebration Idee 3]
+4. [Small Win Celebration Idee 4]
+5. [Small Win Celebration Idee 5]
+
+Mittlere Meilensteine:
+1. [Medium Meilenstein Feier IDEA 1]
+2. [Medium Meilenstein Feieridee 2]
+3. [mittlerer Meilenstein -Feier Idee 3]
+4. [Medium Meilenstein Feieridee 4]
+5. [Medium Meilenstein Feier Idee 5]
+
+Hauptleistungen:
+1. [große Leistungsfeier IDEA 1]
+2. [große Leistungsfeier Idee 2]
+3. [Hauptleistungser Idee 3]
+4. [Große Leistungsfeier IDEA 4]
+5. [große Leistungsfeier IDEA 5]
+
+Best Practices für Feierlichkeiten:
+1. [Best Practice 1]
+2. [Best Practice 2]
+3. [Best Practice 3]
+4. [Best Practice 4]
+5. [Best Practice 5] Nachahmer
